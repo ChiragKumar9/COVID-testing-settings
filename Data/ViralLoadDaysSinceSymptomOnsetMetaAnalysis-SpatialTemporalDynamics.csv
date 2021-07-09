@@ -1,0 +1,650 @@
+Author,Disease,Swab,Day,Viral_load_log10
+Zou,Severe,URT,5,8.12
+Zou,Severe,URT,6,7.94
+Zou,Mild,URT,4,7.34
+Zou,Mild,URT,2,7.29
+Zou,Mild,URT,5,6.94
+Zou,Severe,URT,10,6.63
+Zou,Mild,URT,5,6.36
+Zou,Mild,URT,7,6.07
+Zou,Severe,URT,12,5.7
+Zou,Mild,URT,5,5.69
+Zou,Mild,URT,0,5.66
+Zou,Mild,URT,8,5.44
+Zou,Mild,URT,1,5.37
+Zou,Mild,URT,1,5.2
+Zou,Mild,URT,3,5.04
+Zou,Mild,URT,7,4.71
+Zou,Mild,URT,8,4.68
+Zou,Severe,URT,11,4.63
+Zou,Severe,URT,10,4.45
+Zou,Mild,URT,7,4.45
+Zou,Mild,URT,8,4.42
+Zou,Mild,URT,4,4.41
+Zou,Mild,URT,5,4.38
+Zou,Mild,URT,6,4.38
+Zou,Mild,URT,7,4.38
+Zou,Severe,URT,10,4.31
+Zou,Severe,URT,13,4.14
+Zou,Mild,URT,0,4.11
+Zou,Severe,URT,6,4.1
+Zou,Mild,URT,8,4.08
+Zou,Mild,URT,0,4.04
+Zou,Mild,URT,6,4.03
+Zou,Severe,URT,14,4
+Zou,Mild,URT,7,3.4
+Zou,Mild,URT,5,3.3
+Zou,Mild,URT,7,3.22
+Zou,Mild,URT,11,3.16
+Zou,Mild,URT,7,3.13
+Zou,Severe,URT,13,3.07
+Zou,Mild,URT,13,3.05
+Zou,Mild,URT,3,2.83
+Zou,Mild,URT,1,2.76
+Zou,Mild,URT,4,2.76
+Zou,Severe,URT,12,2.7
+Zou,Mild,URT,5,2.45
+Zou,Mild,URT,4,2.42
+Zou,Mild,URT,5,2.42
+Zou,Mild,URT,4,2.4
+Zou,Severe,URT,14,2.4
+Zou,Mild,URT,8,2.27
+Zou,Severe,URT,12,2.14
+Zou,Mild,URT,7,2.13
+Zou,Mild,URT,15,2.12
+Zou,Mild,URT,15,2.1
+Zou,Mild,URT,4,2.1
+Zou,Severe,URT,11,1.84
+Zou,Mild,URT,17,1.79
+Zou,Mild,URT,4,1.78
+Zou,Mild,URT,21,1.78
+Zou,Mild,URT,9,1.78
+Zou,Mild,URT,3,1.77
+Zou,Mild,URT,9,1.6
+Zou,Mild,URT,12,1.18
+Zou,Mild,URT,7,1.18
+Zou,Severe,URT,10,1.18
+Zou,Severe,URT,13,1.18
+Zou,Mild,URT,17,1.18
+Zou,Mild,URT,18,1.18
+Zou,Mild,URT,20,1.18
+Zou,Mild,URT,5,1.1760913
+Zou,Mild,URT,8,1.1760913
+Zou,Severe,URT,6,1.1760913
+Zou,Severe,URT,7,1.1760913
+Zou,Severe,URT,8,1.1760913
+Zou,Mild,URT,8,1.1760913
+Zou,Mild,URT,13,1.1760913
+Zou,Mild,URT,3,1.1760913
+Zou,Mild,URT,4,1.1760913
+Zou,Mild,URT,6,1.1760913
+Zou,Mild,URT,7,1.1760913
+Zou,Mild,URT,9,1.1760913
+Zou,Mild,URT,10,1.1760913
+Zou,Mild,URT,12,1.1760913
+Zou,Mild,URT,14,1.1760913
+Zou,Mild,URT,15,1.1760913
+Zou,Mild,URT,10,1.1760913
+Zou,Mild,URT,11,1.1760913
+Zou,Mild,URT,15,1.1760913
+Zou,Mild,URT,16,1.1760913
+Zou,Mild,URT,7,1.1760913
+Zou,Mild,URT,18,1.1760913
+Zou,Mild,URT,21,1.1760913
+Zou,Mild,URT,6,1.1760913
+Zou,Mild,URT,9,1.1760913
+Zou,Mild,URT,11,1.1760913
+Zou,Mild,URT,12,1.1760913
+Zou,Mild,URT,9,1.1760913
+Zou,Severe,URT,7,1.1760913
+Zou,Severe,URT,8,1.1760913
+Zou,Mild,URT,8,1.1760913
+Zou,Mild,URT,3,1.1760913
+Zou,Mild,URT,6,1.1760913
+Zou,Mild,URT,8,1.1760913
+Zou,Mild,URT,12,1.1760913
+Zou,Mild,URT,14,1.1760913
+Zou,Mild,URT,15,1.1760913
+Zou,Mild,URT,6,1.1760913
+Zou,Severe,URT,6,1.1760913
+Zou,Severe,URT,10,1
+Zou,Mild,URT,16,1
+Zheng,Mild,LRT,1,4.75
+Zheng,Mild,LRT,2,4.46
+Zheng,Mild,LRT,3,5.91
+Zheng,Severe,LRT,4,5.3
+Zheng,Severe,LRT,5,4.38
+Zheng,Mild,LRT,5,3.97
+Zheng,Mild,LRT,6,5.97
+Zheng,Severe,LRT,6,5.91
+Zheng,Mild,LRT,7,5.88
+Zheng,Severe,LRT,7,4.9
+Zheng,Severe,LRT,8,5.8
+Zheng,Mild,LRT,8,4.9
+Zheng,Severe,LRT,9,6.17
+Zheng,Mild,LRT,9,5.42
+Zheng,Severe,LRT,10,6.26
+Zheng,Mild,LRT,10,5.3
+Zheng,Mild,LRT,11,7.3
+Zheng,Severe,LRT,11,5.51
+Zheng,Severe,LRT,12,5.8
+Zheng,Mild,LRT,12,4.09
+Zheng,Severe,LRT,13,6
+Zheng,Mild,LRT,13,4.09
+Zheng,Mild,LRT,14,6.26
+Zheng,Severe,LRT,14,6.03
+Zheng,Severe,LRT,15,5.51
+Zheng,Mild,LRT,15,4.9
+Zheng,Severe,LRT,16,5.3
+Zheng,Mild,LRT,16,4.12
+Zheng,Mild,LRT,17,6.02
+Zheng,Severe,LRT,17,5.65
+Zheng,Severe,LRT,18,5.5
+Zheng,Mild,LRT,18,4.5
+Zheng,Severe,LRT,19,6
+Zheng,Mild,LRT,19,3.65
+Zheng,Severe,LRT,20,6.26
+Zheng,Mild,LRT,20,5.4
+Zheng,Mild,LRT,21,4.06
+Zheng,Severe,LRT,22,5.62
+Zheng,Severe,LRT,23,6.05
+Zheng,Severe,LRT,24,5.83
+Zheng,Mild,LRT,24,5.22
+Zheng,Severe,LRT,25,5.97
+Zheng,Mild,LRT,25,4
+Zheng,Severe,LRT,26,5.88
+Zheng,Severe,LRT,27,5.73
+Zheng,Severe,LRT,28,4.9
+Woelfel,Mild,Faeces,9,7.55
+Woelfel,Mild,Faeces,8,7.27
+Woelfel,Mild,Faeces,9,7.1
+Woelfel,Mild,Faeces,8,6.91
+Woelfel,Mild,Faeces,9,6.7
+Woelfel,Mild,Faeces,10,6.69
+Woelfel,Mild,Faeces,8,6.55
+Woelfel,Mild,Faeces,6,6.15
+Woelfel,Mild,Faeces,7,6.08
+Woelfel,Mild,Faeces,7,6.03
+Woelfel,Mild,Faeces,6,5.83
+Woelfel,Mild,Faeces,12,5.82
+Woelfel,Mild,Faeces,10,5.6
+Woelfel,Mild,Faeces,11,5.2
+Woelfel,Mild,Faeces,12,5.1
+Woelfel,Mild,Faeces,14,5
+Woelfel,Mild,Faeces,13,4.89
+Woelfel,Mild,Faeces,17,4.88
+Woelfel,Mild,Faeces,14,4.88
+Woelfel,Mild,URT,20,NA
+Woelfel,Mild,LRT,20,NA
+Woelfel,Mild,Faeces,3,NA
+Woelfel,Mild,Faeces,4,NA
+Woelfel,Mild,Faeces,5,NA
+Woelfel,Mild,Faeces,20,NA
+Woelfel,Mild,Faeces,4,NA
+Woelfel,Mild,Faeces,5,NA
+Woelfel,Mild,Faeces,20,NA
+Woelfel,Mild,Faeces,21,NA
+Woelfel,Mild,Faeces,22,NA
+Woelfel,Mild,Faeces,4,NA
+Woelfel,Mild,Faeces,5,NA
+Woelfel,Mild,Faeces,6,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,Faeces,,NA
+Woelfel,Mild,URT,4,8.82
+Woelfel,Mild,LRT,4,6.122
+Woelfel,Mild,LRT,5,8.37
+Woelfel,Mild,LRT,4,8.32
+Woelfel,Mild,LRT,11,8.06
+Woelfel,Mild,LRT,6,7.93
+Woelfel,Mild,URT,10,7.8
+Woelfel,Mild,URT,3,7.7
+Woelfel,Mild,LRT,6,8.43
+Woelfel,Mild,URT,4,7.55
+Woelfel,Mild,Faeces,16,4.87
+Woelfel,Mild,LRT,7,7.45
+Woelfel,Mild,LRT,7,7.43
+Woelfel,Mild,LRT,10,7.38
+Woelfel,Mild,LRT,6,7.33
+Woelfel,Mild,LRT,11,7.29
+Woelfel,Mild,Faeces,8,4.79
+Woelfel,Mild,LRT,4,7.1
+Woelfel,Mild,Faeces,9,4.79
+Woelfel,Mild,LRT,10,7.08
+Woelfel,Mild,LRT,7,7.69
+Woelfel,Mild,LRT,5,7.06
+Woelfel,Mild,LRT,8,7.05
+Woelfel,Mild,LRT,5,6.95
+Woelfel,Mild,LRT,8,6.94
+Woelfel,Mild,Faeces,10,4.78
+Woelfel,Mild,LRT,4,6.9
+Woelfel,Mild,LRT,7,6.77
+Woelfel,Mild,LRT,9,6.7
+Woelfel,Mild,Faeces,3,4.76
+Woelfel,Mild,URT,4,6.55
+Woelfel,Mild,LRT,6,6.53
+Woelfel,Mild,LRT,7,6.48
+Woelfel,Mild,LRT,9,6.48
+Woelfel,Mild,LRT,2,6.46
+Woelfel,Mild,LRT,5,6.45
+Woelfel,Mild,LRT,4,6.41
+Woelfel,Mild,URT,4,6.27
+Woelfel,Mild,LRT,9,6.18
+Woelfel,Mild,URT,4,6.16
+Woelfel,Mild,Faeces,11,4.69
+Woelfel,Mild,LRT,8,7.07
+Woelfel,Mild,Faeces,12,4.69
+Woelfel,Mild,Faeces,6,4.61
+Woelfel,Mild,LRT,6,6
+Woelfel,Mild,LRT,10,5.95
+Woelfel,Mild,LRT,5,5.93
+Woelfel,Mild,LRT,9,5.88
+Woelfel,Mild,URT,4,5.86
+Woelfel,Mild,LRT,13,5.84
+Woelfel,Mild,LRT,7,5.83
+Woelfel,Mild,LRT,11,5.82
+Woelfel,Mild,LRT,8,5.82
+Woelfel,Mild,Faeces,18,4.5
+Woelfel,Mild,LRT,19,5.65
+Woelfel,Mild,URT,5,5.63
+Woelfel,Mild,LRT,4,5.63
+Woelfel,Mild,URT,11,5.58
+Woelfel,Mild,LRT,9,5.17
+Woelfel,Mild,LRT,8,5.44
+Woelfel,Mild,URT,6,5.42
+Woelfel,Mild,LRT,9,5.4
+Woelfel,Mild,URT,5,5.38
+Woelfel,Mild,URT,5,5.36
+Woelfel,Mild,LRT,10,5.58
+Woelfel,Mild,URT,4,5.22
+Woelfel,Mild,LRT,12,5.21
+Woelfel,Mild,LRT,13,5.21
+Woelfel,Mild,Faeces,4,4.49
+Woelfel,Mild,LRT,11,4.42
+Woelfel,Mild,LRT,9,5.17
+Woelfel,Mild,LRT,8,5.16
+Woelfel,Mild,URT,5,5.1
+Woelfel,Mild,LRT,8,5.1
+Woelfel,Mild,Faeces,13,4.44
+Woelfel,Mild,URT,3,5.09
+Woelfel,Mild,LRT,10,5.08
+Woelfel,Mild,LRT,10,5.08
+Woelfel,Mild,Faeces,11,4.41
+Woelfel,Mild,URT,5,4.98
+Woelfel,Mild,LRT,7,4.96
+Woelfel,Mild,URT,8,4.93
+Woelfel,Mild,URT,7,4.93
+Woelfel,Mild,Faeces,18,4.33
+Woelfel,Mild,Faeces,15,4.25
+Woelfel,Mild,Faeces,12,4.22
+Woelfel,Mild,LRT,15,4.83
+Woelfel,Mild,LRT,4,4.81
+Woelfel,Mild,URT,6,4.8
+Woelfel,Mild,URT,6,4.8
+Woelfel,Mild,LRT,5,4.79
+Woelfel,Mild,Faeces,13,4.22
+Woelfel,Mild,Faeces,12,4.2
+Woelfel,Mild,Faeces,10,4.18
+Woelfel,Mild,LRT,13,4.78
+Woelfel,Mild,LRT,9,4.76
+Woelfel,Mild,Faeces,11,4.17
+Woelfel,Mild,LRT,14,4.72
+Woelfel,Mild,Faeces,9,4.12
+Woelfel,Mild,LRT,18,4.68
+Woelfel,Mild,LRT,12,4.66
+Woelfel,Mild,LRT,8,4.62
+Woelfel,Mild,LRT,12,4.54
+Woelfel,Mild,LRT,15,4.51
+Woelfel,Mild,Faeces,7,4
+Woelfel,Mild,URT,6,4.49
+Woelfel,Mild,LRT,10,4.48
+Woelfel,Mild,LRT,18,4.44
+Woelfel,Mild,Faeces,13,3.89
+Woelfel,Mild,LRT,14,4.43
+Woelfel,Mild,LRT,12,4.15
+Woelfel,Mild,Faeces,6,3.87
+Woelfel,Mild,Faeces,8,3.85
+Woelfel,Mild,LRT,11,4.32
+Woelfel,Mild,LRT,18,4.32
+Woelfel,Mild,LRT,3,4.28
+Woelfel,Mild,URT,5,4.27
+Woelfel,Mild,LRT,17,4.26
+Woelfel,Mild,Faeces,16,3.84
+Woelfel,Mild,Faeces,17,3.83
+Woelfel,Mild,Faeces,14,3.82
+Woelfel,Mild,URT,2,4.21
+Woelfel,Mild,Faeces,8,3.8
+Woelfel,Mild,Faeces,15,3.79
+Woelfel,Mild,LRT,12,4.17
+Woelfel,Mild,LRT,16,4.16
+Woelfel,Mild,LRT,17,4.16
+Woelfel,Mild,LRT,14,3.2
+Woelfel,Mild,LRT,13,2.99
+Woelfel,Mild,URT,6,4.14
+Woelfel,Mild,URT,7,4.13
+Woelfel,Mild,Faeces,11,3.77
+Woelfel,Mild,URT,7,4.1
+Woelfel,Mild,LRT,15,3.4
+Woelfel,Mild,LRT,5,4.05
+Woelfel,Mild,URT,13,4.04
+Woelfel,Mild,LRT,13,4.03
+Woelfel,Mild,LRT,15,4.03
+Woelfel,Mild,LRT,3,4.02
+Woelfel,Mild,URT,15,4.02
+Woelfel,Mild,URT,5,4.01
+Woelfel,Mild,LRT,17,4
+Woelfel,Mild,Faeces,10,3.75
+Woelfel,Mild,LRT,17,3.91
+Woelfel,Mild,LRT,14,3.89
+Woelfel,Mild,URT,6,3.85
+Woelfel,Mild,Faeces,13,3.66
+Woelfel,Mild,Faeces,14,3.66
+Woelfel,Mild,Faeces,15,3.63
+Woelfel,Mild,LRT,6,3.82
+Woelfel,Mild,Faeces,19,3.62
+Woelfel,Mild,LRT,19,3.8
+Woelfel,Mild,Faeces,18,3.58
+Woelfel,Mild,Faeces,21,3.47
+Woelfel,Mild,LRT,16,3.74
+Woelfel,Mild,LRT,17,5.23
+Woelfel,Mild,URT,8,3.72
+Woelfel,Mild,URT,8,3.67
+Woelfel,Mild,URT,7,3.66
+Woelfel,Mild,Faeces,10,3.42
+Woelfel,Mild,LRT,6,3.64
+Woelfel,Mild,URT,12,3.64
+Woelfel,Mild,Faeces,20,3.38
+Woelfel,Mild,URT,7,3.59
+Woelfel,Mild,LRT,12,3.54
+Woelfel,Mild,LRT,18,4.08
+Woelfel,Mild,URT,9,3.53
+Woelfel,Mild,LRT,18,3.52
+Woelfel,Mild,LRT,16,3.51
+Woelfel,Mild,LRT,16,3.5
+Woelfel,Mild,LRT,14,3.49
+Woelfel,Mild,LRT,15,3.49
+Woelfel,Mild,URT,8,3.47
+Woelfel,Mild,URT,9,3.46
+Woelfel,Mild,LRT,19,3.54
+Woelfel,Mild,LRT,20,3.06
+Woelfel,Mild,Faeces,11,3.19
+Woelfel,Mild,URT,14,3.34
+Woelfel,Mild,LRT,6,3.3
+Woelfel,Mild,URT,9,3.27
+Woelfel,Mild,LRT,22,3.24
+Woelfel,Mild,LRT,11,3.2
+Woelfel,Mild,LRT,14,3.2
+Woelfel,Mild,Faeces,15,3.19
+Woelfel,Mild,Faeces,19,3.03
+Woelfel,Mild,URT,14,3.13
+Woelfel,Mild,LRT,16,3.125
+Woelfel,Mild,LRT,21,3.74
+Woelfel,Mild,URT,9,3.03
+Woelfel,Mild,LRT,13,3.03
+Woelfel,Mild,Faeces,16,3.03
+Woelfel,Mild,LRT,22,3.4
+Woelfel,Mild,URT,10,2.99
+Woelfel,Mild,URT,8,2.99
+Woelfel,Mild,Faeces,12,2.92
+Woelfel,Mild,LRT,20,2.91
+Woelfel,Mild,URT,6,2.9
+Woelfel,Mild,LRT,8,2.88
+Woelfel,Mild,Faeces,16,2.85
+Woelfel,Mild,Faeces,7,2.78
+Woelfel,Mild,URT,17,2.76
+Woelfel,Mild,Faeces,18,2.76
+Woelfel,Mild,Faeces,21,2.76
+Woelfel,Mild,URT,10,2.72
+Woelfel,Mild,Faeces,14,2.71
+Woelfel,Mild,URT,9,2.66
+Woelfel,Mild,URT,7,2.64
+Woelfel,Mild,Faeces,17,2.64
+Woelfel,Mild,LRT,11,2.62
+Woelfel,Mild,LRT,19,2.6
+Woelfel,Mild,URT,7,2.57
+Woelfel,Mild,LRT,7,2.54
+Woelfel,Mild,URT,8,2.53
+Woelfel,Mild,LRT,13,2.52
+Woelfel,Mild,Faeces,18,2.5
+Woelfel,Mild,URT,8,2.47
+Woelfel,Mild,URT,14,2.45
+Woelfel,Mild,LRT,19,2.44
+Woelfel,Mild,Faeces,17,2.41
+Woelfel,Mild,Faeces,19,2.4
+Woelfel,Mild,URT,13,2.24
+Woelfel,Mild,LRT,21,2.21
+Woelfel,Mild,Faeces,19,2.2
+Woelfel,Mild,Faeces,17,2.2
+Woelfel,Mild,URT,11,2.09
+Woelfel,Mild,URT,16,2.08
+Woelfel,Mild,LRT,11,2.07
+Woelfel,Mild,Faeces,9,2
+Woelfel,Mild,URT,12,1.97
+Woelfel,Mild,URT,12,1.96
+Woelfel,Mild,LRT,16,1.94
+Woelfel,Mild,URT,9,1.92
+Woelfel,Mild,URT,10,1.89
+Woelfel,Mild,URT,9,1.84
+Woelfel,Mild,URT,15,1.77
+Woelfel,Mild,URT,14,1.74
+Woelfel,Mild,URT,9,1.7
+Woelfel,Mild,URT,10,1.68
+Woelfel,Mild,URT,17,1.67
+Woelfel,Mild,URT,19,1.67
+Woelfel,Mild,URT,19,1.65
+Woelfel,Mild,URT,11,1.63
+Woelfel,Mild,URT,13,1.62
+Woelfel,Mild,URT,13,1.6
+Woelfel,Mild,URT,13,1.59
+Woelfel,Mild,URT,15,1.53
+Woelfel,Mild,URT,16,1.53
+Woelfel,Mild,URT,19,1.5
+Woelfel,Mild,URT,12,1.48
+Woelfel,Mild,URT,8,1.45
+Woelfel,Mild,URT,11,1.43
+Woelfel,Mild,URT,9,1.38
+Woelfel,Mild,URT,8,1.35
+Woelfel,Mild,Faeces,15,1.33
+Woelfel,Mild,URT,12,1.31
+Woelfel,Mild,URT,20,1.25
+Woelfel,Mild,URT,11,1.25
+Woelfel,Mild,URT,18,1.17
+Woelfel,Mild,URT,7,1.16
+Woelfel,Mild,URT,14,1.09
+Woelfel,Mild,URT,13,1.03
+Woelfel,Mild,URT,11,1.02
+Woelfel,Mild,URT,18,0.98
+Woelfel,Mild,URT,10,0.83
+Woelfel,Mild,URT,16,0.58
+Woelfel,Mild,URT,16,0.12
+Woelfel,Mild,URT,17,0.06
+Woelfel,Mild,URT,10,0.04
+Woelfel,Mild,LRT,20,0
+Woelfel,Mild,URT,11,0
+Woelfel,Mild,URT,12,0
+Woelfel,Mild,URT,15,0
+Woelfel,Mild,URT,16,0
+Woelfel,Mild,URT,17,0
+Woelfel,Mild,URT,18,0
+Woelfel,Mild,URT,19,0
+Woelfel,Mild,URT,20,0
+Woelfel,Mild,URT,14,0
+Woelfel,Mild,URT,15,0
+Woelfel,Mild,URT,17,0
+Woelfel,Mild,URT,21,0
+Woelfel,Mild,URT,22,0
+Woelfel,Mild,URT,10,0
+Woelfel,Mild,URT,11,0
+Woelfel,Mild,URT,14,0
+Woelfel,Mild,URT,15,0
+Woelfel,Mild,URT,16,0
+Woelfel,Mild,URT,17,0
+Woelfel,Mild,URT,18,0
+Woelfel,Mild,URT,19,0
+Woelfel,Mild,URT,12,0
+Woelfel,Mild,URT,18,0
+Woelfel,Mild,URT,10,0
+Woelfel,Mild,URT,11,0
+Woelfel,Mild,URT,12,0
+Woelfel,Mild,URT,6,0
+Woelfel,Mild,URT,13,0
+Woelfel,Mild,URT,15,0
+Woelfel,Mild,URT,16,0
+Woelfel,Mild,URT,17,0
+Woelfel,Mild,URT,18,0
+Woelfel,Mild,URT,19,0
+Woelfel,Mild,URT,20,0
+Woelfel,Mild,URT,21,0
+Woelfel,Mild,URT,22,0
+Woelfel,Mild,LRT,12,0
+Woelfel,Mild,LRT,14,0
+Woelfel,Mild,LRT,15,0
+Woelfel,Mild,LRT,16,0
+Woelfel,Mild,LRT,17,0
+Woelfel,Mild,LRT,18,0
+Woelfel,Mild,LRT,19,0
+Woelfel,Mild,LRT,17,0
+Woelfel,Mild,LRT,15,0
+Woelfel,Mild,LRT,9,0
+Woelfel,Mild,LRT,10,0
+Woelfel,Mild,LRT,11,0
+Woelfel,Mild,LRT,10,0
+Woelfel,Mild,LRT,12,0
+Woelfel,Mild,Faeces,7,0
+Woelfel,Mild,Faeces,16,0
+Grace Lui,Moderate,URT,8,9.6631482
+Grace Lui,Severe,LRT,9,8.5377832
+Grace Lui,Critical,LRT,12,8.0610004
+Grace Lui,Severe,URT,4,8.0554839
+Grace Lui,Severe,LRT,13,7.8389413
+Grace Lui,Severe,URT,9,7.7667605
+Grace Lui,Severe,LRT,4,7.6584892
+Grace Lui,Moderate,URT,6,7.5731846
+Grace Lui,Moderate,URT,12,7.4171399
+Grace Lui,Severe,LRT,20,7.3768911
+Grace Lui,Severe,LRT,11,7.3464188
+Grace Lui,Critical,LRT,12,7.3060604
+Grace Lui,Critical,LRT,10,7.2998937
+Grace Lui,Critical,LRT,11,7.2227922
+Grace Lui,Moderate,LRT,18,7.0811352
+Grace Lui,Moderate,URT,10,7.0544096
+Grace Lui,Moderate,URT,7,7
+Grace Lui,Moderate,LRT,16,6.8936736
+Grace Lui,Critical,URT,12,6.8416479
+Grace Lui,Moderate,LRT,10,6.8199172
+Grace Lui,Critical,URT,8,6.8015975
+Grace Lui,Moderate,URT,10,6.6982597
+Grace Lui,Critical,LRT,11,6.6979808
+Grace Lui,Moderate,LRT,9,6.6381145
+Grace Lui,Critical,LRT,14,6.4087422
+Grace Lui,Mild,URT,4,6.39794
+Grace Lui,Severe,LRT,15,6.3313238
+Grace Lui,Moderate,LRT,11,6.3300473
+Grace Lui,Critical,LRT,10,6.3277277
+Grace Lui,Critical,URT,10,5.9919111
+Grace Lui,Moderate,URT,11,5.939368
+Grace Lui,Moderate,URT,3,5.8991006
+Grace Lui,Critical,URT,20,5.5703491
+Grace Lui,Severe,URT,11,5.5685256
+Grace Lui,Moderate,LRT,14,5.4808919
+Grace Lui,Critical,URT,11,5.4151253
+Grace Lui,Critical,LRT,15,5.2590776
+Grace Lui,Moderate,URT,14,5.2550529
+Grace Lui,Severe,URT,10,5.1288772
+Grace Lui,Critical,LRT,17,5.0992489
+Grace Lui,Critical,URT,4,4.9696256
+Grace Lui,Critical,URT,7,4.7534528
+Grace Lui,Critical,LRT,31,4.6633805
+Grace Lui,Critical,LRT,17,4.6231872
+Grace Lui,Severe,LRT,18,4.5842407
+Grace Lui,Severe,Faeces,18,6.4413909
+Grace Lui,Mild,URT,8,4.1203106
+Grace Lui,Severe,LRT,19,4.1084974
+Grace Lui,Moderate,Plasma,3,3.9997828
+Grace Lui,Moderate,URT,13,3.962464
+Grace Lui,Critical,URT,14,3.9388198
+Grace Lui,Moderate,URT,8,3.9169275
+Grace Lui,Moderate,URT,6,3.8327005
+Grace Lui,Moderate,URT,18,3.8252313
+Grace Lui,Critical,LRT,20,3.7742979
+Grace Lui,Critical,URT,28,3.7568642
+Grace Lui,Severe,LRT,20,3.6945175
+Grace Lui,Critical,Plasma,10,3.6478718
+Grace Lui,Critical,Plasma,12,3.6381896
+Grace Lui,Severe,URT,12,3.622214
+Grace Lui,Critical,Plasma,11,3.607455
+Grace Lui,Moderate,URT,16,3.5956064
+Grace Lui,Moderate,Faeces,6,5.1963697
+Grace Lui,Critical,URT,17,3.5114823
+Grace Lui,Moderate,LRT,21,3.4919217
+Grace Lui,Mild,URT,6,3.4867138
+Grace Lui,Severe,URT,18,3.4456042
+Grace Lui,Critical,Faeces,15,5.0382187
+Grace Lui,Severe,URT,14,3.3581253
+Grace Lui,Critical,Plasma,14,3.3432116
+Grace Lui,Moderate,URT,13,3.3044905
+Grace Lui,Moderate,Faeces,5,4.9668267
+Grace Lui,Moderate,URT,5,3.2472366
+Grace Lui,Critical,URT,9,3.1743506
+Grace Lui,Moderate,LRT,20,3.1267806
+Grace Lui,Moderate,URT,14,3.0195317
+Grace Lui,Moderate,URT,21,2.9159272
+Grace Lui,Moderate,URT,15,2.8762178
+Grace Lui,Severe,Faeces,14,4.7384317
+Grace Lui,Moderate,Faeces,8,4.7343037
+Grace Lui,Moderate,Faeces,8,4.6011144
+Grace Lui,Moderate,Faeces,11,4.4988341
+Grace Lui,Moderate,Faeces,7,4.2566696
+Grace Lui,Critical,Faeces,20,4.1188267
+Grace Lui,Moderate,Faeces,9,4.1046237
+Grace Lui,Mild,Faeces,7,3.8997111
+Grace Lui,Critical,Faeces,16,3.7762652
+Grace Lui,Moderate,Faeces,13,3.7449185
+Grace Lui,Severe,Faeces,16,3.702689
+Grace Lui,Critical,Faeces,19,3.5866998
+Grace Lui,Moderate,Faeces,11,3.5133508
+Grace Lui,Critical,Faeces,21,3.437909
+Grace Lui,Severe,Faeces,21,3.30103
+Grace Lui,Moderate,Faeces,7,3.283075
+Grace Lui,Moderate,Faeces,13,3.2567177
+Grace Lui,Critical,Faeces,18,3.2103185
+Grace Lui,Critical,Faeces,17,2.9898946

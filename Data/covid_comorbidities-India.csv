@@ -1,0 +1,155 @@
+condition,age_group,sex,number_covid19_deaths
+Diabetes mellitus,0-17y,Male,0
+Diabetes mellitus,18-29y,Male,5
+Diabetes mellitus,30-44y,Male,99
+Diabetes mellitus,45-64y,Male,796
+Diabetes mellitus,65-74y,Male,565
+Diabetes mellitus,75-84y,Male,284
+Diabetes mellitus,85+y,Male,64
+Diabetes mellitus,0-17y,Female,1
+Diabetes mellitus,18-29y,Female,5
+Diabetes mellitus,30-44y,Female,41
+Diabetes mellitus,45-64y,Female,340
+Diabetes mellitus,65-74y,Female,234
+Diabetes mellitus,75-84y,Female,111
+Diabetes mellitus,85+y,Female,17
+Sustained hypertension,0-17y,Male,0
+Sustained hypertension,18-29y,Male,3
+Sustained hypertension,30-44y,Male,61
+Sustained hypertension,45-64y,Male,608
+Sustained hypertension,65-74y,Male,475
+Sustained hypertension,75-84y,Male,252
+Sustained hypertension,85+y,Male,60
+Sustained hypertension,0-17y,Female,0
+Sustained hypertension,18-29y,Female,5
+Sustained hypertension,30-44y,Female,29
+Sustained hypertension,45-64y,Female,255
+Sustained hypertension,65-74y,Female,196
+Sustained hypertension,75-84y,Female,99
+Sustained hypertension,85+y,Female,22
+Coronary artery disease,0-17y,Male,0
+Coronary artery disease,18-29y,Male,0
+Coronary artery disease,30-44y,Male,16
+Coronary artery disease,45-64y,Male,194
+Coronary artery disease,65-74y,Male,185
+Coronary artery disease,75-84y,Male,111
+Coronary artery disease,85+y,Male,31
+Coronary artery disease,0-17y,Female,0
+Coronary artery disease,18-29y,Female,1
+Coronary artery disease,30-44y,Female,9
+Coronary artery disease,45-64y,Female,64
+Coronary artery disease,65-74y,Female,54
+Coronary artery disease,75-84y,Female,28
+Coronary artery disease,85+y,Female,7
+Renal disease,0-17y,Male,0
+Renal disease,18-29y,Male,6
+Renal disease,30-44y,Male,25
+Renal disease,45-64y,Male,154
+Renal disease,65-74y,Male,99
+Renal disease,75-84y,Male,42
+Renal disease,85+y,Male,16
+Renal disease,0-17y,Female,1
+Renal disease,18-29y,Female,5
+Renal disease,30-44y,Female,15
+Renal disease,45-64y,Female,61
+Renal disease,65-74y,Female,31
+Renal disease,75-84y,Female,14
+Renal disease,85+y,Female,1
+Chronic obstructive pulmonary disease,0-17y,Male,0
+Chronic obstructive pulmonary disease,18-29y,Male,1
+Chronic obstructive pulmonary disease,30-44y,Male,4
+Chronic obstructive pulmonary disease,45-64y,Male,25
+Chronic obstructive pulmonary disease,65-74y,Male,29
+Chronic obstructive pulmonary disease,75-84y,Male,18
+Chronic obstructive pulmonary disease,85+y,Male,6
+Chronic obstructive pulmonary disease,0-17y,Female,0
+Chronic obstructive pulmonary disease,18-29y,Female,0
+Chronic obstructive pulmonary disease,30-44y,Female,0
+Chronic obstructive pulmonary disease,45-64y,Female,10
+Chronic obstructive pulmonary disease,65-74y,Female,4
+Chronic obstructive pulmonary disease,75-84y,Female,7
+Chronic obstructive pulmonary disease,85+y,Female,0
+Asthma,0-17y,Male,0
+Asthma,18-29y,Male,0
+Asthma,30-44y,Male,8
+Asthma,45-64y,Male,32
+Asthma,65-74y,Male,15
+Asthma,75-84y,Male,8
+Asthma,85+y,Male,4
+Asthma,0-17y,Female,0
+Asthma,18-29y,Female,1
+Asthma,30-44y,Female,4
+Asthma,45-64y,Female,5
+Asthma,65-74y,Female,7
+Asthma,75-84y,Female,3
+Asthma,85+y,Female,1
+Cancer,0-17y,Male,0
+Cancer,18-29y,Male,0
+Cancer,30-44y,Male,8
+Cancer,45-64y,Male,32
+Cancer,65-74y,Male,15
+Cancer,75-84y,Male,8
+Cancer,85+y,Male,4
+Cancer,0-17y,Female,0
+Cancer,18-29y,Female,1
+Cancer,30-44y,Female,4
+Cancer,45-64y,Female,17
+Cancer,65-74y,Female,10
+Cancer,75-84y,Female,5
+Cancer,85+y,Female,0
+Pulmonary tuberculosis,0-17y,Male,0
+Pulmonary tuberculosis,18-29y,Male,1
+Pulmonary tuberculosis,30-44y,Male,8
+Pulmonary tuberculosis,45-64y,Male,20
+Pulmonary tuberculosis,65-74y,Male,9
+Pulmonary tuberculosis,75-84y,Male,9
+Pulmonary tuberculosis,85+y,Male,2
+Pulmonary tuberculosis,0-17y,Female,0
+Pulmonary tuberculosis,18-29y,Female,0
+Pulmonary tuberculosis,30-44y,Female,3
+Pulmonary tuberculosis,45-64y,Female,3
+Pulmonary tuberculosis,65-74y,Female,4
+Pulmonary tuberculosis,75-84y,Female,1
+Pulmonary tuberculosis,85+y,Female,0
+Stroke,0-17y,Male,0
+Stroke,18-29y,Male,0
+Stroke,30-44y,Male,3
+Stroke,45-64y,Male,27
+Stroke,65-74y,Male,25
+Stroke,75-84y,Male,10
+Stroke,85+y,Male,2
+Stroke,0-17y,Female,0
+Stroke,18-29y,Female,0
+Stroke,30-44y,Female,1
+Stroke,45-64y,Female,15
+Stroke,65-74y,Female,9
+Stroke,75-84y,Female,8
+Stroke,85+y,Female,0
+Hyperthyroidism or hypothyroidism,0-17y,Male,1
+Hyperthyroidism or hypothyroidism,18-29y,Male,0
+Hyperthyroidism or hypothyroidism,30-44y,Male,2
+Hyperthyroidism or hypothyroidism,45-64y,Male,22
+Hyperthyroidism or hypothyroidism,65-74y,Male,12
+Hyperthyroidism or hypothyroidism,75-84y,Male,17
+Hyperthyroidism or hypothyroidism,85+y,Male,6
+Hyperthyroidism or hypothyroidism,0-17y,Female,0
+Hyperthyroidism or hypothyroidism,18-29y,Female,0
+Hyperthyroidism or hypothyroidism,30-44y,Female,15
+Hyperthyroidism or hypothyroidism,45-64y,Female,44
+Hyperthyroidism or hypothyroidism,65-74y,Female,24
+Hyperthyroidism or hypothyroidism,75-84y,Female,11
+Hyperthyroidism or hypothyroidism,85+y,Female,1
+Liver disease,0-17y,Male,1
+Liver disease,18-29y,Male,2
+Liver disease,30-44y,Male,11
+Liver disease,45-64y,Male,35
+Liver disease,65-74y,Male,14
+Liver disease,75-84y,Male,8
+Liver disease,85+y,Male,2
+Liver disease,0-17y,Female,2
+Liver disease,18-29y,Female,0
+Liver disease,30-44y,Female,4
+Liver disease,45-64y,Female,8
+Liver disease,65-74y,Female,5
+Liver disease,75-84y,Female,3
+Liver disease,85+y,Female,0

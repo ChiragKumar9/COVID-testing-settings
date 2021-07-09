@@ -1,0 +1,19 @@
+sex,age_group_new,covid_19_deaths
+Male,0-4 years,0.2
+Male,5-17 years,0.022
+Male,18-29 years,0.15
+Male,30-39 years,0.54
+Male,40-49 years,1.45
+Male,50-64 years,4.34
+Male,65-74 years,11.5
+Male,75-84 years,16
+Male,85+ years,20.5
+Female,0-4 years,0.11
+Female,5-17 years,0.093
+Female,18-29 years,0.16
+Female,30-39 years,0.41
+Female,40-49 years,1.05
+Female,50-64 years,3
+Female,65-74 years,6.67
+Female,75-84 years,8.56
+Female,85+ years,11.1

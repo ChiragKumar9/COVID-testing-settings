@@ -1,0 +1,883 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+Prevalence,United States,Male,1 to 4,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,1 to 4,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,5 to 9,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,5 to 9,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,10 to 14,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,10 to 14,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,15 to 19,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,15 to 19,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,20 to 24,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,20 to 24,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,25 to 29,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,25 to 29,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,30 to 34,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,30 to 34,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,35 to 39,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,35 to 39,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,40 to 44,Alzheimer's disease and other dementias,Percent,2017,0.00010489246257,0.000138847886929,7.57404435494e-05
+Prevalence,United States,Female,40 to 44,Alzheimer's disease and other dementias,Percent,2017,0.00012592822432,0.00016260033659,9.34405892239e-05
+Prevalence,United States,Male,45 to 49,Alzheimer's disease and other dementias,Percent,2017,0.000554373587917,0.000705390932234,0.00042711995518
+Prevalence,United States,Female,45 to 49,Alzheimer's disease and other dementias,Percent,2017,0.000651227090881,0.000817116361521,0.000512061519736
+Prevalence,United States,Male,50 to 54,Alzheimer's disease and other dementias,Percent,2017,0.000967695447597,0.00117731246774,0.000786684923943
+Prevalence,United States,Female,50 to 54,Alzheimer's disease and other dementias,Percent,2017,0.0010126064277,0.00122296941655,0.000838682938234
+Prevalence,United States,Male,55 to 59,Alzheimer's disease and other dementias,Percent,2017,0.00172123621028,0.00200258919708,0.00144776925316
+Prevalence,United States,Female,55 to 59,Alzheimer's disease and other dementias,Percent,2017,0.00160114569137,0.00187780881705,0.00136340380767
+Prevalence,United States,Male,60 to 64,Alzheimer's disease and other dementias,Percent,2017,0.00373230857582,0.00443595091536,0.0031449664943
+Prevalence,United States,Female,60 to 64,Alzheimer's disease and other dementias,Percent,2017,0.00336050190938,0.00397712239373,0.00283708020715
+Prevalence,United States,Male,65 to 69,Alzheimer's disease and other dementias,Percent,2017,0.00841849186363,0.00980652833251,0.00713809448079
+Prevalence,United States,Female,65 to 69,Alzheimer's disease and other dementias,Percent,2017,0.00797781151274,0.00934345223896,0.00673545780786
+Prevalence,United States,Male,70 to 74,Alzheimer's disease and other dementias,Percent,2017,0.0209786501562,0.0244989673219,0.0179231091908
+Prevalence,United States,Female,70 to 74,Alzheimer's disease and other dementias,Percent,2017,0.021369876694,0.024918145641,0.0180233823889
+Prevalence,United States,Male,75 to 79,Alzheimer's disease and other dementias,Percent,2017,0.0481021679312,0.0568813371329,0.0405293088744
+Prevalence,United States,Female,75 to 79,Alzheimer's disease and other dementias,Percent,2017,0.0523784991134,0.0615685243286,0.0440469822799
+Prevalence,United States,Male,<1 year,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,<1 year,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,80 to 84,Alzheimer's disease and other dementias,Percent,2017,0.0929984710819,0.110350758621,0.0786816136429
+Prevalence,United States,Female,80 to 84,Alzheimer's disease and other dementias,Percent,2017,0.106536673424,0.126375422209,0.0900216369146
+Prevalence,United States,Male,85 to 89,Alzheimer's disease and other dementias,Percent,2017,0.153653320836,0.181764951098,0.130780602551
+Prevalence,United States,Female,85 to 89,Alzheimer's disease and other dementias,Percent,2017,0.183272739756,0.217460145129,0.155907471652
+Prevalence,United States,Male,90 to 94,Alzheimer's disease and other dementias,Percent,2017,0.216174709404,0.25362014158,0.182133639471
+Prevalence,United States,Female,90 to 94,Alzheimer's disease and other dementias,Percent,2017,0.273642268532,0.31990553574,0.229667617694
+Prevalence,United States,Male,95 plus,Alzheimer's disease and other dementias,Percent,2017,0.262359484854,0.320379785907,0.210332470191
+Prevalence,United States,Female,95 plus,Alzheimer's disease and other dementias,Percent,2017,0.362938834224,0.442503094629,0.292568382487
+Prevalence,United States,Male,1 to 4,Parkinson's disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,1 to 4,Parkinson's disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,5 to 9,Parkinson's disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,5 to 9,Parkinson's disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,10 to 14,Parkinson's disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,10 to 14,Parkinson's disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,15 to 19,Parkinson's disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,15 to 19,Parkinson's disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,20 to 24,Parkinson's disease,Percent,2017,1.26951705698e-06,2.06521359645e-06,6.0629271525e-07
+Prevalence,United States,Female,20 to 24,Parkinson's disease,Percent,2017,7.71836254117e-07,1.4012917265e-06,1.97121782212e-07
+Prevalence,United States,Male,25 to 29,Parkinson's disease,Percent,2017,8.49369529687e-06,1.38297725275e-05,4.0399382304e-06
+Prevalence,United States,Female,25 to 29,Parkinson's disease,Percent,2017,5.24764827343e-06,9.52918494925e-06,1.35006009289e-06
+Prevalence,United States,Male,30 to 34,Parkinson's disease,Percent,2017,2.30400562916e-05,3.48338691554e-05,1.32931407864e-05
+Prevalence,United States,Female,30 to 34,Parkinson's disease,Percent,2017,1.44966252218e-05,2.38323569079e-05,6.00567583911e-06
+Prevalence,United States,Male,35 to 39,Parkinson's disease,Percent,2017,4.63625446716e-05,6.17111588371e-05,3.2796193361e-05
+Prevalence,United States,Female,35 to 39,Parkinson's disease,Percent,2017,2.9941013072e-05,4.15319242031e-05,2.02492715659e-05
+Prevalence,United States,Male,40 to 44,Parkinson's disease,Percent,2017,9.89003191845e-05,0.000127885667928,7.46687797832e-05
+Prevalence,United States,Female,40 to 44,Parkinson's disease,Percent,2017,6.06146687579e-05,8.21454448246e-05,4.45525480218e-05
+Prevalence,United States,Male,45 to 49,Parkinson's disease,Percent,2017,0.000255697116814,0.000314842206065,0.000197647168006
+Prevalence,United States,Female,45 to 49,Parkinson's disease,Percent,2017,0.000139096643499,0.000173402877046,0.000107493886275
+Prevalence,United States,Male,50 to 54,Parkinson's disease,Percent,2017,0.000584102707726,0.000711545654749,0.000465457602988
+Prevalence,United States,Female,50 to 54,Parkinson's disease,Percent,2017,0.000300733179787,0.000375664430431,0.000231418565079
+Prevalence,United States,Male,55 to 59,Parkinson's disease,Percent,2017,0.00130706266194,0.0015819394321,0.00107054881999
+Prevalence,United States,Female,55 to 59,Parkinson's disease,Percent,2017,0.000667026586008,0.000817034569982,0.000539004339873
+Prevalence,United States,Male,60 to 64,Parkinson's disease,Percent,2017,0.002682358919,0.0032614114126,0.00218500393892
+Prevalence,United States,Female,60 to 64,Parkinson's disease,Percent,2017,0.00138752079209,0.00169913682735,0.00112231744027
+Prevalence,United States,Male,65 to 69,Parkinson's disease,Percent,2017,0.00544560295669,0.00647987552728,0.00447905552139
+Prevalence,United States,Female,65 to 69,Parkinson's disease,Percent,2017,0.00290211158172,0.00345407182921,0.00237694656203
+Prevalence,United States,Male,70 to 74,Parkinson's disease,Percent,2017,0.00987334493343,0.0120546807472,0.00798750542203
+Prevalence,United States,Female,70 to 74,Parkinson's disease,Percent,2017,0.00535564457591,0.00660100291096,0.00433486666737
+Prevalence,United States,Male,75 to 79,Parkinson's disease,Percent,2017,0.0164718557728,0.0192649186053,0.0136481500463
+Prevalence,United States,Female,75 to 79,Parkinson's disease,Percent,2017,0.00896637508183,0.0104509686244,0.00748355271612
+Prevalence,United States,Male,<1 year,Parkinson's disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,<1 year,Parkinson's disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,80 to 84,Parkinson's disease,Percent,2017,0.0231474260827,0.0282324903592,0.0183690229742
+Prevalence,United States,Female,80 to 84,Parkinson's disease,Percent,2017,0.0126826159224,0.0152245498981,0.0101388846226
+Prevalence,United States,Male,85 to 89,Parkinson's disease,Percent,2017,0.025431976384,0.0300896221868,0.0208660421825
+Prevalence,United States,Female,85 to 89,Parkinson's disease,Percent,2017,0.0139457779194,0.016394903789,0.0114272418031
+Prevalence,United States,Male,90 to 94,Parkinson's disease,Percent,2017,0.0233231892525,0.0284393719281,0.0187396822784
+Prevalence,United States,Female,90 to 94,Parkinson's disease,Percent,2017,0.0127523631903,0.015455342256,0.0104308205704
+Prevalence,United States,Male,95 plus,Parkinson's disease,Percent,2017,0.0180983769801,0.0234010362097,0.013315945099
+Prevalence,United States,Female,95 plus,Parkinson's disease,Percent,2017,0.0101421278824,0.0129601020189,0.00758908696859
+Prevalence,United States,Male,1 to 4,Epilepsy,Percent,2017,0.00493380992828,0.00688006286926,0.00329563970368
+Prevalence,United States,Female,1 to 4,Epilepsy,Percent,2017,0.00401442287787,0.00558902962784,0.00268505981839
+Prevalence,United States,Male,5 to 9,Epilepsy,Percent,2017,0.005904224217,0.00825087110364,0.00392777429118
+Prevalence,United States,Female,5 to 9,Epilepsy,Percent,2017,0.00505225720621,0.00707730952752,0.0033966563173
+Prevalence,United States,Male,10 to 14,Epilepsy,Percent,2017,0.00562811644945,0.00770519694704,0.00380791542971
+Prevalence,United States,Female,10 to 14,Epilepsy,Percent,2017,0.00511608993556,0.0069939145393,0.00345232805242
+Prevalence,United States,Male,15 to 19,Epilepsy,Percent,2017,0.00499344767349,0.00672718308613,0.00337304419771
+Prevalence,United States,Female,15 to 19,Epilepsy,Percent,2017,0.0047854154586,0.00641250757051,0.00326736158167
+Prevalence,United States,Male,20 to 24,Epilepsy,Percent,2017,0.00448369496967,0.00604262822203,0.00300778623068
+Prevalence,United States,Female,20 to 24,Epilepsy,Percent,2017,0.00458900865586,0.00617349704242,0.00307638144511
+Prevalence,United States,Male,25 to 29,Epilepsy,Percent,2017,0.00373406925705,0.00507860699098,0.00249604813304
+Prevalence,United States,Female,25 to 29,Epilepsy,Percent,2017,0.00423798233973,0.00571949369371,0.00286906290403
+Prevalence,United States,Male,30 to 34,Epilepsy,Percent,2017,0.00307175893745,0.0042219420804,0.00208571960496
+Prevalence,United States,Female,30 to 34,Epilepsy,Percent,2017,0.00386334379618,0.00526052241886,0.00266441635845
+Prevalence,United States,Male,35 to 39,Epilepsy,Percent,2017,0.00281476818681,0.0038077166013,0.00192912063954
+Prevalence,United States,Female,35 to 39,Epilepsy,Percent,2017,0.00371365818717,0.00502113895228,0.00257969492894
+Prevalence,United States,Male,40 to 44,Epilepsy,Percent,2017,0.00280792021351,0.00386893286898,0.00188916173682
+Prevalence,United States,Female,40 to 44,Epilepsy,Percent,2017,0.0037364206095,0.00516606715688,0.00251998397328
+Prevalence,United States,Male,45 to 49,Epilepsy,Percent,2017,0.00300777977883,0.00408945660442,0.00203490540682
+Prevalence,United States,Female,45 to 49,Epilepsy,Percent,2017,0.00383833962916,0.00523846313436,0.00256649499082
+Prevalence,United States,Male,50 to 54,Epilepsy,Percent,2017,0.00335874566488,0.00452402447553,0.0022474373688
+Prevalence,United States,Female,50 to 54,Epilepsy,Percent,2017,0.0039977476916,0.00534497331553,0.00270286785063
+Prevalence,United States,Male,55 to 59,Epilepsy,Percent,2017,0.0038485637772,0.00516745346792,0.00263097727088
+Prevalence,United States,Female,55 to 59,Epilepsy,Percent,2017,0.00428232213564,0.00576104719027,0.00294716351443
+Prevalence,United States,Male,60 to 64,Epilepsy,Percent,2017,0.004574486637,0.00623275477346,0.00308761323918
+Prevalence,United States,Female,60 to 64,Epilepsy,Percent,2017,0.00481813899617,0.00653427451703,0.00331014033709
+Prevalence,United States,Male,65 to 69,Epilepsy,Percent,2017,0.00562451918662,0.00762825908466,0.00377664400656
+Prevalence,United States,Female,65 to 69,Epilepsy,Percent,2017,0.00565961451234,0.00767844755568,0.0037812861917
+Prevalence,United States,Male,70 to 74,Epilepsy,Percent,2017,0.00691522178789,0.00929468829897,0.00463999139474
+Prevalence,United States,Female,70 to 74,Epilepsy,Percent,2017,0.00667431451302,0.00895979571273,0.00449523126774
+Prevalence,United States,Male,75 to 79,Epilepsy,Percent,2017,0.00824422236677,0.0109583431468,0.00557119317903
+Prevalence,United States,Female,75 to 79,Epilepsy,Percent,2017,0.00775001420529,0.0102783442329,0.00527268955409
+Prevalence,United States,Male,<1 year,Epilepsy,Percent,2017,0.00495642124765,0.00727514485832,0.00304431112744
+Prevalence,United States,Female,<1 year,Epilepsy,Percent,2017,0.00412547621495,0.00602240873778,0.00259175862314
+Prevalence,United States,Male,80 to 84,Epilepsy,Percent,2017,0.00943765343839,0.0125696096259,0.00639203223666
+Prevalence,United States,Female,80 to 84,Epilepsy,Percent,2017,0.00868123898858,0.0115232923068,0.00591263901495
+Prevalence,United States,Male,85 to 89,Epilepsy,Percent,2017,0.0100492468778,0.0134358728675,0.00681327771321
+Prevalence,United States,Female,85 to 89,Epilepsy,Percent,2017,0.0088976315954,0.0119108996521,0.0060390575944
+Prevalence,United States,Male,90 to 94,Epilepsy,Percent,2017,0.0100779014768,0.0136403478002,0.00679380271767
+Prevalence,United States,Female,90 to 94,Epilepsy,Percent,2017,0.00844606400509,0.0114208839953,0.00566015671911
+Prevalence,United States,Male,95 plus,Epilepsy,Percent,2017,0.00983916117596,0.0133268549926,0.00655144325947
+Prevalence,United States,Female,95 plus,Epilepsy,Percent,2017,0.00774118864603,0.0104503652389,0.00516758822379
+Prevalence,United States,Male,1 to 4,Multiple sclerosis,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,1 to 4,Multiple sclerosis,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,5 to 9,Multiple sclerosis,Percent,2017,3.22321470854e-06,4.60250929894e-06,1.88089682531e-06
+Prevalence,United States,Female,5 to 9,Multiple sclerosis,Percent,2017,4.06458399153e-06,5.84548790752e-06,2.34782288538e-06
+Prevalence,United States,Male,10 to 14,Multiple sclerosis,Percent,2017,2.30229772142e-05,2.96773140274e-05,1.63570325472e-05
+Prevalence,United States,Female,10 to 14,Multiple sclerosis,Percent,2017,3.40585284107e-05,4.57063192871e-05,2.4868500009e-05
+Prevalence,United States,Male,15 to 19,Multiple sclerosis,Percent,2017,8.14515625561e-05,0.000102862970003,6.60994940799e-05
+Prevalence,United States,Female,15 to 19,Multiple sclerosis,Percent,2017,0.000168997654131,0.000208336271918,0.000134843562225
+Prevalence,United States,Male,20 to 24,Multiple sclerosis,Percent,2017,0.000239598373614,0.000279659776062,0.000202243655188
+Prevalence,United States,Female,20 to 24,Multiple sclerosis,Percent,2017,0.000614508751272,0.000725136257066,0.000512745159057
+Prevalence,United States,Male,25 to 29,Multiple sclerosis,Percent,2017,0.000508083518045,0.000601512588945,0.00042741568696
+Prevalence,United States,Female,25 to 29,Multiple sclerosis,Percent,2017,0.00138576043069,0.00159010936588,0.00116669164858
+Prevalence,United States,Male,30 to 34,Multiple sclerosis,Percent,2017,0.0008046214529,0.000902423624926,0.000701842905235
+Prevalence,United States,Female,30 to 34,Multiple sclerosis,Percent,2017,0.00223644424395,0.00245116903916,0.00199669009562
+Prevalence,United States,Male,35 to 39,Multiple sclerosis,Percent,2017,0.00105787179746,0.00116232766836,0.000951543296519
+Prevalence,United States,Female,35 to 39,Multiple sclerosis,Percent,2017,0.00274567839334,0.00294153601827,0.00255076117538
+Prevalence,United States,Male,40 to 44,Multiple sclerosis,Percent,2017,0.00121752448524,0.0013169909097,0.00112289199784
+Prevalence,United States,Female,40 to 44,Multiple sclerosis,Percent,2017,0.00285778854229,0.00305224479379,0.00266999005742
+Prevalence,United States,Male,45 to 49,Multiple sclerosis,Percent,2017,0.00130976525759,0.00140824126873,0.00121260711055
+Prevalence,United States,Female,45 to 49,Multiple sclerosis,Percent,2017,0.00286706444453,0.00306220409627,0.00268038493632
+Prevalence,United States,Male,50 to 54,Multiple sclerosis,Percent,2017,0.0013365896719,0.00142994610795,0.00124942100803
+Prevalence,United States,Female,50 to 54,Multiple sclerosis,Percent,2017,0.00282530917168,0.00301664330005,0.00264521727731
+Prevalence,United States,Male,55 to 59,Multiple sclerosis,Percent,2017,0.00130247326094,0.00139155699329,0.00122044545632
+Prevalence,United States,Female,55 to 59,Multiple sclerosis,Percent,2017,0.00273964045864,0.00292678424043,0.00256895214121
+Prevalence,United States,Male,60 to 64,Multiple sclerosis,Percent,2017,0.0012137492721,0.00129411511498,0.00113792830538
+Prevalence,United States,Female,60 to 64,Multiple sclerosis,Percent,2017,0.0026030043183,0.00278699246193,0.00243931286534
+Prevalence,United States,Male,65 to 69,Multiple sclerosis,Percent,2017,0.00108727911565,0.00115847764063,0.0010190758014
+Prevalence,United States,Female,65 to 69,Multiple sclerosis,Percent,2017,0.00241571988279,0.00258131298773,0.00226092411417
+Prevalence,United States,Male,70 to 74,Multiple sclerosis,Percent,2017,0.000942021097241,0.00100640036974,0.000881945082277
+Prevalence,United States,Female,70 to 74,Multiple sclerosis,Percent,2017,0.00218489203099,0.00233784595452,0.00204000248846
+Prevalence,United States,Male,75 to 79,Multiple sclerosis,Percent,2017,0.000795506027581,0.000852336967802,0.000741704182681
+Prevalence,United States,Female,75 to 79,Multiple sclerosis,Percent,2017,0.00190692595496,0.00204408503724,0.00177473607065
+Prevalence,United States,Male,<1 year,Multiple sclerosis,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,<1 year,Multiple sclerosis,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,80 to 84,Multiple sclerosis,Percent,2017,0.000656457733004,0.000704412410241,0.000608856665452
+Prevalence,United States,Female,80 to 84,Multiple sclerosis,Percent,2017,0.00160500650475,0.00172487135901,0.00148623437277
+Prevalence,United States,Male,85 to 89,Multiple sclerosis,Percent,2017,0.000530567188752,0.000572927794702,0.000484672994514
+Prevalence,United States,Female,85 to 89,Multiple sclerosis,Percent,2017,0.00130721544587,0.0014160475836,0.00119715970081
+Prevalence,United States,Male,90 to 94,Multiple sclerosis,Percent,2017,0.000416294967699,0.000458430241077,0.000375046263915
+Prevalence,United States,Female,90 to 94,Multiple sclerosis,Percent,2017,0.00102756388773,0.00112973843236,0.000918617653552
+Prevalence,United States,Male,95 plus,Multiple sclerosis,Percent,2017,0.000318299205425,0.000358053257486,0.000277035644981
+Prevalence,United States,Female,95 plus,Multiple sclerosis,Percent,2017,0.000784591098109,0.000882289518562,0.000673342945799
+Prevalence,United States,Male,1 to 4,Motor neuron disease,Percent,2017,8.24738318221e-05,9.61464620773e-05,7.02622894961e-05
+Prevalence,United States,Female,1 to 4,Motor neuron disease,Percent,2017,6.73578319418e-05,7.76485596568e-05,5.78031764223e-05
+Prevalence,United States,Male,5 to 9,Motor neuron disease,Percent,2017,7.76534235192e-05,9.07943178229e-05,6.71105326172e-05
+Prevalence,United States,Female,5 to 9,Motor neuron disease,Percent,2017,6.34058946021e-05,7.30362588026e-05,5.46622382501e-05
+Prevalence,United States,Male,10 to 14,Motor neuron disease,Percent,2017,7.07169850112e-05,8.15502320841e-05,6.08488306811e-05
+Prevalence,United States,Female,10 to 14,Motor neuron disease,Percent,2017,5.57076508926e-05,6.45007884382e-05,4.82558807452e-05
+Prevalence,United States,Male,15 to 19,Motor neuron disease,Percent,2017,6.38934980174e-05,7.41001183176e-05,5.51860794167e-05
+Prevalence,United States,Female,15 to 19,Motor neuron disease,Percent,2017,4.96060594563e-05,5.72283157571e-05,4.31613994478e-05
+Prevalence,United States,Male,20 to 24,Motor neuron disease,Percent,2017,5.97704749638e-05,6.88732337195e-05,5.16770308608e-05
+Prevalence,United States,Female,20 to 24,Motor neuron disease,Percent,2017,4.73824051163e-05,5.43720876729e-05,4.12885596431e-05
+Prevalence,United States,Male,25 to 29,Motor neuron disease,Percent,2017,5.52685537513e-05,6.37670775785e-05,4.84088295315e-05
+Prevalence,United States,Female,25 to 29,Motor neuron disease,Percent,2017,4.46870522383e-05,5.13201628954e-05,3.91439807359e-05
+Prevalence,United States,Male,30 to 34,Motor neuron disease,Percent,2017,5.11002297385e-05,5.8678501642e-05,4.4495217672e-05
+Prevalence,United States,Female,30 to 34,Motor neuron disease,Percent,2017,4.15654459809e-05,4.75899535431e-05,3.64311175511e-05
+Prevalence,United States,Male,35 to 39,Motor neuron disease,Percent,2017,5.5264346762e-05,6.59652919471e-05,4.63692355322e-05
+Prevalence,United States,Female,35 to 39,Motor neuron disease,Percent,2017,4.21508338805e-05,4.82407030747e-05,3.64168968066e-05
+Prevalence,United States,Male,40 to 44,Motor neuron disease,Percent,2017,8.04344838826e-05,9.98533022844e-05,6.33103475313e-05
+Prevalence,United States,Female,40 to 44,Motor neuron disease,Percent,2017,5.28565409679e-05,6.34988166833e-05,4.3707353275e-05
+Prevalence,United States,Male,45 to 49,Motor neuron disease,Percent,2017,0.000115626453907,0.000143615435508,9.12833839967e-05
+Prevalence,United States,Female,45 to 49,Motor neuron disease,Percent,2017,6.99824422102e-05,8.60525194821e-05,5.5787462302e-05
+Prevalence,United States,Male,50 to 54,Motor neuron disease,Percent,2017,0.000146708463538,0.000183261558854,0.000117114481207
+Prevalence,United States,Female,50 to 54,Motor neuron disease,Percent,2017,9.46142629993e-05,0.00011855294085,7.48379495879e-05
+Prevalence,United States,Male,55 to 59,Motor neuron disease,Percent,2017,0.000181069761508,0.000221388895174,0.00014603954988
+Prevalence,United States,Female,55 to 59,Motor neuron disease,Percent,2017,0.000124182694814,0.000154971616476,9.71984832028e-05
+Prevalence,United States,Male,60 to 64,Motor neuron disease,Percent,2017,0.000252494501013,0.000307122934763,0.000205860087648
+Prevalence,United States,Female,60 to 64,Motor neuron disease,Percent,2017,0.000164900835317,0.000203882800487,0.000132978565031
+Prevalence,United States,Male,65 to 69,Motor neuron disease,Percent,2017,0.000345660333355,0.000413809314801,0.00028512903892
+Prevalence,United States,Female,65 to 69,Motor neuron disease,Percent,2017,0.000232220909516,0.000282240660128,0.00018737813735
+Prevalence,United States,Male,70 to 74,Motor neuron disease,Percent,2017,0.000433873142173,0.000518310404568,0.000362692241314
+Prevalence,United States,Female,70 to 74,Motor neuron disease,Percent,2017,0.000303509229554,0.000365073002857,0.000251726379423
+Prevalence,United States,Male,75 to 79,Motor neuron disease,Percent,2017,0.000474822652973,0.000572883988911,0.0003943249492
+Prevalence,United States,Female,75 to 79,Motor neuron disease,Percent,2017,0.000325609328096,0.000395350836141,0.000266756200703
+Prevalence,United States,Male,<1 year,Motor neuron disease,Percent,2017,7.10723245334e-05,8.51533214702e-05,5.64745779729e-05
+Prevalence,United States,Female,<1 year,Motor neuron disease,Percent,2017,5.63513960987e-05,6.43486900585e-05,4.84939270051e-05
+Prevalence,United States,Male,80 to 84,Motor neuron disease,Percent,2017,0.00042599058201,0.000515889593572,0.000342328721143
+Prevalence,United States,Female,80 to 84,Motor neuron disease,Percent,2017,0.000278584450525,0.000336402858379,0.000223144015831
+Prevalence,United States,Male,85 to 89,Motor neuron disease,Percent,2017,0.000359360278312,0.000435684940162,0.000298551328747
+Prevalence,United States,Female,85 to 89,Motor neuron disease,Percent,2017,0.000237026816311,0.000289807402893,0.000193712480038
+Prevalence,United States,Male,90 to 94,Motor neuron disease,Percent,2017,0.00028599280874,0.000344205429338,0.000236691163779
+Prevalence,United States,Female,90 to 94,Motor neuron disease,Percent,2017,0.000177620394139,0.000219346528146,0.000143072073627
+Prevalence,United States,Male,95 plus,Motor neuron disease,Percent,2017,0.000261028356274,0.000327462279585,0.000199770339709
+Prevalence,United States,Female,95 plus,Motor neuron disease,Percent,2017,0.000157950879034,0.000199994414574,0.000117443164093
+Prevalence,United States,Male,1 to 4,Esophageal cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,1 to 4,Esophageal cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,5 to 9,Esophageal cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,5 to 9,Esophageal cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,10 to 14,Esophageal cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,10 to 14,Esophageal cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,15 to 19,Esophageal cancer,Percent,2017,5.3808901622e-07,6.06609634688e-07,4.79401100966e-07
+Prevalence,United States,Female,15 to 19,Esophageal cancer,Percent,2017,7.11626209317e-07,8.21763453163e-07,6.15486400702e-07
+Prevalence,United States,Male,20 to 24,Esophageal cancer,Percent,2017,1.9679959936e-06,2.20712889132e-06,1.78022088562e-06
+Prevalence,United States,Female,20 to 24,Esophageal cancer,Percent,2017,1.01191322287e-06,1.14691421231e-06,8.84284819403e-07
+Prevalence,United States,Male,25 to 29,Esophageal cancer,Percent,2017,5.63760870356e-06,6.35412157664e-06,5.06245277836e-06
+Prevalence,United States,Female,25 to 29,Esophageal cancer,Percent,2017,3.68816088156e-06,4.13371995751e-06,3.22945458022e-06
+Prevalence,United States,Male,30 to 34,Esophageal cancer,Percent,2017,1.11523836517e-05,1.23779033167e-05,1.01144534155e-05
+Prevalence,United States,Female,30 to 34,Esophageal cancer,Percent,2017,5.81417578814e-06,6.63718285736e-06,5.04624430745e-06
+Prevalence,United States,Male,35 to 39,Esophageal cancer,Percent,2017,2.43749276304e-05,2.68819200397e-05,2.20231873935e-05
+Prevalence,United States,Female,35 to 39,Esophageal cancer,Percent,2017,1.12430641295e-05,1.29657346785e-05,9.59013435994e-06
+Prevalence,United States,Male,40 to 44,Esophageal cancer,Percent,2017,5.3558114064e-05,5.78157926643e-05,4.93358461526e-05
+Prevalence,United States,Female,40 to 44,Esophageal cancer,Percent,2017,2.30888513e-05,2.66032356663e-05,2.01980295584e-05
+Prevalence,United States,Male,45 to 49,Esophageal cancer,Percent,2017,0.000117426062478,0.000125600565346,0.000109672565482
+Prevalence,United States,Female,45 to 49,Esophageal cancer,Percent,2017,4.05030364522e-05,4.44828197869e-05,3.67702560836e-05
+Prevalence,United States,Male,50 to 54,Esophageal cancer,Percent,2017,0.000203748480685,0.000215259111923,0.000192844347539
+Prevalence,United States,Female,50 to 54,Esophageal cancer,Percent,2017,5.3786161902e-05,5.81190827435e-05,4.97294297047e-05
+Prevalence,United States,Male,55 to 59,Esophageal cancer,Percent,2017,0.000365145906288,0.000386708947224,0.00034448135371
+Prevalence,United States,Female,55 to 59,Esophageal cancer,Percent,2017,8.08126536452e-05,8.69980460893e-05,7.52968807268e-05
+Prevalence,United States,Male,60 to 64,Esophageal cancer,Percent,2017,0.000514918729019,0.000546367924292,0.000487391849337
+Prevalence,United States,Female,60 to 64,Esophageal cancer,Percent,2017,0.000120533254602,0.000129847823744,0.000111460128319
+Prevalence,United States,Male,65 to 69,Esophageal cancer,Percent,2017,0.000633447571875,0.000673372036177,0.000597228241436
+Prevalence,United States,Female,65 to 69,Esophageal cancer,Percent,2017,0.00014540307647,0.000157620462546,0.000135405108007
+Prevalence,United States,Male,70 to 74,Esophageal cancer,Percent,2017,0.000676890465021,0.00071758363765,0.000636991655323
+Prevalence,United States,Female,70 to 74,Esophageal cancer,Percent,2017,0.000175101124031,0.000189499698872,0.000163323106855
+Prevalence,United States,Male,75 to 79,Esophageal cancer,Percent,2017,0.000663325560586,0.000706639938561,0.000621678940548
+Prevalence,United States,Female,75 to 79,Esophageal cancer,Percent,2017,0.00018372529373,0.000198903054697,0.000170340227027
+Prevalence,United States,Male,<1 year,Esophageal cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,<1 year,Esophageal cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,80 to 84,Esophageal cancer,Percent,2017,0.000481502267513,0.000516912164884,0.000451034787369
+Prevalence,United States,Female,80 to 84,Esophageal cancer,Percent,2017,0.000162069497028,0.000175536733401,0.000150491705078
+Prevalence,United States,Male,85 to 89,Esophageal cancer,Percent,2017,0.000508341095907,0.000543621865193,0.000477011202104
+Prevalence,United States,Female,85 to 89,Esophageal cancer,Percent,2017,0.00018946627348,0.000204238321656,0.000176348535922
+Prevalence,United States,Male,90 to 94,Esophageal cancer,Percent,2017,0.000470710127711,0.000504437433549,0.000440164418288
+Prevalence,United States,Female,90 to 94,Esophageal cancer,Percent,2017,0.00019463096209,0.000209521334909,0.000179600524849
+Prevalence,United States,Male,95 plus,Esophageal cancer,Percent,2017,0.000292346382554,0.000316232423732,0.000271406794961
+Prevalence,United States,Female,95 plus,Esophageal cancer,Percent,2017,0.000114117098088,0.000123603981368,0.000106058504325
+Prevalence,United States,Male,1 to 4,Stomach cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,1 to 4,Stomach cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,5 to 9,Stomach cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,5 to 9,Stomach cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,10 to 14,Stomach cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,10 to 14,Stomach cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,15 to 19,Stomach cancer,Percent,2017,1.89552540735e-06,2.21467339219e-06,1.64330066015e-06
+Prevalence,United States,Female,15 to 19,Stomach cancer,Percent,2017,1.32270544409e-06,1.49839477585e-06,1.16635349757e-06
+Prevalence,United States,Male,20 to 24,Stomach cancer,Percent,2017,1.11456558172e-05,1.27724907612e-05,9.74106242631e-06
+Prevalence,United States,Female,20 to 24,Stomach cancer,Percent,2017,7.52644004287e-06,8.50438820347e-06,6.64153202602e-06
+Prevalence,United States,Male,25 to 29,Stomach cancer,Percent,2017,3.17376131726e-05,3.60049855379e-05,2.84481045739e-05
+Prevalence,United States,Female,25 to 29,Stomach cancer,Percent,2017,2.3322709766e-05,2.61387906142e-05,2.07312611836e-05
+Prevalence,United States,Male,30 to 34,Stomach cancer,Percent,2017,7.04675314589e-05,7.9535514453e-05,6.35901028754e-05
+Prevalence,United States,Female,30 to 34,Stomach cancer,Percent,2017,5.36910703214e-05,6.02472828247e-05,4.79399199595e-05
+Prevalence,United States,Male,35 to 39,Stomach cancer,Percent,2017,0.000107890031398,0.000122089943849,9.63257632793e-05
+Prevalence,United States,Female,35 to 39,Stomach cancer,Percent,2017,6.15941493918e-05,6.96925258556e-05,5.41740541716e-05
+Prevalence,United States,Male,40 to 44,Stomach cancer,Percent,2017,0.000139195484051,0.000156366424155,0.000122674313463
+Prevalence,United States,Female,40 to 44,Stomach cancer,Percent,2017,6.6339758182e-05,7.43741334923e-05,5.95895418626e-05
+Prevalence,United States,Male,45 to 49,Stomach cancer,Percent,2017,0.000203771721254,0.000224487091115,0.000184042302533
+Prevalence,United States,Female,45 to 49,Stomach cancer,Percent,2017,9.85333076118e-05,0.000108701956789,8.87179562645e-05
+Prevalence,United States,Male,50 to 54,Stomach cancer,Percent,2017,0.000370517849481,0.000404078815847,0.000337854668042
+Prevalence,United States,Female,50 to 54,Stomach cancer,Percent,2017,0.00016680693855,0.000185799016203,0.000150202240875
+Prevalence,United States,Male,55 to 59,Stomach cancer,Percent,2017,0.000566579114363,0.000621491477799,0.000519851494998
+Prevalence,United States,Female,55 to 59,Stomach cancer,Percent,2017,0.000251045011946,0.000276388460544,0.000229873903445
+Prevalence,United States,Male,60 to 64,Stomach cancer,Percent,2017,0.000809622538057,0.000878236073368,0.000746018921022
+Prevalence,United States,Female,60 to 64,Stomach cancer,Percent,2017,0.000314899215821,0.00034138538665,0.000289213190721
+Prevalence,United States,Male,65 to 69,Stomach cancer,Percent,2017,0.00105889839643,0.00114417522037,0.000981372527514
+Prevalence,United States,Female,65 to 69,Stomach cancer,Percent,2017,0.000474063625249,0.000514829143154,0.000436774790328
+Prevalence,United States,Male,70 to 74,Stomach cancer,Percent,2017,0.00145422687323,0.00155582148471,0.00135225121563
+Prevalence,United States,Female,70 to 74,Stomach cancer,Percent,2017,0.000715118267279,0.000769054543564,0.000665850249108
+Prevalence,United States,Male,75 to 79,Stomach cancer,Percent,2017,0.00174516157557,0.00188843058228,0.00162711619722
+Prevalence,United States,Female,75 to 79,Stomach cancer,Percent,2017,0.000896314863407,0.000964093490186,0.00082945278714
+Prevalence,United States,Male,<1 year,Stomach cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,<1 year,Stomach cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,80 to 84,Stomach cancer,Percent,2017,0.00165507421743,0.00176969469622,0.0015401875073
+Prevalence,United States,Female,80 to 84,Stomach cancer,Percent,2017,0.000911991888254,0.000973673733341,0.000849048718595
+Prevalence,United States,Male,85 to 89,Stomach cancer,Percent,2017,0.00207644058732,0.00220515213128,0.00193406418116
+Prevalence,United States,Female,85 to 89,Stomach cancer,Percent,2017,0.00120650086361,0.00128974995285,0.00112419349869
+Prevalence,United States,Male,90 to 94,Stomach cancer,Percent,2017,0.00210663007477,0.00224707412781,0.00197674042881
+Prevalence,United States,Female,90 to 94,Stomach cancer,Percent,2017,0.00133321538353,0.00142251899705,0.00124904480792
+Prevalence,United States,Male,95 plus,Stomach cancer,Percent,2017,0.000921959985167,0.000992396639346,0.000855171075378
+Prevalence,United States,Female,95 plus,Stomach cancer,Percent,2017,0.000658771400141,0.00070617900518,0.000611384936495
+Prevalence,United States,Male,1 to 4,Liver cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,1 to 4,Liver cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,5 to 9,Liver cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,5 to 9,Liver cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,10 to 14,Liver cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,10 to 14,Liver cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,15 to 19,Liver cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,15 to 19,Liver cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,20 to 24,Liver cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,20 to 24,Liver cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,25 to 29,Liver cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,25 to 29,Liver cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,30 to 34,Liver cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,30 to 34,Liver cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,35 to 39,Liver cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,35 to 39,Liver cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,40 to 44,Liver cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,40 to 44,Liver cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,45 to 49,Liver cancer,Percent,2017,1.05524779213e-05,2.61888171183e-05,0.0
+Prevalence,United States,Female,45 to 49,Liver cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,50 to 54,Liver cancer,Percent,2017,0.000220206151749,0.000279756830658,0.000162353829839
+Prevalence,United States,Female,50 to 54,Liver cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,55 to 59,Liver cancer,Percent,2017,0.000534034887869,0.000636118007671,0.000438546219958
+Prevalence,United States,Female,55 to 59,Liver cancer,Percent,2017,2.61481539358e-05,4.95912715817e-05,8.02957280525e-06
+Prevalence,United States,Male,60 to 64,Liver cancer,Percent,2017,0.000588073106455,0.000691248763286,0.000495598576207
+Prevalence,United States,Female,60 to 64,Liver cancer,Percent,2017,2.74357023252e-05,5.24510186542e-05,8.52560528516e-06
+Prevalence,United States,Male,65 to 69,Liver cancer,Percent,2017,0.0004946373646,0.000586131550453,0.000406157280492
+Prevalence,United States,Female,65 to 69,Liver cancer,Percent,2017,2.8669905199e-05,5.34709833023e-05,1.08954015784e-05
+Prevalence,United States,Male,70 to 74,Liver cancer,Percent,2017,0.000433728532833,0.000518874938597,0.000359328631231
+Prevalence,United States,Female,70 to 74,Liver cancer,Percent,2017,3.76622689583e-05,6.95538239317e-05,1.37918159965e-05
+Prevalence,United States,Male,75 to 79,Liver cancer,Percent,2017,0.000251314792016,0.000309797532138,0.000197759579877
+Prevalence,United States,Female,75 to 79,Liver cancer,Percent,2017,1.61212113934e-05,3.83354276823e-05,9.17699746525e-07
+Prevalence,United States,Male,<1 year,Liver cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,<1 year,Liver cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,80 to 84,Liver cancer,Percent,2017,0.000269131272581,0.000327762572583,0.000210498575879
+Prevalence,United States,Female,80 to 84,Liver cancer,Percent,2017,1.06488436999e-06,2.42724787892e-06,2.42717795476e-07
+Prevalence,United States,Male,85 to 89,Liver cancer,Percent,2017,0.00025035879359,0.000309065193064,0.000193858740813
+Prevalence,United States,Female,85 to 89,Liver cancer,Percent,2017,1.6223859804e-06,3.42756146755e-06,2.85636737959e-07
+Prevalence,United States,Male,90 to 94,Liver cancer,Percent,2017,0.000206124559973,0.000262264598037,0.000153670608395
+Prevalence,United States,Female,90 to 94,Liver cancer,Percent,2017,1.84215781996e-06,3.8844027444e-06,3.23698119483e-07
+Prevalence,United States,Male,95 plus,Liver cancer,Percent,2017,7.39157804934e-06,1.31422704075e-05,2.94392237298e-06
+Prevalence,United States,Female,95 plus,Liver cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,1 to 4,Hypertensive heart disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,1 to 4,Hypertensive heart disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,5 to 9,Hypertensive heart disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,5 to 9,Hypertensive heart disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,10 to 14,Hypertensive heart disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,10 to 14,Hypertensive heart disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,15 to 19,Hypertensive heart disease,Percent,2017,5.64171358096e-07,9.76797767764e-07,2.7016881232e-07
+Prevalence,United States,Female,15 to 19,Hypertensive heart disease,Percent,2017,5.52893912378e-07,9.49104086305e-07,2.61844774688e-07
+Prevalence,United States,Male,20 to 24,Hypertensive heart disease,Percent,2017,5.42708243085e-05,7.64309093807e-05,3.71822153979e-05
+Prevalence,United States,Female,20 to 24,Hypertensive heart disease,Percent,2017,5.63631487295e-05,8.01744843136e-05,3.83653984487e-05
+Prevalence,United States,Male,25 to 29,Hypertensive heart disease,Percent,2017,0.000189156591407,0.00026113386994,0.00013001297844
+Prevalence,United States,Female,25 to 29,Hypertensive heart disease,Percent,2017,0.000232398100718,0.000318724460165,0.000157387187653
+Prevalence,United States,Male,30 to 34,Hypertensive heart disease,Percent,2017,0.000401439953802,0.00051214302826,0.00029999530676
+Prevalence,United States,Female,30 to 34,Hypertensive heart disease,Percent,2017,0.000478654414228,0.00061722838342,0.000357144633095
+Prevalence,United States,Male,35 to 39,Hypertensive heart disease,Percent,2017,0.000675690658108,0.000866330509751,0.000500098646391
+Prevalence,United States,Female,35 to 39,Hypertensive heart disease,Percent,2017,0.000685503387998,0.000884402598616,0.000511592997357
+Prevalence,United States,Male,40 to 44,Hypertensive heart disease,Percent,2017,0.00103608681753,0.00131907404706,0.000784987754215
+Prevalence,United States,Female,40 to 44,Hypertensive heart disease,Percent,2017,0.000963590686012,0.00123520106902,0.000730488747297
+Prevalence,United States,Male,45 to 49,Hypertensive heart disease,Percent,2017,0.00199676710439,0.00248020720533,0.00155475442044
+Prevalence,United States,Female,45 to 49,Hypertensive heart disease,Percent,2017,0.00178481744756,0.00220792964261,0.00141813035117
+Prevalence,United States,Male,50 to 54,Hypertensive heart disease,Percent,2017,0.00312261908721,0.00393183380175,0.00237090729509
+Prevalence,United States,Female,50 to 54,Hypertensive heart disease,Percent,2017,0.00268683161794,0.00330682694638,0.00208904292742
+Prevalence,United States,Male,55 to 59,Hypertensive heart disease,Percent,2017,0.00419991666112,0.00534430904342,0.00319108022804
+Prevalence,United States,Female,55 to 59,Hypertensive heart disease,Percent,2017,0.00332849470661,0.00415734705915,0.00257162844426
+Prevalence,United States,Male,60 to 64,Hypertensive heart disease,Percent,2017,0.00562073008118,0.00755645597867,0.00392434764474
+Prevalence,United States,Female,60 to 64,Hypertensive heart disease,Percent,2017,0.00449058113565,0.00586767961719,0.00324944684761
+Prevalence,United States,Male,65 to 69,Hypertensive heart disease,Percent,2017,0.00707584957857,0.00916313011646,0.00525361226786
+Prevalence,United States,Female,65 to 69,Hypertensive heart disease,Percent,2017,0.00663495731171,0.00851670976322,0.00497836858715
+Prevalence,United States,Male,70 to 74,Hypertensive heart disease,Percent,2017,0.00814283686252,0.0110968069596,0.00557758158479
+Prevalence,United States,Female,70 to 74,Hypertensive heart disease,Percent,2017,0.00900300027721,0.0118950924057,0.00643358233847
+Prevalence,United States,Male,75 to 79,Hypertensive heart disease,Percent,2017,0.00958541003367,0.0127113795636,0.00692633771036
+Prevalence,United States,Female,75 to 79,Hypertensive heart disease,Percent,2017,0.0124329276258,0.0164088410317,0.00902352383537
+Prevalence,United States,Male,<1 year,Hypertensive heart disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,<1 year,Hypertensive heart disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,80 to 84,Hypertensive heart disease,Percent,2017,0.0121406680666,0.0167907461562,0.0082511956205
+Prevalence,United States,Female,80 to 84,Hypertensive heart disease,Percent,2017,0.0188572571572,0.0253314445958,0.013242620694
+Prevalence,United States,Male,85 to 89,Hypertensive heart disease,Percent,2017,0.0170243404651,0.0236336464856,0.0115769061863
+Prevalence,United States,Female,85 to 89,Hypertensive heart disease,Percent,2017,0.0302293574003,0.0405551599354,0.0211999233243
+Prevalence,United States,Male,90 to 94,Hypertensive heart disease,Percent,2017,0.0224923314163,0.0311156115791,0.0146537672623
+Prevalence,United States,Female,90 to 94,Hypertensive heart disease,Percent,2017,0.0413653840612,0.0551600981805,0.0284369599779
+Prevalence,United States,Male,95 plus,Hypertensive heart disease,Percent,2017,0.0265275077305,0.0413338247785,0.0152194254867
+Prevalence,United States,Female,95 plus,Hypertensive heart disease,Percent,2017,0.0462811036375,0.0683746777193,0.0281670213068
+Prevalence,United States,Male,1 to 4,Chronic respiratory diseases,Percent,2017,0.131946604805,0.162407534101,0.103807827452
+Prevalence,United States,Female,1 to 4,Chronic respiratory diseases,Percent,2017,0.0765932759189,0.0964910855129,0.0588093013003
+Prevalence,United States,Male,5 to 9,Chronic respiratory diseases,Percent,2017,0.128654229358,0.156435466906,0.103923238346
+Prevalence,United States,Female,5 to 9,Chronic respiratory diseases,Percent,2017,0.0812346688864,0.101403552078,0.0648333607786
+Prevalence,United States,Male,10 to 14,Chronic respiratory diseases,Percent,2017,0.0812738200353,0.0963483783899,0.0666778934004
+Prevalence,United States,Female,10 to 14,Chronic respiratory diseases,Percent,2017,0.058287474433,0.0695102602799,0.0480247590169
+Prevalence,United States,Male,15 to 19,Chronic respiratory diseases,Percent,2017,0.0421840807893,0.0506695542178,0.0346979117617
+Prevalence,United States,Female,15 to 19,Chronic respiratory diseases,Percent,2017,0.0481661738531,0.0574010463092,0.0396796144545
+Prevalence,United States,Male,20 to 24,Chronic respiratory diseases,Percent,2017,0.0287505562086,0.033036732035,0.0243828802131
+Prevalence,United States,Female,20 to 24,Chronic respiratory diseases,Percent,2017,0.042859285444,0.0495710305475,0.0361620211834
+Prevalence,United States,Male,25 to 29,Chronic respiratory diseases,Percent,2017,0.0276079828745,0.0314685264519,0.0238065837943
+Prevalence,United States,Female,25 to 29,Chronic respiratory diseases,Percent,2017,0.0449803373847,0.0520296692105,0.0392247003199
+Prevalence,United States,Male,30 to 34,Chronic respiratory diseases,Percent,2017,0.0317569675612,0.0357008316129,0.027959810345
+Prevalence,United States,Female,30 to 34,Chronic respiratory diseases,Percent,2017,0.0524258828045,0.0597809254943,0.0459298735198
+Prevalence,United States,Male,35 to 39,Chronic respiratory diseases,Percent,2017,0.0382676385402,0.0428397941881,0.0341298128824
+Prevalence,United States,Female,35 to 39,Chronic respiratory diseases,Percent,2017,0.0624523087853,0.0705638896606,0.0556695722098
+Prevalence,United States,Male,40 to 44,Chronic respiratory diseases,Percent,2017,0.0492401444061,0.0553333198438,0.043283283068
+Prevalence,United States,Female,40 to 44,Chronic respiratory diseases,Percent,2017,0.0783669228785,0.0874884462126,0.06967496089
+Prevalence,United States,Male,45 to 49,Chronic respiratory diseases,Percent,2017,0.0677711836718,0.0750811319004,0.0609945844798
+Prevalence,United States,Female,45 to 49,Chronic respiratory diseases,Percent,2017,0.102183284158,0.112346429971,0.0925746340069
+Prevalence,United States,Male,50 to 54,Chronic respiratory diseases,Percent,2017,0.0940938306004,0.103858973481,0.0851856360905
+Prevalence,United States,Female,50 to 54,Chronic respiratory diseases,Percent,2017,0.127888513873,0.139634223706,0.116957602763
+Prevalence,United States,Male,55 to 59,Chronic respiratory diseases,Percent,2017,0.126393082965,0.138916639227,0.114959199841
+Prevalence,United States,Female,55 to 59,Chronic respiratory diseases,Percent,2017,0.151688436063,0.164653916042,0.139023585332
+Prevalence,United States,Male,60 to 64,Chronic respiratory diseases,Percent,2017,0.168043144795,0.185200203009,0.152370072975
+Prevalence,United States,Female,60 to 64,Chronic respiratory diseases,Percent,2017,0.182111620992,0.199074227902,0.166944210538
+Prevalence,United States,Male,65 to 69,Chronic respiratory diseases,Percent,2017,0.226530370169,0.247880464106,0.206217352119
+Prevalence,United States,Female,65 to 69,Chronic respiratory diseases,Percent,2017,0.23252318085,0.253316919713,0.213538910727
+Prevalence,United States,Male,70 to 74,Chronic respiratory diseases,Percent,2017,0.289349236992,0.313218316343,0.267002103538
+Prevalence,United States,Female,70 to 74,Chronic respiratory diseases,Percent,2017,0.286534816045,0.308870363338,0.266252431618
+Prevalence,United States,Male,75 to 79,Chronic respiratory diseases,Percent,2017,0.333673060986,0.358618935503,0.309745785375
+Prevalence,United States,Female,75 to 79,Chronic respiratory diseases,Percent,2017,0.314991940415,0.338997112713,0.292756267108
+Prevalence,United States,Male,<1 year,Chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,<1 year,Chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,80 to 84,Chronic respiratory diseases,Percent,2017,0.351191584426,0.378709828084,0.325864104405
+Prevalence,United States,Female,80 to 84,Chronic respiratory diseases,Percent,2017,0.31689507991,0.341226806297,0.295813750885
+Prevalence,United States,Male,85 to 89,Chronic respiratory diseases,Percent,2017,0.350461287564,0.377834772031,0.324885683663
+Prevalence,United States,Female,85 to 89,Chronic respiratory diseases,Percent,2017,0.30736030428,0.330921783414,0.28482366191
+Prevalence,United States,Male,90 to 94,Chronic respiratory diseases,Percent,2017,0.340490420724,0.368485898555,0.314576507726
+Prevalence,United States,Female,90 to 94,Chronic respiratory diseases,Percent,2017,0.293983505536,0.3191508141,0.270277394407
+Prevalence,United States,Male,95 plus,Chronic respiratory diseases,Percent,2017,0.322436279907,0.353954942441,0.293466933618
+Prevalence,United States,Female,95 plus,Chronic respiratory diseases,Percent,2017,0.276704204614,0.303382410197,0.251438220872
+Prevalence,United States,Male,1 to 4,Respiratory infections and tuberculosis,Percent,2017,0.14771348927,0.176163649475,0.122915914208
+Prevalence,United States,Female,1 to 4,Respiratory infections and tuberculosis,Percent,2017,0.131494205706,0.157915754583,0.108657835017
+Prevalence,United States,Male,5 to 9,Respiratory infections and tuberculosis,Percent,2017,0.11107609979,0.135414847782,0.0888149137675
+Prevalence,United States,Female,5 to 9,Respiratory infections and tuberculosis,Percent,2017,0.102320081377,0.124630563414,0.0811192061745
+Prevalence,United States,Male,10 to 14,Respiratory infections and tuberculosis,Percent,2017,0.0912697044584,0.110403308266,0.0727110433445
+Prevalence,United States,Female,10 to 14,Respiratory infections and tuberculosis,Percent,2017,0.0847987775209,0.102778702454,0.0670379789383
+Prevalence,United States,Male,15 to 19,Respiratory infections and tuberculosis,Percent,2017,0.0934001640245,0.116200806575,0.0747852843641
+Prevalence,United States,Female,15 to 19,Respiratory infections and tuberculosis,Percent,2017,0.0856606603707,0.106259021013,0.0687982645185
+Prevalence,United States,Male,20 to 24,Respiratory infections and tuberculosis,Percent,2017,0.099793938945,0.125691134238,0.0781251587926
+Prevalence,United States,Female,20 to 24,Respiratory infections and tuberculosis,Percent,2017,0.0887120227888,0.111688144141,0.0700800227671
+Prevalence,United States,Male,25 to 29,Respiratory infections and tuberculosis,Percent,2017,0.104287340216,0.135404691922,0.0806238847468
+Prevalence,United States,Female,25 to 29,Respiratory infections and tuberculosis,Percent,2017,0.0952217805843,0.120818472535,0.0740717784334
+Prevalence,United States,Male,30 to 34,Respiratory infections and tuberculosis,Percent,2017,0.109706419301,0.140418337419,0.0832410439272
+Prevalence,United States,Female,30 to 34,Respiratory infections and tuberculosis,Percent,2017,0.107318405635,0.134505991662,0.0834948754567
+Prevalence,United States,Male,35 to 39,Respiratory infections and tuberculosis,Percent,2017,0.126678812807,0.162248643816,0.0968836987777
+Prevalence,United States,Female,35 to 39,Respiratory infections and tuberculosis,Percent,2017,0.116161348666,0.146264687288,0.0902638645134
+Prevalence,United States,Male,40 to 44,Respiratory infections and tuberculosis,Percent,2017,0.139453528662,0.179654210304,0.104818932604
+Prevalence,United States,Female,40 to 44,Respiratory infections and tuberculosis,Percent,2017,0.11335997325,0.144596937732,0.0860205786475
+Prevalence,United States,Male,45 to 49,Respiratory infections and tuberculosis,Percent,2017,0.13982248555,0.184439105068,0.104029896028
+Prevalence,United States,Female,45 to 49,Respiratory infections and tuberculosis,Percent,2017,0.115214184868,0.147860163793,0.0875138713272
+Prevalence,United States,Male,50 to 54,Respiratory infections and tuberculosis,Percent,2017,0.138093110251,0.179429146992,0.103260936742
+Prevalence,United States,Female,50 to 54,Respiratory infections and tuberculosis,Percent,2017,0.124101328164,0.160136925016,0.0948900327237
+Prevalence,United States,Male,55 to 59,Respiratory infections and tuberculosis,Percent,2017,0.142607572194,0.187576987505,0.106154131084
+Prevalence,United States,Female,55 to 59,Respiratory infections and tuberculosis,Percent,2017,0.12874871209,0.167077337621,0.0975994049692
+Prevalence,United States,Male,60 to 64,Respiratory infections and tuberculosis,Percent,2017,0.150018147322,0.197924723557,0.111858042157
+Prevalence,United States,Female,60 to 64,Respiratory infections and tuberculosis,Percent,2017,0.127594929958,0.166564161489,0.0962974266295
+Prevalence,United States,Male,65 to 69,Respiratory infections and tuberculosis,Percent,2017,0.150160359006,0.200343622725,0.10953119788
+Prevalence,United States,Female,65 to 69,Respiratory infections and tuberculosis,Percent,2017,0.119202050229,0.15653743943,0.0885523468974
+Prevalence,United States,Male,70 to 74,Respiratory infections and tuberculosis,Percent,2017,0.134984896592,0.176025161678,0.10301375898
+Prevalence,United States,Female,70 to 74,Respiratory infections and tuberculosis,Percent,2017,0.0972340645632,0.126701877722,0.0743107490392
+Prevalence,United States,Male,75 to 79,Respiratory infections and tuberculosis,Percent,2017,0.11724856296,0.147982650948,0.0912637851345
+Prevalence,United States,Female,75 to 79,Respiratory infections and tuberculosis,Percent,2017,0.079921831451,0.101022536728,0.06253153683
+Prevalence,United States,Male,<1 year,Respiratory infections and tuberculosis,Percent,2017,0.202572638035,0.241932922516,0.161716485938
+Prevalence,United States,Female,<1 year,Respiratory infections and tuberculosis,Percent,2017,0.168661853269,0.196678653824,0.142513026792
+Prevalence,United States,Male,80 to 84,Respiratory infections and tuberculosis,Percent,2017,0.10688692626,0.129931917415,0.0861901897866
+Prevalence,United States,Female,80 to 84,Respiratory infections and tuberculosis,Percent,2017,0.0747543942048,0.0896332029672,0.0612411143959
+Prevalence,United States,Male,85 to 89,Respiratory infections and tuberculosis,Percent,2017,0.0985517486507,0.117479919918,0.0821516652154
+Prevalence,United States,Female,85 to 89,Respiratory infections and tuberculosis,Percent,2017,0.0708654228136,0.0845826307971,0.0589595641818
+Prevalence,United States,Male,90 to 94,Respiratory infections and tuberculosis,Percent,2017,0.0910709488693,0.109023967924,0.0755104269731
+Prevalence,United States,Female,90 to 94,Respiratory infections and tuberculosis,Percent,2017,0.068541545917,0.0820025148993,0.0567683708745
+Prevalence,United States,Male,95 plus,Respiratory infections and tuberculosis,Percent,2017,0.0836814866199,0.107235086991,0.0648714068452
+Prevalence,United States,Female,95 plus,Respiratory infections and tuberculosis,Percent,2017,0.0668120131782,0.0856565456548,0.0521179230603
+Prevalence,United States,Male,1 to 4,Enteric infections,Percent,2017,0.0121162440337,0.0167110093307,0.00858749382761
+Prevalence,United States,Female,1 to 4,Enteric infections,Percent,2017,0.0100352284138,0.0138203726077,0.00707047240292
+Prevalence,United States,Male,5 to 9,Enteric infections,Percent,2017,0.00487639256134,0.00716975245609,0.00315267784507
+Prevalence,United States,Female,5 to 9,Enteric infections,Percent,2017,0.00438671907128,0.00653456434733,0.00289526112895
+Prevalence,United States,Male,10 to 14,Enteric infections,Percent,2017,0.00662461815471,0.0081283442834,0.0053941784912
+Prevalence,United States,Female,10 to 14,Enteric infections,Percent,2017,0.00666493655595,0.00808089572811,0.00558127273997
+Prevalence,United States,Male,15 to 19,Enteric infections,Percent,2017,0.00842237437812,0.00966177658666,0.00723706640634
+Prevalence,United States,Female,15 to 19,Enteric infections,Percent,2017,0.00897565193979,0.0103556059945,0.00767044184372
+Prevalence,United States,Male,20 to 24,Enteric infections,Percent,2017,0.00940228371102,0.0108359917985,0.00800855893915
+Prevalence,United States,Female,20 to 24,Enteric infections,Percent,2017,0.0104588147653,0.011965383342,0.00892262121635
+Prevalence,United States,Male,25 to 29,Enteric infections,Percent,2017,0.00878231409605,0.00986786026027,0.00767588700858
+Prevalence,United States,Female,25 to 29,Enteric infections,Percent,2017,0.0100159541173,0.0112426340246,0.00868409781935
+Prevalence,United States,Male,30 to 34,Enteric infections,Percent,2017,0.00827774155653,0.00921819213984,0.00730854628281
+Prevalence,United States,Female,30 to 34,Enteric infections,Percent,2017,0.00961693260334,0.0105916616458,0.00852961205133
+Prevalence,United States,Male,35 to 39,Enteric infections,Percent,2017,0.0078603708961,0.00861872308277,0.00704484510543
+Prevalence,United States,Female,35 to 39,Enteric infections,Percent,2017,0.00929637483244,0.0101333004137,0.00843017519944
+Prevalence,United States,Male,40 to 44,Enteric infections,Percent,2017,0.00745483523103,0.0081375959386,0.00678985231178
+Prevalence,United States,Female,40 to 44,Enteric infections,Percent,2017,0.00897362563483,0.00976385570114,0.00819023416961
+Prevalence,United States,Male,45 to 49,Enteric infections,Percent,2017,0.00705557774636,0.00769839722504,0.00641151724244
+Prevalence,United States,Female,45 to 49,Enteric infections,Percent,2017,0.00867512219819,0.0095618326325,0.0078515563894
+Prevalence,United States,Male,50 to 54,Enteric infections,Percent,2017,0.00666396061894,0.00741205783615,0.00594822315211
+Prevalence,United States,Female,50 to 54,Enteric infections,Percent,2017,0.00838717128723,0.00934996298043,0.00748833277782
+Prevalence,United States,Male,55 to 59,Enteric infections,Percent,2017,0.00629254958334,0.00714597086996,0.00538781566973
+Prevalence,United States,Female,55 to 59,Enteric infections,Percent,2017,0.00809297037336,0.00920239674724,0.0069900194738
+Prevalence,United States,Male,60 to 64,Enteric infections,Percent,2017,0.00636380480541,0.00720303484952,0.00548340837688
+Prevalence,United States,Female,60 to 64,Enteric infections,Percent,2017,0.00841933926754,0.00947226146596,0.00740033813985
+Prevalence,United States,Male,65 to 69,Enteric infections,Percent,2017,0.00703399410378,0.00771852458951,0.00630885764534
+Prevalence,United States,Female,65 to 69,Enteric infections,Percent,2017,0.00956959534245,0.0104384464157,0.00861730801752
+Prevalence,United States,Male,70 to 74,Enteric infections,Percent,2017,0.0077186517426,0.00853921653794,0.00690738445537
+Prevalence,United States,Female,70 to 74,Enteric infections,Percent,2017,0.0107557223362,0.0118722300205,0.00965085757303
+Prevalence,United States,Male,75 to 79,Enteric infections,Percent,2017,0.00843767610887,0.00956266550616,0.00735467293678
+Prevalence,United States,Female,75 to 79,Enteric infections,Percent,2017,0.0119695359423,0.0133632539633,0.0105856442399
+Prevalence,United States,Male,<1 year,Enteric infections,Percent,2017,0.0175740178629,0.0220706360829,0.0135258755624
+Prevalence,United States,Female,<1 year,Enteric infections,Percent,2017,0.0145600189331,0.0179820099919,0.0118125235535
+Prevalence,United States,Male,80 to 84,Enteric infections,Percent,2017,0.00966143534065,0.0108470653414,0.00854433713099
+Prevalence,United States,Female,80 to 84,Enteric infections,Percent,2017,0.0131431027954,0.0146255227483,0.0116478932358
+Prevalence,United States,Male,85 to 89,Enteric infections,Percent,2017,0.0115357023638,0.0127162819506,0.0103584668203
+Prevalence,United States,Female,85 to 89,Enteric infections,Percent,2017,0.0141940710611,0.015665893242,0.0128275289197
+Prevalence,United States,Male,90 to 94,Enteric infections,Percent,2017,0.013291919329,0.0151692459756,0.0117057684402
+Prevalence,United States,Female,90 to 94,Enteric infections,Percent,2017,0.0152175936659,0.0172586640243,0.0134050750736
+Prevalence,United States,Male,95 plus,Enteric infections,Percent,2017,0.0149000875884,0.0177128991667,0.0125757768019
+Prevalence,United States,Female,95 plus,Enteric infections,Percent,2017,0.016204800507,0.0191202190411,0.0136891170739
+Prevalence,United States,Male,1 to 4,Colon and rectum cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,1 to 4,Colon and rectum cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,5 to 9,Colon and rectum cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,5 to 9,Colon and rectum cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,10 to 14,Colon and rectum cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,10 to 14,Colon and rectum cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,15 to 19,Colon and rectum cancer,Percent,2017,2.83773519667e-05,3.23346898617e-05,2.52801052385e-05
+Prevalence,United States,Female,15 to 19,Colon and rectum cancer,Percent,2017,1.69490022559e-05,1.89171049497e-05,1.55411195687e-05
+Prevalence,United States,Male,20 to 24,Colon and rectum cancer,Percent,2017,0.000109076338026,0.000121200901127,9.85256211472e-05
+Prevalence,United States,Female,20 to 24,Colon and rectum cancer,Percent,2017,7.04570113612e-05,7.82286224801e-05,6.22092122596e-05
+Prevalence,United States,Male,25 to 29,Colon and rectum cancer,Percent,2017,0.000291591187821,0.000323319041128,0.000246685819536
+Prevalence,United States,Female,25 to 29,Colon and rectum cancer,Percent,2017,0.000202571314378,0.000226071615698,0.000170527101135
+Prevalence,United States,Male,30 to 34,Colon and rectum cancer,Percent,2017,0.000577156058098,0.000636943445516,0.000477691650083
+Prevalence,United States,Female,30 to 34,Colon and rectum cancer,Percent,2017,0.00047258128152,0.000530404637772,0.000392323784468
+Prevalence,United States,Male,35 to 39,Colon and rectum cancer,Percent,2017,0.00102970147576,0.0011307802998,0.000879684895487
+Prevalence,United States,Female,35 to 39,Colon and rectum cancer,Percent,2017,0.00085583764523,0.000941597768442,0.000753179246623
+Prevalence,United States,Male,40 to 44,Colon and rectum cancer,Percent,2017,0.00173589008923,0.00187872588989,0.00157980984511
+Prevalence,United States,Female,40 to 44,Colon and rectum cancer,Percent,2017,0.00144469320993,0.0015519312607,0.00133819850745
+Prevalence,United States,Male,45 to 49,Colon and rectum cancer,Percent,2017,0.00276982150134,0.00297324874871,0.00256757480115
+Prevalence,United States,Female,45 to 49,Colon and rectum cancer,Percent,2017,0.00221308451469,0.00235576465414,0.00206149425618
+Prevalence,United States,Male,50 to 54,Colon and rectum cancer,Percent,2017,0.00508992934034,0.00545897198357,0.00472671984904
+Prevalence,United States,Female,50 to 54,Colon and rectum cancer,Percent,2017,0.00378449546311,0.00403235201637,0.00353801778615
+Prevalence,United States,Male,55 to 59,Colon and rectum cancer,Percent,2017,0.00739444423118,0.0078827819098,0.00687664875638
+Prevalence,United States,Female,55 to 59,Colon and rectum cancer,Percent,2017,0.0050442725755,0.00533399789442,0.00474340152131
+Prevalence,United States,Male,60 to 64,Colon and rectum cancer,Percent,2017,0.010144341391,0.0107861844618,0.00944492776772
+Prevalence,United States,Female,60 to 64,Colon and rectum cancer,Percent,2017,0.00646303143537,0.00682763525662,0.00610853091342
+Prevalence,United States,Male,65 to 69,Colon and rectum cancer,Percent,2017,0.0131290895685,0.0138510547512,0.0124251264342
+Prevalence,United States,Female,65 to 69,Colon and rectum cancer,Percent,2017,0.00869344047998,0.00919916860594,0.00819952246642
+Prevalence,United States,Male,70 to 74,Colon and rectum cancer,Percent,2017,0.0162275242538,0.0171680863134,0.0153571897901
+Prevalence,United States,Female,70 to 74,Colon and rectum cancer,Percent,2017,0.0113337227864,0.0119625031995,0.0107675449492
+Prevalence,United States,Male,75 to 79,Colon and rectum cancer,Percent,2017,0.0189598267168,0.0199905687088,0.0179359225382
+Prevalence,United States,Female,75 to 79,Colon and rectum cancer,Percent,2017,0.013958762958,0.01471217363,0.0132289211593
+Prevalence,United States,Male,<1 year,Colon and rectum cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,<1 year,Colon and rectum cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,80 to 84,Colon and rectum cancer,Percent,2017,0.0151754670547,0.0160097417406,0.0143603054769
+Prevalence,United States,Female,80 to 84,Colon and rectum cancer,Percent,2017,0.0121061398308,0.0127316025954,0.0115214673872
+Prevalence,United States,Male,85 to 89,Colon and rectum cancer,Percent,2017,0.0191737898102,0.0202760599119,0.0181367593524
+Prevalence,United States,Female,85 to 89,Colon and rectum cancer,Percent,2017,0.0159934368518,0.0168874209647,0.0152357742832
+Prevalence,United States,Male,90 to 94,Colon and rectum cancer,Percent,2017,0.0211680194134,0.0223896670178,0.0199941331141
+Prevalence,United States,Female,90 to 94,Colon and rectum cancer,Percent,2017,0.0185073565861,0.0194367368601,0.0176520248082
+Prevalence,United States,Male,95 plus,Colon and rectum cancer,Percent,2017,0.0111990143932,0.0116982255699,0.0106773184203
+Prevalence,United States,Female,95 plus,Colon and rectum cancer,Percent,2017,0.00894845726366,0.00931799993001,0.00861169714152
+Prevalence,United States,Male,1 to 4,Lip and oral cavity cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,1 to 4,Lip and oral cavity cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,5 to 9,Lip and oral cavity cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,5 to 9,Lip and oral cavity cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,10 to 14,Lip and oral cavity cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,10 to 14,Lip and oral cavity cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,15 to 19,Lip and oral cavity cancer,Percent,2017,1.13766661242e-05,1.28597290484e-05,1.02070787912e-05
+Prevalence,United States,Female,15 to 19,Lip and oral cavity cancer,Percent,2017,1.031441343e-05,1.15254939192e-05,9.28387909828e-06
+Prevalence,United States,Male,20 to 24,Lip and oral cavity cancer,Percent,2017,3.69964886995e-05,4.18888065119e-05,3.29108075262e-05
+Prevalence,United States,Female,20 to 24,Lip and oral cavity cancer,Percent,2017,2.22955933025e-05,2.54070664149e-05,1.92363567726e-05
+Prevalence,United States,Male,25 to 29,Lip and oral cavity cancer,Percent,2017,9.58177102502e-05,0.000109623264028,8.22088187835e-05
+Prevalence,United States,Female,25 to 29,Lip and oral cavity cancer,Percent,2017,5.36690999089e-05,6.2364122515e-05,4.47412419234e-05
+Prevalence,United States,Male,30 to 34,Lip and oral cavity cancer,Percent,2017,0.000135843076353,0.000151011452023,0.000116110321228
+Prevalence,United States,Female,30 to 34,Lip and oral cavity cancer,Percent,2017,7.4507233514e-05,8.54589054332e-05,6.32689737239e-05
+Prevalence,United States,Male,35 to 39,Lip and oral cavity cancer,Percent,2017,0.000223805593284,0.000245275399095,0.00019500665927
+Prevalence,United States,Female,35 to 39,Lip and oral cavity cancer,Percent,2017,0.000108772433687,0.000122394049569,9.50886772225e-05
+Prevalence,United States,Male,40 to 44,Lip and oral cavity cancer,Percent,2017,0.000298591117853,0.00033240957168,0.00026708841913
+Prevalence,United States,Female,40 to 44,Lip and oral cavity cancer,Percent,2017,0.000140220284056,0.000156206749375,0.000126071056259
+Prevalence,United States,Male,45 to 49,Lip and oral cavity cancer,Percent,2017,0.000530008166367,0.000586716422075,0.00047798799504
+Prevalence,United States,Female,45 to 49,Lip and oral cavity cancer,Percent,2017,0.000213787944,0.000234512270847,0.000194185971021
+Prevalence,United States,Male,50 to 54,Lip and oral cavity cancer,Percent,2017,0.00102112029659,0.00111996362753,0.00092922276034
+Prevalence,United States,Female,50 to 54,Lip and oral cavity cancer,Percent,2017,0.000374734421829,0.000411409620786,0.000340044077177
+Prevalence,United States,Male,55 to 59,Lip and oral cavity cancer,Percent,2017,0.00158704950624,0.00173240679642,0.00144731494134
+Prevalence,United States,Female,55 to 59,Lip and oral cavity cancer,Percent,2017,0.000509651064897,0.000556193277571,0.000460213097851
+Prevalence,United States,Male,60 to 64,Lip and oral cavity cancer,Percent,2017,0.00196202257306,0.00214554822858,0.00178754808367
+Prevalence,United States,Female,60 to 64,Lip and oral cavity cancer,Percent,2017,0.000583159108917,0.000635127483514,0.0005298963058
+Prevalence,United States,Male,65 to 69,Lip and oral cavity cancer,Percent,2017,0.0022595657574,0.00247178056145,0.00207531855699
+Prevalence,United States,Female,65 to 69,Lip and oral cavity cancer,Percent,2017,0.000779797223478,0.000851762299487,0.000716699989826
+Prevalence,United States,Male,70 to 74,Lip and oral cavity cancer,Percent,2017,0.00225125080577,0.00246017043213,0.00205396477474
+Prevalence,United States,Female,70 to 74,Lip and oral cavity cancer,Percent,2017,0.000937623826433,0.00102129974396,0.000857715885284
+Prevalence,United States,Male,75 to 79,Lip and oral cavity cancer,Percent,2017,0.00245634537687,0.00269308446442,0.00223132898274
+Prevalence,United States,Female,75 to 79,Lip and oral cavity cancer,Percent,2017,0.00108834052435,0.00119677896781,0.000987634686523
+Prevalence,United States,Male,<1 year,Lip and oral cavity cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,<1 year,Lip and oral cavity cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,80 to 84,Lip and oral cavity cancer,Percent,2017,0.00199971503126,0.0021823329701,0.00182390303817
+Prevalence,United States,Female,80 to 84,Lip and oral cavity cancer,Percent,2017,0.00091460633435,0.000994677924811,0.000842053018353
+Prevalence,United States,Male,85 to 89,Lip and oral cavity cancer,Percent,2017,0.00219549153744,0.00240610055393,0.00200819261785
+Prevalence,United States,Female,85 to 89,Lip and oral cavity cancer,Percent,2017,0.00112818400199,0.00121900591851,0.00103641476096
+Prevalence,United States,Male,90 to 94,Lip and oral cavity cancer,Percent,2017,0.00232004680269,0.0025404127915,0.00211402823351
+Prevalence,United States,Female,90 to 94,Lip and oral cavity cancer,Percent,2017,0.00136668416935,0.00148289716009,0.00125322023633
+Prevalence,United States,Male,95 plus,Lip and oral cavity cancer,Percent,2017,0.000756068773421,0.000825840176334,0.000689236370617
+Prevalence,United States,Female,95 plus,Lip and oral cavity cancer,Percent,2017,0.000456370451184,0.000495195585595,0.000419598736325
+Prevalence,United States,Male,1 to 4,Nasopharynx cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,1 to 4,Nasopharynx cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,5 to 9,Nasopharynx cancer,Percent,2017,5.7218170485e-06,6.34171913609e-06,5.12954066809e-06
+Prevalence,United States,Female,5 to 9,Nasopharynx cancer,Percent,2017,4.14950538238e-06,4.73030329056e-06,3.50105500016e-06
+Prevalence,United States,Male,10 to 14,Nasopharynx cancer,Percent,2017,1.91479432357e-05,2.66237643123e-05,1.29965281788e-05
+Prevalence,United States,Female,10 to 14,Nasopharynx cancer,Percent,2017,1.20707941226e-05,1.68546618436e-05,7.90916920713e-06
+Prevalence,United States,Male,15 to 19,Nasopharynx cancer,Percent,2017,8.12501169928e-06,9.38560245021e-06,7.0533949465e-06
+Prevalence,United States,Female,15 to 19,Nasopharynx cancer,Percent,2017,3.3018485169e-06,3.83214190403e-06,2.76242261922e-06
+Prevalence,United States,Male,20 to 24,Nasopharynx cancer,Percent,2017,2.28169012002e-05,2.71672359462e-05,1.85789534722e-05
+Prevalence,United States,Female,20 to 24,Nasopharynx cancer,Percent,2017,8.30722984114e-06,9.82892310807e-06,6.72392702067e-06
+Prevalence,United States,Male,25 to 29,Nasopharynx cancer,Percent,2017,2.28141743691e-05,2.70318847121e-05,1.79327696956e-05
+Prevalence,United States,Female,25 to 29,Nasopharynx cancer,Percent,2017,1.01967949344e-05,1.17704374072e-05,8.63321911425e-06
+Prevalence,United States,Male,30 to 34,Nasopharynx cancer,Percent,2017,2.54929104122e-05,3.06830908795e-05,2.00348536957e-05
+Prevalence,United States,Female,30 to 34,Nasopharynx cancer,Percent,2017,1.33353577428e-05,1.57877304803e-05,1.08509687602e-05
+Prevalence,United States,Male,35 to 39,Nasopharynx cancer,Percent,2017,4.46677880713e-05,5.3140566581e-05,3.60011661258e-05
+Prevalence,United States,Female,35 to 39,Nasopharynx cancer,Percent,2017,1.84879309963e-05,2.19644969502e-05,1.48413527271e-05
+Prevalence,United States,Male,40 to 44,Nasopharynx cancer,Percent,2017,7.94748150793e-05,9.73836144134e-05,6.23643438664e-05
+Prevalence,United States,Female,40 to 44,Nasopharynx cancer,Percent,2017,2.7916432843e-05,3.5597497458e-05,2.11857403513e-05
+Prevalence,United States,Male,45 to 49,Nasopharynx cancer,Percent,2017,9.38198096689e-05,0.00010664396201,8.07046995943e-05
+Prevalence,United States,Female,45 to 49,Nasopharynx cancer,Percent,2017,4.34252218357e-05,5.32101592556e-05,3.46423958799e-05
+Prevalence,United States,Male,50 to 54,Nasopharynx cancer,Percent,2017,0.000108433214517,0.000122934460447,9.42443704089e-05
+Prevalence,United States,Female,50 to 54,Nasopharynx cancer,Percent,2017,4.62889816362e-05,5.49514431496e-05,3.89463217171e-05
+Prevalence,United States,Male,55 to 59,Nasopharynx cancer,Percent,2017,0.000105445192519,0.000120196747047,9.22329622993e-05
+Prevalence,United States,Female,55 to 59,Nasopharynx cancer,Percent,2017,4.53745415668e-05,5.30741499739e-05,3.84992991225e-05
+Prevalence,United States,Male,60 to 64,Nasopharynx cancer,Percent,2017,0.00010690154955,0.000123054669033,9.24879248853e-05
+Prevalence,United States,Female,60 to 64,Nasopharynx cancer,Percent,2017,2.31802900055e-05,2.75872511803e-05,1.9306167949e-05
+Prevalence,United States,Male,65 to 69,Nasopharynx cancer,Percent,2017,0.00012916433719,0.000145515037426,0.000113962760288
+Prevalence,United States,Female,65 to 69,Nasopharynx cancer,Percent,2017,3.62100570037e-05,4.22264054523e-05,3.04786946652e-05
+Prevalence,United States,Male,70 to 74,Nasopharynx cancer,Percent,2017,6.8413314861e-05,7.95525263831e-05,5.94132226444e-05
+Prevalence,United States,Female,70 to 74,Nasopharynx cancer,Percent,2017,2.8007024169e-05,3.34389786863e-05,2.35446940757e-05
+Prevalence,United States,Male,75 to 79,Nasopharynx cancer,Percent,2017,5.38001308314e-05,6.10764821341e-05,4.71440844781e-05
+Prevalence,United States,Female,75 to 79,Nasopharynx cancer,Percent,2017,3.10860743685e-05,3.46866389115e-05,2.75818389603e-05
+Prevalence,United States,Male,<1 year,Nasopharynx cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,<1 year,Nasopharynx cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,80 to 84,Nasopharynx cancer,Percent,2017,3.26964802554e-05,3.71210646967e-05,2.96986897021e-05
+Prevalence,United States,Female,80 to 84,Nasopharynx cancer,Percent,2017,2.40728053406e-05,2.77647633889e-05,2.03954956742e-05
+Prevalence,United States,Male,85 to 89,Nasopharynx cancer,Percent,2017,2.99048077052e-05,3.37117609752e-05,2.69249389547e-05
+Prevalence,United States,Female,85 to 89,Nasopharynx cancer,Percent,2017,2.4893668097e-05,2.88744151858e-05,2.11185499824e-05
+Prevalence,United States,Male,90 to 94,Nasopharynx cancer,Percent,2017,2.35887681467e-05,2.66963535784e-05,2.14781212054e-05
+Prevalence,United States,Female,90 to 94,Nasopharynx cancer,Percent,2017,1.75079373454e-05,2.0291080403e-05,1.49074023221e-05
+Prevalence,United States,Male,95 plus,Nasopharynx cancer,Percent,2017,6.63517125154e-06,7.50235302029e-06,6.09280957751e-06
+Prevalence,United States,Female,95 plus,Nasopharynx cancer,Percent,2017,6.87651782652e-06,7.85428496704e-06,5.91849589543e-06
+Prevalence,United States,Male,1 to 4,Other pharynx cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,1 to 4,Other pharynx cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,5 to 9,Other pharynx cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,5 to 9,Other pharynx cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,10 to 14,Other pharynx cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,10 to 14,Other pharynx cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,15 to 19,Other pharynx cancer,Percent,2017,2.46918550478e-06,2.69583226909e-06,2.33882580757e-06
+Prevalence,United States,Female,15 to 19,Other pharynx cancer,Percent,2017,2.0785645438e-06,2.17527205147e-06,1.97580531944e-06
+Prevalence,United States,Male,20 to 24,Other pharynx cancer,Percent,2017,2.3475793429e-06,2.56440431858e-06,2.20729859446e-06
+Prevalence,United States,Female,20 to 24,Other pharynx cancer,Percent,2017,2.08649806719e-06,2.20695639284e-06,1.98155734586e-06
+Prevalence,United States,Male,25 to 29,Other pharynx cancer,Percent,2017,3.13659327431e-06,3.50233723235e-06,2.68791245723e-06
+Prevalence,United States,Female,25 to 29,Other pharynx cancer,Percent,2017,2.8132243796e-06,3.09622258695e-06,2.47394083734e-06
+Prevalence,United States,Male,30 to 34,Other pharynx cancer,Percent,2017,1.47899958872e-05,1.63530066255e-05,1.2215583405e-05
+Prevalence,United States,Female,30 to 34,Other pharynx cancer,Percent,2017,5.92161661942e-06,6.60126091392e-06,5.0371750987e-06
+Prevalence,United States,Male,35 to 39,Other pharynx cancer,Percent,2017,3.4707540029e-05,3.86368644545e-05,2.93137070345e-05
+Prevalence,United States,Female,35 to 39,Other pharynx cancer,Percent,2017,1.29504381764e-05,1.43107686756e-05,1.1460775962e-05
+Prevalence,United States,Male,40 to 44,Other pharynx cancer,Percent,2017,0.000165010805454,0.00018279247269,0.000148617545649
+Prevalence,United States,Female,40 to 44,Other pharynx cancer,Percent,2017,3.37183444691e-05,3.80055411408e-05,2.96616651577e-05
+Prevalence,United States,Male,45 to 49,Other pharynx cancer,Percent,2017,0.000324240782225,0.000355226849237,0.000296736726318
+Prevalence,United States,Female,45 to 49,Other pharynx cancer,Percent,2017,5.07523363742e-05,5.6736865695e-05,4.57911268562e-05
+Prevalence,United States,Male,50 to 54,Other pharynx cancer,Percent,2017,0.000694290945681,0.000755070270499,0.000639604979588
+Prevalence,United States,Female,50 to 54,Other pharynx cancer,Percent,2017,0.000111796498277,0.000124215460055,0.000101470663398
+Prevalence,United States,Male,55 to 59,Other pharynx cancer,Percent,2017,0.00095811881691,0.00104073554482,0.000882759993312
+Prevalence,United States,Female,55 to 59,Other pharynx cancer,Percent,2017,0.000169632419314,0.000186281646437,0.000154048179208
+Prevalence,United States,Male,60 to 64,Other pharynx cancer,Percent,2017,0.000978394106472,0.00106077231517,0.000902199140446
+Prevalence,United States,Female,60 to 64,Other pharynx cancer,Percent,2017,0.000189174410535,0.000207094455544,0.000173552201517
+Prevalence,United States,Male,65 to 69,Other pharynx cancer,Percent,2017,0.000862514742332,0.00093257841057,0.000790692815169
+Prevalence,United States,Female,65 to 69,Other pharynx cancer,Percent,2017,0.000192025888331,0.000211913849211,0.000174616389455
+Prevalence,United States,Male,70 to 74,Other pharynx cancer,Percent,2017,0.000657879518327,0.00071346959395,0.000605642657734
+Prevalence,United States,Female,70 to 74,Other pharynx cancer,Percent,2017,0.000211915996874,0.000232868381496,0.000193243200293
+Prevalence,United States,Male,75 to 79,Other pharynx cancer,Percent,2017,0.000315387321154,0.000339953098742,0.000290580834646
+Prevalence,United States,Female,75 to 79,Other pharynx cancer,Percent,2017,0.000135950974355,0.000150994550106,0.000123472080622
+Prevalence,United States,Male,<1 year,Other pharynx cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,<1 year,Other pharynx cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,80 to 84,Other pharynx cancer,Percent,2017,0.000201073845471,0.000217006720526,0.000186322495725
+Prevalence,United States,Female,80 to 84,Other pharynx cancer,Percent,2017,8.81692343089e-05,9.60856557588e-05,8.05527876719e-05
+Prevalence,United States,Male,85 to 89,Other pharynx cancer,Percent,2017,0.000200726127093,0.000217657618263,0.000184733968815
+Prevalence,United States,Female,85 to 89,Other pharynx cancer,Percent,2017,9.83763072776e-05,0.00010729348638,9.04184744139e-05
+Prevalence,United States,Male,90 to 94,Other pharynx cancer,Percent,2017,0.000190972532995,0.000206116921211,0.000176319559701
+Prevalence,United States,Female,90 to 94,Other pharynx cancer,Percent,2017,9.85755177976e-05,0.000107702568413,9.0517201976e-05
+Prevalence,United States,Male,95 plus,Other pharynx cancer,Percent,2017,8.32913616044e-05,9.1270356072e-05,7.63596822805e-05
+Prevalence,United States,Female,95 plus,Other pharynx cancer,Percent,2017,4.67225828206e-05,5.02034165135e-05,4.31923770225e-05
+Prevalence,United States,Male,1 to 4,Non-melanoma skin cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,1 to 4,Non-melanoma skin cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,5 to 9,Non-melanoma skin cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,5 to 9,Non-melanoma skin cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,10 to 14,Non-melanoma skin cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,10 to 14,Non-melanoma skin cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,15 to 19,Non-melanoma skin cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,15 to 19,Non-melanoma skin cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,20 to 24,Non-melanoma skin cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,20 to 24,Non-melanoma skin cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,25 to 29,Non-melanoma skin cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,25 to 29,Non-melanoma skin cancer,Percent,2017,6.12510600381e-06,1.84681136264e-05,0.0
+Prevalence,United States,Male,30 to 34,Non-melanoma skin cancer,Percent,2017,9.68590588645e-05,0.00020233713021,3.77274725837e-05
+Prevalence,United States,Female,30 to 34,Non-melanoma skin cancer,Percent,2017,0.000114764655005,0.000227826870081,4.64077656732e-05
+Prevalence,United States,Male,35 to 39,Non-melanoma skin cancer,Percent,2017,0.000291260780881,0.000564464378416,0.000123048040204
+Prevalence,United States,Female,35 to 39,Non-melanoma skin cancer,Percent,2017,0.000455227921582,0.000848473773559,0.000213857268457
+Prevalence,United States,Male,40 to 44,Non-melanoma skin cancer,Percent,2017,0.000985243163718,0.00175620829963,0.000510198547054
+Prevalence,United States,Female,40 to 44,Non-melanoma skin cancer,Percent,2017,0.00100453141303,0.00177992037915,0.000535080603103
+Prevalence,United States,Male,45 to 49,Non-melanoma skin cancer,Percent,2017,0.00228519718507,0.00498979888773,0.000997835068036
+Prevalence,United States,Female,45 to 49,Non-melanoma skin cancer,Percent,2017,0.00207025933334,0.00432233966576,0.000984512247025
+Prevalence,United States,Male,50 to 54,Non-melanoma skin cancer,Percent,2017,0.00458872308504,0.00853837898563,0.00233490608616
+Prevalence,United States,Female,50 to 54,Non-melanoma skin cancer,Percent,2017,0.00361984627499,0.00688763504189,0.00191842485525
+Prevalence,United States,Male,55 to 59,Non-melanoma skin cancer,Percent,2017,0.00854221145993,0.0169648933551,0.00407557576227
+Prevalence,United States,Female,55 to 59,Non-melanoma skin cancer,Percent,2017,0.00588679353774,0.0109797765362,0.00288668965241
+Prevalence,United States,Male,60 to 64,Non-melanoma skin cancer,Percent,2017,0.0149039560201,0.0272742468839,0.00773047175447
+Prevalence,United States,Female,60 to 64,Non-melanoma skin cancer,Percent,2017,0.00894396575818,0.017598317793,0.00455688900384
+Prevalence,United States,Male,65 to 69,Non-melanoma skin cancer,Percent,2017,0.0250153912511,0.0409935738343,0.0134945302735
+Prevalence,United States,Female,65 to 69,Non-melanoma skin cancer,Percent,2017,0.0129952382374,0.0213532259531,0.00724388752993
+Prevalence,United States,Male,70 to 74,Non-melanoma skin cancer,Percent,2017,0.0351244032,0.05944300055,0.0180304992875
+Prevalence,United States,Female,70 to 74,Non-melanoma skin cancer,Percent,2017,0.0170604723787,0.0287976862517,0.00878569092984
+Prevalence,United States,Male,75 to 79,Non-melanoma skin cancer,Percent,2017,0.0448914619936,0.078418878025,0.0208971817344
+Prevalence,United States,Female,75 to 79,Non-melanoma skin cancer,Percent,2017,0.0210652950068,0.0368219511068,0.00984335845814
+Prevalence,United States,Male,<1 year,Non-melanoma skin cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,<1 year,Non-melanoma skin cancer,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,80 to 84,Non-melanoma skin cancer,Percent,2017,0.0560931657298,0.0942454698605,0.028965349465
+Prevalence,United States,Female,80 to 84,Non-melanoma skin cancer,Percent,2017,0.0256851579226,0.0440596580036,0.0125943434787
+Prevalence,United States,Male,85 to 89,Non-melanoma skin cancer,Percent,2017,0.0700790956841,0.121660362079,0.0387018836048
+Prevalence,United States,Female,85 to 89,Non-melanoma skin cancer,Percent,2017,0.0316050597236,0.0559892227237,0.0164926251772
+Prevalence,United States,Male,90 to 94,Non-melanoma skin cancer,Percent,2017,0.0849472685628,0.165999976274,0.0398111037112
+Prevalence,United States,Female,90 to 94,Non-melanoma skin cancer,Percent,2017,0.0381989331821,0.0744902560342,0.0172893811016
+Prevalence,United States,Male,95 plus,Non-melanoma skin cancer,Percent,2017,0.102314699966,0.2181274128,0.0383214916039
+Prevalence,United States,Female,95 plus,Non-melanoma skin cancer,Percent,2017,0.0457129794748,0.0992809298804,0.0162618711363
+Prevalence,United States,Male,1 to 4,Leukemia,Percent,2017,0.000364693816182,0.000490274618899,0.000286389144235
+Prevalence,United States,Female,1 to 4,Leukemia,Percent,2017,0.000426610274625,0.000617187672828,0.000303849708646
+Prevalence,United States,Male,5 to 9,Leukemia,Percent,2017,0.000224010416661,0.000283191231801,0.000179376328174
+Prevalence,United States,Female,5 to 9,Leukemia,Percent,2017,0.000181573063208,0.000247325326354,0.00014266642927
+Prevalence,United States,Male,10 to 14,Leukemia,Percent,2017,0.00010643550243,0.000126157528511,9.09561398547e-05
+Prevalence,United States,Female,10 to 14,Leukemia,Percent,2017,0.000104892199728,0.000128270477228,8.80347505149e-05
+Prevalence,United States,Male,15 to 19,Leukemia,Percent,2017,9.66393765093e-05,0.000114784831212,8.37795884333e-05
+Prevalence,United States,Female,15 to 19,Leukemia,Percent,2017,6.0787664522e-05,7.32736805104e-05,5.09053385967e-05
+Prevalence,United States,Male,20 to 24,Leukemia,Percent,2017,0.000111716387745,0.000133532725792,9.48840116001e-05
+Prevalence,United States,Female,20 to 24,Leukemia,Percent,2017,7.33809042944e-05,8.86650911488e-05,6.34808073821e-05
+Prevalence,United States,Male,25 to 29,Leukemia,Percent,2017,0.000121643434596,0.000147559134312,0.000101180040997
+Prevalence,United States,Female,25 to 29,Leukemia,Percent,2017,8.73090367668e-05,0.000103472921537,7.39527198785e-05
+Prevalence,United States,Male,30 to 34,Leukemia,Percent,2017,0.00017700073822,0.000216706803342,0.00014457585029
+Prevalence,United States,Female,30 to 34,Leukemia,Percent,2017,0.000117876637647,0.000141050133055,9.62132384225e-05
+Prevalence,United States,Male,35 to 39,Leukemia,Percent,2017,0.000188367984618,0.000228487502762,0.000155712907101
+Prevalence,United States,Female,35 to 39,Leukemia,Percent,2017,0.000141230758587,0.000169856538662,0.000118536415924
+Prevalence,United States,Male,40 to 44,Leukemia,Percent,2017,0.000225608629473,0.000263477743755,0.000192157303802
+Prevalence,United States,Female,40 to 44,Leukemia,Percent,2017,0.000180334553652,0.00021212222742,0.000152292723686
+Prevalence,United States,Male,45 to 49,Leukemia,Percent,2017,0.000438925374196,0.000505061304763,0.000382998867571
+Prevalence,United States,Female,45 to 49,Leukemia,Percent,2017,0.000316480941376,0.000382694449533,0.000267187978558
+Prevalence,United States,Male,50 to 54,Leukemia,Percent,2017,0.000630070788376,0.000736333351215,0.000533011675124
+Prevalence,United States,Female,50 to 54,Leukemia,Percent,2017,0.000486011177522,0.000588853751869,0.00040493916909
+Prevalence,United States,Male,55 to 59,Leukemia,Percent,2017,0.000811390436502,0.000945090372279,0.000709548954039
+Prevalence,United States,Female,55 to 59,Leukemia,Percent,2017,0.000603662589261,0.000715152040534,0.00051961779147
+Prevalence,United States,Male,60 to 64,Leukemia,Percent,2017,0.0010383462536,0.00116605603936,0.000938224597937
+Prevalence,United States,Female,60 to 64,Leukemia,Percent,2017,0.000724290111679,0.000854500345452,0.000637491219156
+Prevalence,United States,Male,65 to 69,Leukemia,Percent,2017,0.00142072702807,0.00154588516137,0.00130681059009
+Prevalence,United States,Female,65 to 69,Leukemia,Percent,2017,0.000915576120158,0.00107865620538,0.00080502152628
+Prevalence,United States,Male,70 to 74,Leukemia,Percent,2017,0.00192603086443,0.00208184957271,0.00179968568903
+Prevalence,United States,Female,70 to 74,Leukemia,Percent,2017,0.00115454697069,0.00128702451978,0.00105833328287
+Prevalence,United States,Male,75 to 79,Leukemia,Percent,2017,0.00246319192802,0.00262668658979,0.00229328980969
+Prevalence,United States,Female,75 to 79,Leukemia,Percent,2017,0.00152621746855,0.00167368429613,0.00141097731182
+Prevalence,United States,Male,<1 year,Leukemia,Percent,2017,0.000429419289105,0.000607710579072,0.000301828430448
+Prevalence,United States,Female,<1 year,Leukemia,Percent,2017,0.000525357906987,0.000765657770162,0.000359588102067
+Prevalence,United States,Male,80 to 84,Leukemia,Percent,2017,0.00254663513283,0.00272578375498,0.00238110971929
+Prevalence,United States,Female,80 to 84,Leukemia,Percent,2017,0.00161004571512,0.00174932022608,0.00149850778637
+Prevalence,United States,Male,85 to 89,Leukemia,Percent,2017,0.00316778915734,0.00338518329081,0.00297004460772
+Prevalence,United States,Female,85 to 89,Leukemia,Percent,2017,0.00210855131751,0.00226708368259,0.00195277829728
+Prevalence,United States,Male,90 to 94,Leukemia,Percent,2017,0.00322723538254,0.00344006878481,0.0030115040913
+Prevalence,United States,Female,90 to 94,Leukemia,Percent,2017,0.00227045107936,0.00243551694,0.00211327961324
+Prevalence,United States,Male,95 plus,Leukemia,Percent,2017,0.000887641706132,0.00096022771486,0.000814469437218
+Prevalence,United States,Female,95 plus,Leukemia,Percent,2017,0.000613548506595,0.000658548760113,0.000568232396289
+Prevalence,United States,Male,1 to 4,Cardiovascular diseases,Percent,2017,0.0021455369536,0.00299114004687,0.00149374731235
+Prevalence,United States,Female,1 to 4,Cardiovascular diseases,Percent,2017,0.00130875091791,0.00256685298931,0.000748054243943
+Prevalence,United States,Male,5 to 9,Cardiovascular diseases,Percent,2017,0.00259998713195,0.0033181445535,0.00198088681103
+Prevalence,United States,Female,5 to 9,Cardiovascular diseases,Percent,2017,0.00160130009364,0.00198997451653,0.00124178844861
+Prevalence,United States,Male,10 to 14,Cardiovascular diseases,Percent,2017,0.00245983198998,0.00309188738057,0.00195512831865
+Prevalence,United States,Female,10 to 14,Cardiovascular diseases,Percent,2017,0.00284344318116,0.00354959463845,0.00230424663389
+Prevalence,United States,Male,15 to 19,Cardiovascular diseases,Percent,2017,0.00391471717494,0.00478484015897,0.00312710691493
+Prevalence,United States,Female,15 to 19,Cardiovascular diseases,Percent,2017,0.00625222726405,0.00782078446013,0.00492455543901
+Prevalence,United States,Male,20 to 24,Cardiovascular diseases,Percent,2017,0.00537844727152,0.00662612898925,0.00444976774566
+Prevalence,United States,Female,20 to 24,Cardiovascular diseases,Percent,2017,0.00730945616536,0.00898591125657,0.00606070837349
+Prevalence,United States,Male,25 to 29,Cardiovascular diseases,Percent,2017,0.00750577537487,0.00890027791063,0.00640108555595
+Prevalence,United States,Female,25 to 29,Cardiovascular diseases,Percent,2017,0.0106252598491,0.0127094037761,0.00890728994877
+Prevalence,United States,Male,30 to 34,Cardiovascular diseases,Percent,2017,0.0122620757349,0.013462760115,0.0110714160485
+Prevalence,United States,Female,30 to 34,Cardiovascular diseases,Percent,2017,0.0150968470064,0.017512159513,0.013121364548
+Prevalence,United States,Male,35 to 39,Cardiovascular diseases,Percent,2017,0.023079397966,0.0256740703216,0.0210333011409
+Prevalence,United States,Female,35 to 39,Cardiovascular diseases,Percent,2017,0.0250081655437,0.0288410048132,0.0217041670196
+Prevalence,United States,Male,40 to 44,Cardiovascular diseases,Percent,2017,0.0507133489958,0.0557137805875,0.0460878414811
+Prevalence,United States,Female,40 to 44,Cardiovascular diseases,Percent,2017,0.0652237292578,0.074646853502,0.0568483297988
+Prevalence,United States,Male,45 to 49,Cardiovascular diseases,Percent,2017,0.0816634386412,0.0881873273092,0.0755456607922
+Prevalence,United States,Female,45 to 49,Cardiovascular diseases,Percent,2017,0.086566863095,0.0957627237714,0.0784775984542
+Prevalence,United States,Male,50 to 54,Cardiovascular diseases,Percent,2017,0.130352109403,0.141974112922,0.119543829858
+Prevalence,United States,Female,50 to 54,Cardiovascular diseases,Percent,2017,0.115527651187,0.127001970116,0.105620296196
+Prevalence,United States,Male,55 to 59,Cardiovascular diseases,Percent,2017,0.19580764593,0.211217057968,0.18273512324
+Prevalence,United States,Female,55 to 59,Cardiovascular diseases,Percent,2017,0.15521860504,0.169330269868,0.143205375487
+Prevalence,United States,Male,60 to 64,Cardiovascular diseases,Percent,2017,0.276389713981,0.297200379553,0.257620808469
+Prevalence,United States,Female,60 to 64,Cardiovascular diseases,Percent,2017,0.205899612693,0.222407267153,0.192160864787
+Prevalence,United States,Male,65 to 69,Cardiovascular diseases,Percent,2017,0.370478162641,0.393274771519,0.348341679433
+Prevalence,United States,Female,65 to 69,Cardiovascular diseases,Percent,2017,0.276649048799,0.294668393773,0.259695176159
+Prevalence,United States,Male,70 to 74,Cardiovascular diseases,Percent,2017,0.46818793057,0.493767494312,0.442218889742
+Prevalence,United States,Female,70 to 74,Cardiovascular diseases,Percent,2017,0.360499989073,0.382438447185,0.339232677566
+Prevalence,United States,Male,75 to 79,Cardiovascular diseases,Percent,2017,0.557546957411,0.584021316294,0.530957697757
+Prevalence,United States,Female,75 to 79,Cardiovascular diseases,Percent,2017,0.456198315869,0.481686936542,0.432675875669
+Prevalence,United States,Male,<1 year,Cardiovascular diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,<1 year,Cardiovascular diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,80 to 84,Cardiovascular diseases,Percent,2017,0.628003262548,0.655076739902,0.599773953593
+Prevalence,United States,Female,80 to 84,Cardiovascular diseases,Percent,2017,0.542274492573,0.573814441861,0.513240031735
+Prevalence,United States,Male,85 to 89,Cardiovascular diseases,Percent,2017,0.676180575503,0.704905642036,0.647135226835
+Prevalence,United States,Female,85 to 89,Cardiovascular diseases,Percent,2017,0.619300097711,0.649764993246,0.590474572734
+Prevalence,United States,Male,90 to 94,Cardiovascular diseases,Percent,2017,0.697027518039,0.726895569715,0.668942728707
+Prevalence,United States,Female,90 to 94,Cardiovascular diseases,Percent,2017,0.670664785213,0.702100368798,0.638845741925
+Prevalence,United States,Male,95 plus,Cardiovascular diseases,Percent,2017,0.694236663272,0.723843514299,0.663483248185
+Prevalence,United States,Female,95 plus,Cardiovascular diseases,Percent,2017,0.698583495384,0.733128290591,0.665122701243
+Prevalence,United States,Male,1 to 4,Ischemic heart disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,1 to 4,Ischemic heart disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,5 to 9,Ischemic heart disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,5 to 9,Ischemic heart disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,10 to 14,Ischemic heart disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,10 to 14,Ischemic heart disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,15 to 19,Ischemic heart disease,Percent,2017,0.000146754057364,0.000177529383297,0.000118985286676
+Prevalence,United States,Female,15 to 19,Ischemic heart disease,Percent,2017,0.000116808326872,0.000140880114803,9.50876189803e-05
+Prevalence,United States,Male,20 to 24,Ischemic heart disease,Percent,2017,0.00041222897283,0.000472383885991,0.000357863820078
+Prevalence,United States,Female,20 to 24,Ischemic heart disease,Percent,2017,0.000332299513565,0.000381898556494,0.000285960586556
+Prevalence,United States,Male,25 to 29,Ischemic heart disease,Percent,2017,0.000915125763883,0.00104917894941,0.000796238661232
+Prevalence,United States,Female,25 to 29,Ischemic heart disease,Percent,2017,0.000662431118041,0.000743947517928,0.000590144657289
+Prevalence,United States,Male,30 to 34,Ischemic heart disease,Percent,2017,0.0021588817507,0.00247034552987,0.00188324717236
+Prevalence,United States,Female,30 to 34,Ischemic heart disease,Percent,2017,0.00133551595333,0.00152081431015,0.00118762227655
+Prevalence,United States,Male,35 to 39,Ischemic heart disease,Percent,2017,0.00525523887197,0.00611394500739,0.00453861293215
+Prevalence,United States,Female,35 to 39,Ischemic heart disease,Percent,2017,0.00279646067737,0.00320467716289,0.00247516425428
+Prevalence,United States,Male,40 to 44,Ischemic heart disease,Percent,2017,0.0112452023601,0.0130232353473,0.00970496482773
+Prevalence,United States,Female,40 to 44,Ischemic heart disease,Percent,2017,0.00558028567677,0.00640822618777,0.0049203184582
+Prevalence,United States,Male,45 to 49,Ischemic heart disease,Percent,2017,0.0209595899851,0.0241405765796,0.0183943482746
+Prevalence,United States,Female,45 to 49,Ischemic heart disease,Percent,2017,0.0100364169621,0.0114270451873,0.00892370323247
+Prevalence,United States,Male,50 to 54,Ischemic heart disease,Percent,2017,0.0358134652325,0.0425710708815,0.0308410657216
+Prevalence,United States,Female,50 to 54,Ischemic heart disease,Percent,2017,0.0167371533888,0.0194447698732,0.014648205312
+Prevalence,United States,Male,55 to 59,Ischemic heart disease,Percent,2017,0.0561468287411,0.0648500867395,0.0485107183868
+Prevalence,United States,Female,55 to 59,Ischemic heart disease,Percent,2017,0.0256977345557,0.0294782766802,0.0223769835868
+Prevalence,United States,Male,60 to 64,Ischemic heart disease,Percent,2017,0.0823645251565,0.0947929723381,0.0706892639815
+Prevalence,United States,Female,60 to 64,Ischemic heart disease,Percent,2017,0.0376674542143,0.0433209220127,0.0327227160615
+Prevalence,United States,Male,65 to 69,Ischemic heart disease,Percent,2017,0.123077801431,0.140285238809,0.106863593562
+Prevalence,United States,Female,65 to 69,Ischemic heart disease,Percent,2017,0.0586492906214,0.0670956057851,0.0509370355154
+Prevalence,United States,Male,70 to 74,Ischemic heart disease,Percent,2017,0.1600721353,0.18365581256,0.138253674583
+Prevalence,United States,Female,70 to 74,Ischemic heart disease,Percent,2017,0.0812948246503,0.0941100584794,0.0694967677658
+Prevalence,United States,Male,75 to 79,Ischemic heart disease,Percent,2017,0.199290997802,0.226342349099,0.172134745876
+Prevalence,United States,Female,75 to 79,Ischemic heart disease,Percent,2017,0.107999772917,0.123867163227,0.0918069552677
+Prevalence,United States,Male,<1 year,Ischemic heart disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,<1 year,Ischemic heart disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,80 to 84,Ischemic heart disease,Percent,2017,0.228380706818,0.26554264144,0.195067114881
+Prevalence,United States,Female,80 to 84,Ischemic heart disease,Percent,2017,0.131013955092,0.153177206822,0.110756579575
+Prevalence,United States,Male,85 to 89,Ischemic heart disease,Percent,2017,0.238253511754,0.279330129106,0.19940858505
+Prevalence,United States,Female,85 to 89,Ischemic heart disease,Percent,2017,0.143319398519,0.17096955846,0.118619928938
+Prevalence,United States,Male,90 to 94,Ischemic heart disease,Percent,2017,0.20082180374,0.247523927389,0.153781719915
+Prevalence,United States,Female,90 to 94,Ischemic heart disease,Percent,2017,0.125000427352,0.156235864505,0.0965239591426
+Prevalence,United States,Male,95 plus,Ischemic heart disease,Percent,2017,0.128457482232,0.163927294624,0.0973450794576
+Prevalence,United States,Female,95 plus,Ischemic heart disease,Percent,2017,0.117777574177,0.147633955994,0.089208099819
+Prevalence,United States,Male,1 to 4,Diabetes and kidney diseases,Percent,2017,0.00185831942098,0.00254294016759,0.00127971969038
+Prevalence,United States,Female,1 to 4,Diabetes and kidney diseases,Percent,2017,0.00180881507166,0.0024407918428,0.00128591437349
+Prevalence,United States,Male,5 to 9,Diabetes and kidney diseases,Percent,2017,0.0061901184166,0.0078211541309,0.00489012060333
+Prevalence,United States,Female,5 to 9,Diabetes and kidney diseases,Percent,2017,0.00597552316582,0.00742586342814,0.00473446014373
+Prevalence,United States,Male,10 to 14,Diabetes and kidney diseases,Percent,2017,0.0128008258527,0.0150519956425,0.0108153327382
+Prevalence,United States,Female,10 to 14,Diabetes and kidney diseases,Percent,2017,0.0123067783234,0.0145746487457,0.0104451696936
+Prevalence,United States,Male,15 to 19,Diabetes and kidney diseases,Percent,2017,0.0209599640049,0.0244200646786,0.0180956075704
+Prevalence,United States,Female,15 to 19,Diabetes and kidney diseases,Percent,2017,0.0218878985719,0.0256045973946,0.0185625800133
+Prevalence,United States,Male,20 to 24,Diabetes and kidney diseases,Percent,2017,0.0321319684249,0.0375365125289,0.0273576899119
+Prevalence,United States,Female,20 to 24,Diabetes and kidney diseases,Percent,2017,0.0403994564084,0.0483410060503,0.0336339856145
+Prevalence,United States,Male,25 to 29,Diabetes and kidney diseases,Percent,2017,0.0470949165248,0.054612224894,0.0398382949993
+Prevalence,United States,Female,25 to 29,Diabetes and kidney diseases,Percent,2017,0.0677346680632,0.0813207778026,0.0553454784947
+Prevalence,United States,Male,30 to 34,Diabetes and kidney diseases,Percent,2017,0.0659223093316,0.0763587560557,0.0560154719437
+Prevalence,United States,Female,30 to 34,Diabetes and kidney diseases,Percent,2017,0.0978448160291,0.117299135877,0.080121258969
+Prevalence,United States,Male,35 to 39,Diabetes and kidney diseases,Percent,2017,0.0956310907416,0.109838573715,0.0830409610005
+Prevalence,United States,Female,35 to 39,Diabetes and kidney diseases,Percent,2017,0.124844058787,0.148716560006,0.104447287927
+Prevalence,United States,Male,40 to 44,Diabetes and kidney diseases,Percent,2017,0.132883090836,0.149443974357,0.11704152953
+Prevalence,United States,Female,40 to 44,Diabetes and kidney diseases,Percent,2017,0.148261934,0.170672998851,0.127192734355
+Prevalence,United States,Male,45 to 49,Diabetes and kidney diseases,Percent,2017,0.174570105653,0.193658328744,0.156429943764
+Prevalence,United States,Female,45 to 49,Diabetes and kidney diseases,Percent,2017,0.177525913932,0.200189063764,0.155947387097
+Prevalence,United States,Male,50 to 54,Diabetes and kidney diseases,Percent,2017,0.224681781033,0.246996191164,0.205239420561
+Prevalence,United States,Female,50 to 54,Diabetes and kidney diseases,Percent,2017,0.21747529988,0.241717337603,0.196390634939
+Prevalence,United States,Male,55 to 59,Diabetes and kidney diseases,Percent,2017,0.289513467758,0.313424706225,0.267316602807
+Prevalence,United States,Female,55 to 59,Diabetes and kidney diseases,Percent,2017,0.275687480556,0.300304316708,0.252099769728
+Prevalence,United States,Male,60 to 64,Diabetes and kidney diseases,Percent,2017,0.36640768597,0.39331135471,0.340746177575
+Prevalence,United States,Female,60 to 64,Diabetes and kidney diseases,Percent,2017,0.343486575967,0.372435961739,0.316932560558
+Prevalence,United States,Male,65 to 69,Diabetes and kidney diseases,Percent,2017,0.441220457586,0.472282775984,0.412170480375
+Prevalence,United States,Female,65 to 69,Diabetes and kidney diseases,Percent,2017,0.406892915821,0.440075013981,0.377386277048
+Prevalence,United States,Male,70 to 74,Diabetes and kidney diseases,Percent,2017,0.506383332736,0.538318550357,0.476158074767
+Prevalence,United States,Female,70 to 74,Diabetes and kidney diseases,Percent,2017,0.477944489233,0.511649815484,0.446818023897
+Prevalence,United States,Male,75 to 79,Diabetes and kidney diseases,Percent,2017,0.563709976266,0.599075180118,0.530702113757
+Prevalence,United States,Female,75 to 79,Diabetes and kidney diseases,Percent,2017,0.554870526621,0.593501989076,0.518611858769
+Prevalence,United States,Male,<1 year,Diabetes and kidney diseases,Percent,2017,0.000229951317371,0.000368863098404,0.000111989102474
+Prevalence,United States,Female,<1 year,Diabetes and kidney diseases,Percent,2017,0.000293799663315,0.000456941324001,0.000160848510448
+Prevalence,United States,Male,80 to 84,Diabetes and kidney diseases,Percent,2017,0.61283771784,0.651783167854,0.576337985638
+Prevalence,United States,Female,80 to 84,Diabetes and kidney diseases,Percent,2017,0.616005601937,0.658809126392,0.575804064779
+Prevalence,United States,Male,85 to 89,Diabetes and kidney diseases,Percent,2017,0.640505815188,0.67985759521,0.60245647958
+Prevalence,United States,Female,85 to 89,Diabetes and kidney diseases,Percent,2017,0.656818881174,0.700809494155,0.614494093291
+Prevalence,United States,Male,90 to 94,Diabetes and kidney diseases,Percent,2017,0.658745302422,0.698042394094,0.620635781219
+Prevalence,United States,Female,90 to 94,Diabetes and kidney diseases,Percent,2017,0.689698430539,0.73277285523,0.64640487164
+Prevalence,United States,Male,95 plus,Diabetes and kidney diseases,Percent,2017,0.66081096857,0.698974632848,0.619288896868
+Prevalence,United States,Female,95 plus,Diabetes and kidney diseases,Percent,2017,0.718947971227,0.759307243657,0.67533321622

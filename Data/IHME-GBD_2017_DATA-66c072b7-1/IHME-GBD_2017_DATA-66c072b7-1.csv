@@ -1,0 +1,273 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+Prevalence,United States,Male,Under 5,Chronic respiratory diseases,Percent,2017,0.113085221487,0.138937744659,0.0894017959002
+Prevalence,United States,Female,Under 5,Chronic respiratory diseases,Percent,2017,0.0650101258839,0.081876832202,0.0499689343924
+Prevalence,United States,Male,Early Neonatal,Chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,Early Neonatal,Chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,Late Neonatal,Chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,Late Neonatal,Chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,Post Neonatal,Chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,Post Neonatal,Chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,1 to 4,Chronic respiratory diseases,Percent,2017,0.131946604805,0.162407534101,0.103807827452
+Prevalence,United States,Female,1 to 4,Chronic respiratory diseases,Percent,2017,0.0765932759189,0.0964910855129,0.0588093013003
+Prevalence,United States,Male,5 to 9,Chronic respiratory diseases,Percent,2017,0.128654229358,0.156435466906,0.103923238346
+Prevalence,United States,Female,5 to 9,Chronic respiratory diseases,Percent,2017,0.0812346688864,0.101403552078,0.0648333607786
+Prevalence,United States,Male,10 to 14,Chronic respiratory diseases,Percent,2017,0.0812738200353,0.0963483783899,0.0666778934004
+Prevalence,United States,Female,10 to 14,Chronic respiratory diseases,Percent,2017,0.058287474433,0.0695102602799,0.0480247590169
+Prevalence,United States,Male,15 to 19,Chronic respiratory diseases,Percent,2017,0.0421840807893,0.0506695542178,0.0346979117617
+Prevalence,United States,Female,15 to 19,Chronic respiratory diseases,Percent,2017,0.0481661738531,0.0574010463092,0.0396796144545
+Prevalence,United States,Male,20 to 24,Chronic respiratory diseases,Percent,2017,0.0287505562086,0.033036732035,0.0243828802131
+Prevalence,United States,Female,20 to 24,Chronic respiratory diseases,Percent,2017,0.042859285444,0.0495710305475,0.0361620211834
+Prevalence,United States,Male,25 to 29,Chronic respiratory diseases,Percent,2017,0.0276079828745,0.0314685264519,0.0238065837943
+Prevalence,United States,Female,25 to 29,Chronic respiratory diseases,Percent,2017,0.0449803373847,0.0520296692105,0.0392247003199
+Prevalence,United States,Male,30 to 34,Chronic respiratory diseases,Percent,2017,0.0317569675612,0.0357008316129,0.027959810345
+Prevalence,United States,Female,30 to 34,Chronic respiratory diseases,Percent,2017,0.0524258828045,0.0597809254943,0.0459298735198
+Prevalence,United States,Male,35 to 39,Chronic respiratory diseases,Percent,2017,0.0382676385402,0.0428397941881,0.0341298128824
+Prevalence,United States,Female,35 to 39,Chronic respiratory diseases,Percent,2017,0.0624523087853,0.0705638896606,0.0556695722098
+Prevalence,United States,Male,40 to 44,Chronic respiratory diseases,Percent,2017,0.0492401444061,0.0553333198438,0.043283283068
+Prevalence,United States,Female,40 to 44,Chronic respiratory diseases,Percent,2017,0.0783669228785,0.0874884462126,0.06967496089
+Prevalence,United States,Male,45 to 49,Chronic respiratory diseases,Percent,2017,0.0677711836718,0.0750811319004,0.0609945844798
+Prevalence,United States,Female,45 to 49,Chronic respiratory diseases,Percent,2017,0.102183284158,0.112346429971,0.0925746340069
+Prevalence,United States,Male,50 to 54,Chronic respiratory diseases,Percent,2017,0.0940938306004,0.103858973481,0.0851856360905
+Prevalence,United States,Female,50 to 54,Chronic respiratory diseases,Percent,2017,0.127888513873,0.139634223706,0.116957602763
+Prevalence,United States,Male,55 to 59,Chronic respiratory diseases,Percent,2017,0.126393082965,0.138916639227,0.114959199841
+Prevalence,United States,Female,55 to 59,Chronic respiratory diseases,Percent,2017,0.151688436063,0.164653916042,0.139023585332
+Prevalence,United States,Male,60 to 64,Chronic respiratory diseases,Percent,2017,0.168043144795,0.185200203009,0.152370072975
+Prevalence,United States,Female,60 to 64,Chronic respiratory diseases,Percent,2017,0.182111620992,0.199074227902,0.166944210538
+Prevalence,United States,Male,65 to 69,Chronic respiratory diseases,Percent,2017,0.226530370169,0.247880464106,0.206217352119
+Prevalence,United States,Female,65 to 69,Chronic respiratory diseases,Percent,2017,0.23252318085,0.253316919713,0.213538910727
+Prevalence,United States,Male,70 to 74,Chronic respiratory diseases,Percent,2017,0.289349236992,0.313218316343,0.267002103538
+Prevalence,United States,Female,70 to 74,Chronic respiratory diseases,Percent,2017,0.286534816045,0.308870363338,0.266252431618
+Prevalence,United States,Male,75 to 79,Chronic respiratory diseases,Percent,2017,0.333673060986,0.358618935503,0.309745785375
+Prevalence,United States,Female,75 to 79,Chronic respiratory diseases,Percent,2017,0.314991940415,0.338997112713,0.292756267108
+Prevalence,United States,Male,80 plus,Chronic respiratory diseases,Percent,2017,0.348577167119,0.375771084203,0.32338563564
+Prevalence,United States,Female,80 plus,Chronic respiratory diseases,Percent,2017,0.307613503066,0.331609936171,0.285483528303
+Prevalence,United States,Male,All Ages,Chronic respiratory diseases,Percent,2017,0.106178875234,0.111873776458,0.100822112819
+Prevalence,United States,Female,All Ages,Chronic respiratory diseases,Percent,2017,0.119958257668,0.125573659764,0.114564515746
+Prevalence,United States,Male,5-14 years,Chronic respiratory diseases,Percent,2017,0.103420071456,0.121699536681,0.0864676257464
+Prevalence,United States,Female,5-14 years,Chronic respiratory diseases,Percent,2017,0.0688572929896,0.0820970660572,0.0568753412382
+Prevalence,United States,Male,15-49 years,Chronic respiratory diseases,Percent,2017,0.0405403432868,0.0435040029659,0.0375376994066
+Prevalence,United States,Female,15-49 years,Chronic respiratory diseases,Percent,2017,0.0614657047706,0.0665365404324,0.0568336300605
+Prevalence,United States,Male,50-69 years,Chronic respiratory diseases,Percent,2017,0.148403808251,0.160155890548,0.137320569363
+Prevalence,United States,Female,50-69 years,Chronic respiratory diseases,Percent,2017,0.170283589959,0.182443507922,0.158670915473
+Prevalence,United States,Male,70+ years,Chronic respiratory diseases,Percent,2017,0.320497526038,0.342984963006,0.298808775534
+Prevalence,United States,Female,70+ years,Chronic respiratory diseases,Percent,2017,0.301947696752,0.322404846766,0.282422246771
+Prevalence,United States,Male,<1 year,Chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,<1 year,Chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,80 to 84,Chronic respiratory diseases,Percent,2017,0.351191584426,0.378709828084,0.325864104405
+Prevalence,United States,Female,80 to 84,Chronic respiratory diseases,Percent,2017,0.31689507991,0.341226806297,0.295813750885
+Prevalence,United States,Male,85 to 89,Chronic respiratory diseases,Percent,2017,0.350461287564,0.377834772031,0.324885683663
+Prevalence,United States,Female,85 to 89,Chronic respiratory diseases,Percent,2017,0.30736030428,0.330921783414,0.28482366191
+Prevalence,United States,Male,90 to 94,Chronic respiratory diseases,Percent,2017,0.340490420724,0.368485898555,0.314576507726
+Prevalence,United States,Female,90 to 94,Chronic respiratory diseases,Percent,2017,0.293983505536,0.3191508141,0.270277394407
+Prevalence,United States,Male,<20 years,Chronic respiratory diseases,Percent,2017,0.0871674782626,0.0997560532755,0.0752237844464
+Prevalence,United States,Female,<20 years,Chronic respiratory diseases,Percent,2017,0.0619060752692,0.0706580427793,0.0536032733963
+Prevalence,United States,Male,10 to 24,Chronic respiratory diseases,Percent,2017,0.049587073174,0.0570328298589,0.0429435819929
+Prevalence,United States,Female,10 to 24,Chronic respiratory diseases,Percent,2017,0.0494187641924,0.0562990225048,0.0426536793642
+Prevalence,United States,Male,95 plus,Chronic respiratory diseases,Percent,2017,0.322436279907,0.353954942441,0.293466933618
+Prevalence,United States,Female,95 plus,Chronic respiratory diseases,Percent,2017,0.276704204614,0.303382410197,0.251438220872
+Prevalence,United States,Male,<70 years,Chronic respiratory diseases,Percent,2017,0.0833175852822,0.0883794551474,0.0783411865543
+Prevalence,United States,Female,<70 years,Chronic respiratory diseases,Percent,2017,0.0952060590358,0.100303881025,0.0900780006543
+Prevalence,United States,Male,Under 5,Cardiovascular diseases,Percent,2017,0.00183861501769,0.00256971337602,0.0012827490642
+Prevalence,United States,Female,Under 5,Cardiovascular diseases,Percent,2017,0.0011108481331,0.0021818318365,0.000635151512011
+Prevalence,United States,Male,Early Neonatal,Cardiovascular diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,Early Neonatal,Cardiovascular diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,Late Neonatal,Cardiovascular diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,Late Neonatal,Cardiovascular diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,Post Neonatal,Cardiovascular diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,Post Neonatal,Cardiovascular diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,1 to 4,Cardiovascular diseases,Percent,2017,0.0021455369536,0.00299114004687,0.00149374731235
+Prevalence,United States,Female,1 to 4,Cardiovascular diseases,Percent,2017,0.00130875091791,0.00256685298931,0.000748054243943
+Prevalence,United States,Male,5 to 9,Cardiovascular diseases,Percent,2017,0.00259998713195,0.0033181445535,0.00198088681103
+Prevalence,United States,Female,5 to 9,Cardiovascular diseases,Percent,2017,0.00160130009364,0.00198997451653,0.00124178844861
+Prevalence,United States,Male,10 to 14,Cardiovascular diseases,Percent,2017,0.00245983198998,0.00309188738057,0.00195512831865
+Prevalence,United States,Female,10 to 14,Cardiovascular diseases,Percent,2017,0.00284344318116,0.00354959463845,0.00230424663389
+Prevalence,United States,Male,15 to 19,Cardiovascular diseases,Percent,2017,0.00391471717494,0.00478484015897,0.00312710691493
+Prevalence,United States,Female,15 to 19,Cardiovascular diseases,Percent,2017,0.00625222726405,0.00782078446013,0.00492455543901
+Prevalence,United States,Male,20 to 24,Cardiovascular diseases,Percent,2017,0.00537844727152,0.00662612898925,0.00444976774566
+Prevalence,United States,Female,20 to 24,Cardiovascular diseases,Percent,2017,0.00730945616536,0.00898591125657,0.00606070837349
+Prevalence,United States,Male,25 to 29,Cardiovascular diseases,Percent,2017,0.00750577537487,0.00890027791063,0.00640108555595
+Prevalence,United States,Female,25 to 29,Cardiovascular diseases,Percent,2017,0.0106252598491,0.0127094037761,0.00890728994877
+Prevalence,United States,Male,30 to 34,Cardiovascular diseases,Percent,2017,0.0122620757349,0.013462760115,0.0110714160485
+Prevalence,United States,Female,30 to 34,Cardiovascular diseases,Percent,2017,0.0150968470064,0.017512159513,0.013121364548
+Prevalence,United States,Male,35 to 39,Cardiovascular diseases,Percent,2017,0.023079397966,0.0256740703216,0.0210333011409
+Prevalence,United States,Female,35 to 39,Cardiovascular diseases,Percent,2017,0.0250081655437,0.0288410048132,0.0217041670196
+Prevalence,United States,Male,40 to 44,Cardiovascular diseases,Percent,2017,0.0507133489958,0.0557137805875,0.0460878414811
+Prevalence,United States,Female,40 to 44,Cardiovascular diseases,Percent,2017,0.0652237292578,0.074646853502,0.0568483297988
+Prevalence,United States,Male,45 to 49,Cardiovascular diseases,Percent,2017,0.0816634386412,0.0881873273092,0.0755456607922
+Prevalence,United States,Female,45 to 49,Cardiovascular diseases,Percent,2017,0.086566863095,0.0957627237714,0.0784775984542
+Prevalence,United States,Male,50 to 54,Cardiovascular diseases,Percent,2017,0.130352109403,0.141974112922,0.119543829858
+Prevalence,United States,Female,50 to 54,Cardiovascular diseases,Percent,2017,0.115527651187,0.127001970116,0.105620296196
+Prevalence,United States,Male,55 to 59,Cardiovascular diseases,Percent,2017,0.19580764593,0.211217057968,0.18273512324
+Prevalence,United States,Female,55 to 59,Cardiovascular diseases,Percent,2017,0.15521860504,0.169330269868,0.143205375487
+Prevalence,United States,Male,60 to 64,Cardiovascular diseases,Percent,2017,0.276389713981,0.297200379553,0.257620808469
+Prevalence,United States,Female,60 to 64,Cardiovascular diseases,Percent,2017,0.205899612693,0.222407267153,0.192160864787
+Prevalence,United States,Male,65 to 69,Cardiovascular diseases,Percent,2017,0.370478162641,0.393274771519,0.348341679433
+Prevalence,United States,Female,65 to 69,Cardiovascular diseases,Percent,2017,0.276649048799,0.294668393773,0.259695176159
+Prevalence,United States,Male,70 to 74,Cardiovascular diseases,Percent,2017,0.46818793057,0.493767494312,0.442218889742
+Prevalence,United States,Female,70 to 74,Cardiovascular diseases,Percent,2017,0.360499989073,0.382438447185,0.339232677566
+Prevalence,United States,Male,75 to 79,Cardiovascular diseases,Percent,2017,0.557546957411,0.584021316294,0.530957697757
+Prevalence,United States,Female,75 to 79,Cardiovascular diseases,Percent,2017,0.456198315869,0.481686936542,0.432675875669
+Prevalence,United States,Male,80 plus,Cardiovascular diseases,Percent,2017,0.654215164271,0.680665188144,0.627725629742
+Prevalence,United States,Female,80 plus,Cardiovascular diseases,Percent,2017,0.597685570043,0.626359817031,0.571648717921
+Prevalence,United States,Male,All Ages,Cardiovascular diseases,Percent,2017,0.127459255398,0.13254229025,0.122598487002
+Prevalence,United States,Female,All Ages,Cardiovascular diseases,Percent,2017,0.12022501553,0.125062959324,0.115900738966
+Prevalence,United States,Male,5-14 years,Cardiovascular diseases,Percent,2017,0.00252490636944,0.0030828515652,0.00203078719325
+Prevalence,United States,Female,5-14 years,Cardiovascular diseases,Percent,2017,0.00227115222361,0.00276835026016,0.00184918641757
+Prevalence,United States,Male,15-49 years,Cardiovascular diseases,Percent,2017,0.0259959076223,0.0277463810952,0.0244377315259
+Prevalence,United States,Female,15-49 years,Cardiovascular diseases,Percent,2017,0.0305702560147,0.0333378738225,0.0280453785893
+Prevalence,United States,Male,50-69 years,Cardiovascular diseases,Percent,2017,0.233669793726,0.247843313916,0.220767716736
+Prevalence,United States,Female,50-69 years,Cardiovascular diseases,Percent,2017,0.183352749089,0.195183927827,0.173424617619
+Prevalence,United States,Male,70+ years,Cardiovascular diseases,Percent,2017,0.55273814918,0.575144972973,0.530328207863
+Prevalence,United States,Female,70+ years,Cardiovascular diseases,Percent,2017,0.477802840585,0.499486669329,0.456771356682
+Prevalence,United States,Male,<1 year,Cardiovascular diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,<1 year,Cardiovascular diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,80 to 84,Cardiovascular diseases,Percent,2017,0.628003262548,0.655076739902,0.599773953593
+Prevalence,United States,Female,80 to 84,Cardiovascular diseases,Percent,2017,0.542274492573,0.573814441861,0.513240031735
+Prevalence,United States,Male,85 to 89,Cardiovascular diseases,Percent,2017,0.676180575503,0.704905642036,0.647135226835
+Prevalence,United States,Female,85 to 89,Cardiovascular diseases,Percent,2017,0.619300097711,0.649764993246,0.590474572734
+Prevalence,United States,Male,90 to 94,Cardiovascular diseases,Percent,2017,0.697027518039,0.726895569715,0.668942728707
+Prevalence,United States,Female,90 to 94,Cardiovascular diseases,Percent,2017,0.670664785213,0.702100368798,0.638845741925
+Prevalence,United States,Male,<20 years,Cardiovascular diseases,Percent,2017,0.00280326550383,0.00329416893151,0.0023203764491
+Prevalence,United States,Female,<20 years,Cardiovascular diseases,Percent,2017,0.00324190779444,0.00390518441498,0.00266984823846
+Prevalence,United States,Male,10 to 24,Cardiovascular diseases,Percent,2017,0.00397849333864,0.0047376155449,0.0033396048743
+Prevalence,United States,Female,10 to 24,Cardiovascular diseases,Percent,2017,0.0055720348198,0.00672043767795,0.00464857984962
+Prevalence,United States,Male,95 plus,Cardiovascular diseases,Percent,2017,0.694236663272,0.723843514299,0.663483248185
+Prevalence,United States,Female,95 plus,Cardiovascular diseases,Percent,2017,0.698583495384,0.733128290591,0.665122701243
+Prevalence,United States,Male,<70 years,Cardiovascular diseases,Percent,2017,0.0820952090352,0.0865961324752,0.0779924593874
+Prevalence,United States,Female,<70 years,Cardiovascular diseases,Percent,2017,0.0715914737931,0.0759037438693,0.0679350243815
+Prevalence,United States,Male,Under 5,Diabetes and kidney diseases,Percent,2017,0.00162519701595,0.00221048728112,0.00113121925098
+Prevalence,United States,Female,Under 5,Diabetes and kidney diseases,Percent,2017,0.00157961214013,0.00211345108052,0.00112395346115
+Prevalence,United States,Male,Early Neonatal,Diabetes and kidney diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,Early Neonatal,Diabetes and kidney diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,Late Neonatal,Diabetes and kidney diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,Late Neonatal,Diabetes and kidney diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,Post Neonatal,Diabetes and kidney diseases,Percent,2017,0.000246609428132,0.000395914084001,0.000120707476074
+Prevalence,United States,Female,Post Neonatal,Diabetes and kidney diseases,Percent,2017,0.000316105009414,0.000491606090828,0.000173117478301
+Prevalence,United States,Male,1 to 4,Diabetes and kidney diseases,Percent,2017,0.00185831942098,0.00254294016759,0.00127971969038
+Prevalence,United States,Female,1 to 4,Diabetes and kidney diseases,Percent,2017,0.00180881507166,0.0024407918428,0.00128591437349
+Prevalence,United States,Male,5 to 9,Diabetes and kidney diseases,Percent,2017,0.0061901184166,0.0078211541309,0.00489012060333
+Prevalence,United States,Female,5 to 9,Diabetes and kidney diseases,Percent,2017,0.00597552316582,0.00742586342814,0.00473446014373
+Prevalence,United States,Male,10 to 14,Diabetes and kidney diseases,Percent,2017,0.0128008258527,0.0150519956425,0.0108153327382
+Prevalence,United States,Female,10 to 14,Diabetes and kidney diseases,Percent,2017,0.0123067783234,0.0145746487457,0.0104451696936
+Prevalence,United States,Male,15 to 19,Diabetes and kidney diseases,Percent,2017,0.0209599640049,0.0244200646786,0.0180956075704
+Prevalence,United States,Female,15 to 19,Diabetes and kidney diseases,Percent,2017,0.0218878985719,0.0256045973946,0.0185625800133
+Prevalence,United States,Male,20 to 24,Diabetes and kidney diseases,Percent,2017,0.0321319684249,0.0375365125289,0.0273576899119
+Prevalence,United States,Female,20 to 24,Diabetes and kidney diseases,Percent,2017,0.0403994564084,0.0483410060503,0.0336339856145
+Prevalence,United States,Male,25 to 29,Diabetes and kidney diseases,Percent,2017,0.0470949165248,0.054612224894,0.0398382949993
+Prevalence,United States,Female,25 to 29,Diabetes and kidney diseases,Percent,2017,0.0677346680632,0.0813207778026,0.0553454784947
+Prevalence,United States,Male,30 to 34,Diabetes and kidney diseases,Percent,2017,0.0659223093316,0.0763587560557,0.0560154719437
+Prevalence,United States,Female,30 to 34,Diabetes and kidney diseases,Percent,2017,0.0978448160291,0.117299135877,0.080121258969
+Prevalence,United States,Male,35 to 39,Diabetes and kidney diseases,Percent,2017,0.0956310907416,0.109838573715,0.0830409610005
+Prevalence,United States,Female,35 to 39,Diabetes and kidney diseases,Percent,2017,0.124844058787,0.148716560006,0.104447287927
+Prevalence,United States,Male,40 to 44,Diabetes and kidney diseases,Percent,2017,0.132883090836,0.149443974357,0.11704152953
+Prevalence,United States,Female,40 to 44,Diabetes and kidney diseases,Percent,2017,0.148261934,0.170672998851,0.127192734355
+Prevalence,United States,Male,45 to 49,Diabetes and kidney diseases,Percent,2017,0.174570105653,0.193658328744,0.156429943764
+Prevalence,United States,Female,45 to 49,Diabetes and kidney diseases,Percent,2017,0.177525913932,0.200189063764,0.155947387097
+Prevalence,United States,Male,50 to 54,Diabetes and kidney diseases,Percent,2017,0.224681781033,0.246996191164,0.205239420561
+Prevalence,United States,Female,50 to 54,Diabetes and kidney diseases,Percent,2017,0.21747529988,0.241717337603,0.196390634939
+Prevalence,United States,Male,55 to 59,Diabetes and kidney diseases,Percent,2017,0.289513467758,0.313424706225,0.267316602807
+Prevalence,United States,Female,55 to 59,Diabetes and kidney diseases,Percent,2017,0.275687480556,0.300304316708,0.252099769728
+Prevalence,United States,Male,60 to 64,Diabetes and kidney diseases,Percent,2017,0.36640768597,0.39331135471,0.340746177575
+Prevalence,United States,Female,60 to 64,Diabetes and kidney diseases,Percent,2017,0.343486575967,0.372435961739,0.316932560558
+Prevalence,United States,Male,65 to 69,Diabetes and kidney diseases,Percent,2017,0.441220457586,0.472282775984,0.412170480375
+Prevalence,United States,Female,65 to 69,Diabetes and kidney diseases,Percent,2017,0.406892915821,0.440075013981,0.377386277048
+Prevalence,United States,Male,70 to 74,Diabetes and kidney diseases,Percent,2017,0.506383332736,0.538318550357,0.476158074767
+Prevalence,United States,Female,70 to 74,Diabetes and kidney diseases,Percent,2017,0.477944489233,0.511649815484,0.446818023897
+Prevalence,United States,Male,75 to 79,Diabetes and kidney diseases,Percent,2017,0.563709976266,0.599075180118,0.530702113757
+Prevalence,United States,Female,75 to 79,Diabetes and kidney diseases,Percent,2017,0.554870526621,0.593501989076,0.518611858769
+Prevalence,United States,Male,80 plus,Diabetes and kidney diseases,Percent,2017,0.629050894292,0.665896089644,0.59445523076
+Prevalence,United States,Female,80 plus,Diabetes and kidney diseases,Percent,2017,0.647516502928,0.687777875937,0.610106511164
+Prevalence,United States,Male,All Ages,Diabetes and kidney diseases,Percent,2017,0.178700980671,0.186609871388,0.171197869085
+Prevalence,United States,Female,All Ages,Diabetes and kidney diseases,Percent,2017,0.194506703591,0.20368125542,0.18615689976
+Prevalence,United States,Male,5-14 years,Diabetes and kidney diseases,Percent,2017,0.00970849836668,0.0116132465593,0.00818895278062
+Prevalence,United States,Female,5-14 years,Diabetes and kidney diseases,Percent,2017,0.00938963613704,0.0111918296995,0.00796913165795
+Prevalence,United States,Male,15-49 years,Diabetes and kidney diseases,Percent,2017,0.0807003692018,0.0868245447471,0.0748138814411
+Prevalence,United States,Female,15-49 years,Diabetes and kidney diseases,Percent,2017,0.09686770294,0.105747383642,0.0889825089544
+Prevalence,United States,Male,50-69 years,Diabetes and kidney diseases,Percent,2017,0.321923223573,0.342327651803,0.302645108975
+Prevalence,United States,Female,50-69 years,Diabetes and kidney diseases,Percent,2017,0.305288208456,0.325381196675,0.286568834345
+Prevalence,United States,Male,70+ years,Diabetes and kidney diseases,Percent,2017,0.561710787769,0.592928214464,0.532878122468
+Prevalence,United States,Female,70+ years,Diabetes and kidney diseases,Percent,2017,0.563935400197,0.596777768103,0.533866952837
+Prevalence,United States,Male,<1 year,Diabetes and kidney diseases,Percent,2017,0.000229951317371,0.000368863098404,0.000111989102474
+Prevalence,United States,Female,<1 year,Diabetes and kidney diseases,Percent,2017,0.000293799663315,0.000456941324001,0.000160848510448
+Prevalence,United States,Male,80 to 84,Diabetes and kidney diseases,Percent,2017,0.61283771784,0.651783167854,0.576337985638
+Prevalence,United States,Female,80 to 84,Diabetes and kidney diseases,Percent,2017,0.616005601937,0.658809126392,0.575804064779
+Prevalence,United States,Male,85 to 89,Diabetes and kidney diseases,Percent,2017,0.640505815188,0.67985759521,0.60245647958
+Prevalence,United States,Female,85 to 89,Diabetes and kidney diseases,Percent,2017,0.656818881174,0.700809494155,0.614494093291
+Prevalence,United States,Male,90 to 94,Diabetes and kidney diseases,Percent,2017,0.658745302422,0.698042394094,0.620635781219
+Prevalence,United States,Female,90 to 94,Diabetes and kidney diseases,Percent,2017,0.689698430539,0.73277285523,0.64640487164
+Prevalence,United States,Male,<20 years,Diabetes and kidney diseases,Percent,2017,0.0114792090984,0.0132437873799,0.0100211599604
+Prevalence,United States,Female,<20 years,Diabetes and kidney diseases,Percent,2017,0.0116354394224,0.0133327712835,0.0101318207293
+Prevalence,United States,Male,10 to 24,Diabetes and kidney diseases,Percent,2017,0.0223629949854,0.0254625820421,0.0196705092565
+Prevalence,United States,Female,10 to 24,Diabetes and kidney diseases,Percent,2017,0.0254579277156,0.0291728758245,0.0220082194483
+Prevalence,United States,Male,95 plus,Diabetes and kidney diseases,Percent,2017,0.66081096857,0.698974632848,0.619288896868
+Prevalence,United States,Female,95 plus,Diabetes and kidney diseases,Percent,2017,0.718947971227,0.759307243657,0.67533321622
+Prevalence,United States,Male,<70 years,Diabetes and kidney diseases,Percent,2017,0.137845319505,0.144990092774,0.130770597972
+Prevalence,United States,Female,<70 years,Diabetes and kidney diseases,Percent,2017,0.144261001085,0.152616382904,0.13641295475
+Prevalence,United States,Male,Under 5,Respiratory infections and tuberculosis,Percent,2017,0.1554309324,0.181679106059,0.131491818053
+Prevalence,United States,Female,Under 5,Respiratory infections and tuberculosis,Percent,2017,0.137098629551,0.161663245153,0.115297545896
+Prevalence,United States,Male,Early Neonatal,Respiratory infections and tuberculosis,Percent,2017,0.118608774356,0.147949260857,0.0894591559827
+Prevalence,United States,Female,Early Neonatal,Respiratory infections and tuberculosis,Percent,2017,0.0914853131281,0.109677192583,0.0751472417553
+Prevalence,United States,Male,Late Neonatal,Respiratory infections and tuberculosis,Percent,2017,0.196329267778,0.239519421367,0.148966058692
+Prevalence,United States,Female,Late Neonatal,Respiratory infections and tuberculosis,Percent,2017,0.158205740845,0.187938246711,0.130478261158
+Prevalence,United States,Male,Post Neonatal,Respiratory infections and tuberculosis,Percent,2017,0.204396709811,0.243405089655,0.163750532035
+Prevalence,United States,Female,Post Neonatal,Respiratory infections and tuberculosis,Percent,2017,0.170705346613,0.199150664084,0.143966224021
+Prevalence,United States,Male,1 to 4,Respiratory infections and tuberculosis,Percent,2017,0.14771348927,0.176163649475,0.122915914208
+Prevalence,United States,Female,1 to 4,Respiratory infections and tuberculosis,Percent,2017,0.131494205706,0.157915754583,0.108657835017
+Prevalence,United States,Male,5 to 9,Respiratory infections and tuberculosis,Percent,2017,0.11107609979,0.135414847782,0.0888149137675
+Prevalence,United States,Female,5 to 9,Respiratory infections and tuberculosis,Percent,2017,0.102320081377,0.124630563414,0.0811192061745
+Prevalence,United States,Male,10 to 14,Respiratory infections and tuberculosis,Percent,2017,0.0912697044584,0.110403308266,0.0727110433445
+Prevalence,United States,Female,10 to 14,Respiratory infections and tuberculosis,Percent,2017,0.0847987775209,0.102778702454,0.0670379789383
+Prevalence,United States,Male,15 to 19,Respiratory infections and tuberculosis,Percent,2017,0.0934001640245,0.116200806575,0.0747852843641
+Prevalence,United States,Female,15 to 19,Respiratory infections and tuberculosis,Percent,2017,0.0856606603707,0.106259021013,0.0687982645185
+Prevalence,United States,Male,20 to 24,Respiratory infections and tuberculosis,Percent,2017,0.099793938945,0.125691134238,0.0781251587926
+Prevalence,United States,Female,20 to 24,Respiratory infections and tuberculosis,Percent,2017,0.0887120227888,0.111688144141,0.0700800227671
+Prevalence,United States,Male,25 to 29,Respiratory infections and tuberculosis,Percent,2017,0.104287340216,0.135404691922,0.0806238847468
+Prevalence,United States,Female,25 to 29,Respiratory infections and tuberculosis,Percent,2017,0.0952217805843,0.120818472535,0.0740717784334
+Prevalence,United States,Male,30 to 34,Respiratory infections and tuberculosis,Percent,2017,0.109706419301,0.140418337419,0.0832410439272
+Prevalence,United States,Female,30 to 34,Respiratory infections and tuberculosis,Percent,2017,0.107318405635,0.134505991662,0.0834948754567
+Prevalence,United States,Male,35 to 39,Respiratory infections and tuberculosis,Percent,2017,0.126678812807,0.162248643816,0.0968836987777
+Prevalence,United States,Female,35 to 39,Respiratory infections and tuberculosis,Percent,2017,0.116161348666,0.146264687288,0.0902638645134
+Prevalence,United States,Male,40 to 44,Respiratory infections and tuberculosis,Percent,2017,0.139453528662,0.179654210304,0.104818932604
+Prevalence,United States,Female,40 to 44,Respiratory infections and tuberculosis,Percent,2017,0.11335997325,0.144596937732,0.0860205786475
+Prevalence,United States,Male,45 to 49,Respiratory infections and tuberculosis,Percent,2017,0.13982248555,0.184439105068,0.104029896028
+Prevalence,United States,Female,45 to 49,Respiratory infections and tuberculosis,Percent,2017,0.115214184868,0.147860163793,0.0875138713272
+Prevalence,United States,Male,50 to 54,Respiratory infections and tuberculosis,Percent,2017,0.138093110251,0.179429146992,0.103260936742
+Prevalence,United States,Female,50 to 54,Respiratory infections and tuberculosis,Percent,2017,0.124101328164,0.160136925016,0.0948900327237
+Prevalence,United States,Male,55 to 59,Respiratory infections and tuberculosis,Percent,2017,0.142607572194,0.187576987505,0.106154131084
+Prevalence,United States,Female,55 to 59,Respiratory infections and tuberculosis,Percent,2017,0.12874871209,0.167077337621,0.0975994049692
+Prevalence,United States,Male,60 to 64,Respiratory infections and tuberculosis,Percent,2017,0.150018147322,0.197924723557,0.111858042157
+Prevalence,United States,Female,60 to 64,Respiratory infections and tuberculosis,Percent,2017,0.127594929958,0.166564161489,0.0962974266295
+Prevalence,United States,Male,65 to 69,Respiratory infections and tuberculosis,Percent,2017,0.150160359006,0.200343622725,0.10953119788
+Prevalence,United States,Female,65 to 69,Respiratory infections and tuberculosis,Percent,2017,0.119202050229,0.15653743943,0.0885523468974
+Prevalence,United States,Male,70 to 74,Respiratory infections and tuberculosis,Percent,2017,0.134984896592,0.176025161678,0.10301375898
+Prevalence,United States,Female,70 to 74,Respiratory infections and tuberculosis,Percent,2017,0.0972340645632,0.126701877722,0.0743107490392
+Prevalence,United States,Male,75 to 79,Respiratory infections and tuberculosis,Percent,2017,0.11724856296,0.147982650948,0.0912637851345
+Prevalence,United States,Female,75 to 79,Respiratory infections and tuberculosis,Percent,2017,0.079921831451,0.101022536728,0.06253153683
+Prevalence,United States,Male,80 plus,Respiratory infections and tuberculosis,Percent,2017,0.101441256967,0.12033338645,0.0850793278644
+Prevalence,United States,Female,80 plus,Respiratory infections and tuberculosis,Percent,2017,0.0719993046032,0.0845866451854,0.0610018929998
+Prevalence,United States,Male,All Ages,Respiratory infections and tuberculosis,Percent,2017,0.123722330334,0.134475737374,0.113580199887
+Prevalence,United States,Female,All Ages,Respiratory infections and tuberculosis,Percent,2017,0.106813370689,0.115856216104,0.098486522934
+Prevalence,United States,Male,5-14 years,Respiratory infections and tuberculosis,Percent,2017,0.100520175354,0.118431189867,0.0836224050408
+Prevalence,United States,Female,5-14 years,Respiratory infections and tuberculosis,Percent,2017,0.0928699662987,0.109033696986,0.0769981587006
+Prevalence,United States,Male,15-49 years,Respiratory infections and tuberculosis,Percent,2017,0.115898964975,0.131313269557,0.101721288868
+Prevalence,United States,Female,15-49 years,Respiratory infections and tuberculosis,Percent,2017,0.103098420275,0.116471192578,0.091306840802
+Prevalence,United States,Male,50-69 years,Respiratory infections and tuberculosis,Percent,2017,0.144754106373,0.17218453388,0.119772019099
+Prevalence,United States,Female,50-69 years,Respiratory infections and tuberculosis,Percent,2017,0.125192211196,0.148211886534,0.104504553616
+Prevalence,United States,Male,70+ years,Respiratory infections and tuberculosis,Percent,2017,0.119306695873,0.144261338501,0.0990069876313
+Prevalence,United States,Female,70+ years,Respiratory infections and tuberculosis,Percent,2017,0.0829712558309,0.0990155841408,0.0701742487297
+Prevalence,United States,Male,<1 year,Respiratory infections and tuberculosis,Percent,2017,0.202572638035,0.241932922516,0.161716485938
+Prevalence,United States,Female,<1 year,Respiratory infections and tuberculosis,Percent,2017,0.168661853269,0.196678653824,0.142513026792
+Prevalence,United States,Male,80 to 84,Respiratory infections and tuberculosis,Percent,2017,0.10688692626,0.129931917415,0.0861901897866
+Prevalence,United States,Female,80 to 84,Respiratory infections and tuberculosis,Percent,2017,0.0747543942048,0.0896332029672,0.0612411143959
+Prevalence,United States,Male,85 to 89,Respiratory infections and tuberculosis,Percent,2017,0.0985517486507,0.117479919918,0.0821516652154
+Prevalence,United States,Female,85 to 89,Respiratory infections and tuberculosis,Percent,2017,0.0708654228136,0.0845826307971,0.0589595641818
+Prevalence,United States,Male,90 to 94,Respiratory infections and tuberculosis,Percent,2017,0.0910709488693,0.109023967924,0.0755104269731
+Prevalence,United States,Female,90 to 94,Respiratory infections and tuberculosis,Percent,2017,0.068541545917,0.0820025148993,0.0567683708745
+Prevalence,United States,Male,<20 years,Respiratory infections and tuberculosis,Percent,2017,0.108946293888,0.122666229072,0.0955128605379
+Prevalence,United States,Female,<20 years,Respiratory infections and tuberculosis,Percent,2017,0.0992120924237,0.111875804495,0.0860691756131
+Prevalence,United States,Male,10 to 24,Respiratory infections and tuberculosis,Percent,2017,0.0949885727689,0.112564624075,0.0799798900348
+Prevalence,United States,Female,10 to 24,Respiratory infections and tuberculosis,Percent,2017,0.0864707019342,0.100842965159,0.0738583387638
+Prevalence,United States,Male,95 plus,Respiratory infections and tuberculosis,Percent,2017,0.0836814866199,0.107235086991,0.0648714068452
+Prevalence,United States,Female,95 plus,Respiratory infections and tuberculosis,Percent,2017,0.0668120131782,0.0856565456548,0.0521179230603
+Prevalence,United States,Male,<70 years,Respiratory infections and tuberculosis,Percent,2017,0.124193411549,0.136210358196,0.113790728926
+Prevalence,United States,Female,<70 years,Respiratory infections and tuberculosis,Percent,2017,0.11005615873,0.120106142049,0.101135859629

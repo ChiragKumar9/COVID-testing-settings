@@ -1,0 +1,661 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+Prevalence,United States,Male,10 to 14,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Female,10 to 14,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Male,15 to 19,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Female,15 to 19,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Male,20 to 24,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Female,20 to 24,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Male,25 to 29,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Female,25 to 29,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Male,30 to 34,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Female,30 to 34,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Male,35 to 39,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Female,35 to 39,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Male,40 to 44,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Female,40 to 44,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Male,45 to 49,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Female,45 to 49,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Male,50 to 54,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Female,50 to 54,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Male,55 to 59,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Female,55 to 59,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Male,60 to 64,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Female,60 to 64,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Male,65 to 69,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Female,65 to 69,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Male,70 to 74,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Female,70 to 74,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Male,75 to 79,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Female,75 to 79,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Male,80 plus,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Female,80 plus,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,United States,Male,10 to 14,Lower respiratory infections,Percent,2017,0.000724602117922,0.00100299174489,0.00050388914507
+Prevalence,United States,Female,10 to 14,Lower respiratory infections,Percent,2017,0.00065098042678,0.000902205144554,0.00044911834277
+Prevalence,United States,Male,15 to 19,Lower respiratory infections,Percent,2017,0.000553149412685,0.00066681254706,0.000444887857916
+Prevalence,United States,Female,15 to 19,Lower respiratory infections,Percent,2017,0.000613643641205,0.000741222778533,0.00049550093993
+Prevalence,United States,Male,20 to 24,Lower respiratory infections,Percent,2017,0.000504164377006,0.0006210337444,0.000395674820821
+Prevalence,United States,Female,20 to 24,Lower respiratory infections,Percent,2017,0.000654123310913,0.000795828750281,0.00052114311336
+Prevalence,United States,Male,25 to 29,Lower respiratory infections,Percent,2017,0.000569481923335,0.000651103113493,0.000495174694608
+Prevalence,United States,Female,25 to 29,Lower respiratory infections,Percent,2017,0.000740551433371,0.000846307012731,0.00064898415352
+Prevalence,United States,Male,30 to 34,Lower respiratory infections,Percent,2017,0.0006406236994,0.000714582580715,0.000570515478725
+Prevalence,United States,Female,30 to 34,Lower respiratory infections,Percent,2017,0.000830310146649,0.000927091345823,0.000741604905847
+Prevalence,United States,Male,35 to 39,Lower respiratory infections,Percent,2017,0.000714864347556,0.000817775712681,0.000623379159966
+Prevalence,United States,Female,35 to 39,Lower respiratory infections,Percent,2017,0.000922323156377,0.00105389149786,0.000801778708302
+Prevalence,United States,Male,40 to 44,Lower respiratory infections,Percent,2017,0.000780371989569,0.000891677078489,0.000681630652766
+Prevalence,United States,Female,40 to 44,Lower respiratory infections,Percent,2017,0.000999832330581,0.00114299309137,0.000864266649757
+Prevalence,United States,Male,45 to 49,Lower respiratory infections,Percent,2017,0.000832502381226,0.000919023820093,0.000755807613084
+Prevalence,United States,Female,45 to 49,Lower respiratory infections,Percent,2017,0.0010578785365,0.00116734734777,0.000954723645128
+Prevalence,United States,Male,50 to 54,Lower respiratory infections,Percent,2017,0.000884730332343,0.00097703396,0.00080503739722
+Prevalence,United States,Female,50 to 54,Lower respiratory infections,Percent,2017,0.00111751481376,0.00123180635974,0.00101160014318
+Prevalence,United States,Male,55 to 59,Lower respiratory infections,Percent,2017,0.000938068704554,0.0010504361858,0.000823198199213
+Prevalence,United States,Female,55 to 59,Lower respiratory infections,Percent,2017,0.00117773366704,0.00131101139824,0.00103606774821
+Prevalence,United States,Male,60 to 64,Lower respiratory infections,Percent,2017,0.00105747480655,0.00117664087279,0.000935537560299
+Prevalence,United States,Female,60 to 64,Lower respiratory infections,Percent,2017,0.00125529414819,0.00139565788619,0.00110762813767
+Prevalence,United States,Male,65 to 69,Lower respiratory infections,Percent,2017,0.00126663428976,0.00136882987095,0.00116262301765
+Prevalence,United States,Female,65 to 69,Lower respiratory infections,Percent,2017,0.00135696736865,0.0014670355478,0.00124382118301
+Prevalence,United States,Male,70 to 74,Lower respiratory infections,Percent,2017,0.00147580878049,0.00160881272944,0.00133765965818
+Prevalence,United States,Female,70 to 74,Lower respiratory infections,Percent,2017,0.00145749353698,0.00157986465546,0.00133738081661
+Prevalence,United States,Male,75 to 79,Lower respiratory infections,Percent,2017,0.00168399152702,0.00188256619545,0.00149194466465
+Prevalence,United States,Female,75 to 79,Lower respiratory infections,Percent,2017,0.00155865822381,0.00173691057742,0.00139081517001
+Prevalence,United States,Male,80 plus,Lower respiratory infections,Percent,2017,0.00240100978125,0.00261693579522,0.00221686750214
+Prevalence,United States,Female,80 plus,Lower respiratory infections,Percent,2017,0.00210761598128,0.00228967811303,0.00194264912956
+Prevalence,United States,Male,10 to 14,Upper respiratory infections,Percent,2017,0.0465478596284,0.0633189744473,0.0305414620039
+Prevalence,United States,Female,10 to 14,Upper respiratory infections,Percent,2017,0.0480374551398,0.0645944278113,0.0313788257377
+Prevalence,United States,Male,15 to 19,Upper respiratory infections,Percent,2017,0.0390863733948,0.0537941675557,0.0271894083891
+Prevalence,United States,Female,15 to 19,Upper respiratory infections,Percent,2017,0.0450151719424,0.0613160603049,0.0316747755557
+Prevalence,United States,Male,20 to 24,Upper respiratory infections,Percent,2017,0.0374021626347,0.0515940635296,0.0260405817363
+Prevalence,United States,Female,20 to 24,Upper respiratory infections,Percent,2017,0.0445474092729,0.0603771072864,0.0312304617869
+Prevalence,United States,Male,25 to 29,Upper respiratory infections,Percent,2017,0.0376262215102,0.0512717510195,0.0266101549847
+Prevalence,United States,Female,25 to 29,Upper respiratory infections,Percent,2017,0.0424491737476,0.0585952935553,0.0296509508166
+Prevalence,United States,Male,30 to 34,Upper respiratory infections,Percent,2017,0.0370793725405,0.0492512004541,0.0258104252516
+Prevalence,United States,Female,30 to 34,Upper respiratory infections,Percent,2017,0.0427823121179,0.0568681425004,0.0297996203733
+Prevalence,United States,Male,35 to 39,Upper respiratory infections,Percent,2017,0.0375477133119,0.0515292800739,0.0269722503639
+Prevalence,United States,Female,35 to 39,Upper respiratory infections,Percent,2017,0.0438525403208,0.0603510994986,0.0315452898564
+Prevalence,United States,Male,40 to 44,Upper respiratory infections,Percent,2017,0.0367065174809,0.0498755181156,0.0255729303829
+Prevalence,United States,Female,40 to 44,Upper respiratory infections,Percent,2017,0.0401478605536,0.0552426190289,0.0275906301945
+Prevalence,United States,Male,45 to 49,Upper respiratory infections,Percent,2017,0.0341645935862,0.0496640575026,0.0236508276852
+Prevalence,United States,Female,45 to 49,Upper respiratory infections,Percent,2017,0.0369034620028,0.0536243980437,0.0257249900377
+Prevalence,United States,Male,50 to 54,Upper respiratory infections,Percent,2017,0.0330309327121,0.0449326322229,0.0228622654941
+Prevalence,United States,Female,50 to 54,Upper respiratory infections,Percent,2017,0.0359138236662,0.0489321041293,0.0251750294399
+Prevalence,United States,Male,55 to 59,Upper respiratory infections,Percent,2017,0.0328317562306,0.0455566317217,0.0228807913601
+Prevalence,United States,Female,55 to 59,Upper respiratory infections,Percent,2017,0.0343604036999,0.0477180645824,0.0237324660713
+Prevalence,United States,Male,60 to 64,Upper respiratory infections,Percent,2017,0.0306087766341,0.0417998627545,0.0200741600364
+Prevalence,United States,Female,60 to 64,Upper respiratory infections,Percent,2017,0.0302119983392,0.0410976429779,0.0203721458056
+Prevalence,United States,Male,65 to 69,Upper respiratory infections,Percent,2017,0.0292581281722,0.0410046754178,0.0203896752912
+Prevalence,United States,Female,65 to 69,Upper respiratory infections,Percent,2017,0.0269612706025,0.038269753907,0.0185761810641
+Prevalence,United States,Male,70 to 74,Upper respiratory infections,Percent,2017,0.0274037664941,0.0390499108792,0.0191824905065
+Prevalence,United States,Female,70 to 74,Upper respiratory infections,Percent,2017,0.0250631091795,0.0356475810455,0.0176420518036
+Prevalence,United States,Male,75 to 79,Upper respiratory infections,Percent,2017,0.0245751305895,0.0355195840084,0.016369461124
+Prevalence,United States,Female,75 to 79,Upper respiratory infections,Percent,2017,0.0232846561641,0.0333867535618,0.0155512591238
+Prevalence,United States,Male,80 plus,Upper respiratory infections,Percent,2017,0.024759767419,0.0315252507413,0.019032555443
+Prevalence,United States,Female,80 plus,Upper respiratory infections,Percent,2017,0.021893887031,0.0278221558908,0.0169203995648
+Prevalence,United States,Male,10 to 14,Hypertensive heart disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,10 to 14,Hypertensive heart disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,15 to 19,Hypertensive heart disease,Percent,2017,5.64171358096e-07,9.76797767764e-07,2.7016881232e-07
+Prevalence,United States,Female,15 to 19,Hypertensive heart disease,Percent,2017,5.52893912378e-07,9.49104086305e-07,2.61844774688e-07
+Prevalence,United States,Male,20 to 24,Hypertensive heart disease,Percent,2017,5.42708243085e-05,7.64309093807e-05,3.71822153979e-05
+Prevalence,United States,Female,20 to 24,Hypertensive heart disease,Percent,2017,5.63631487295e-05,8.01744843136e-05,3.83653984487e-05
+Prevalence,United States,Male,25 to 29,Hypertensive heart disease,Percent,2017,0.000189156591407,0.00026113386994,0.00013001297844
+Prevalence,United States,Female,25 to 29,Hypertensive heart disease,Percent,2017,0.000232398100718,0.000318724460165,0.000157387187653
+Prevalence,United States,Male,30 to 34,Hypertensive heart disease,Percent,2017,0.000401439953802,0.00051214302826,0.00029999530676
+Prevalence,United States,Female,30 to 34,Hypertensive heart disease,Percent,2017,0.000478654414228,0.00061722838342,0.000357144633095
+Prevalence,United States,Male,35 to 39,Hypertensive heart disease,Percent,2017,0.000675690658108,0.000866330509751,0.000500098646391
+Prevalence,United States,Female,35 to 39,Hypertensive heart disease,Percent,2017,0.000685503387998,0.000884402598616,0.000511592997357
+Prevalence,United States,Male,40 to 44,Hypertensive heart disease,Percent,2017,0.00103608681753,0.00131907404706,0.000784987754215
+Prevalence,United States,Female,40 to 44,Hypertensive heart disease,Percent,2017,0.000963590686012,0.00123520106902,0.000730488747297
+Prevalence,United States,Male,45 to 49,Hypertensive heart disease,Percent,2017,0.00199676710439,0.00248020720533,0.00155475442044
+Prevalence,United States,Female,45 to 49,Hypertensive heart disease,Percent,2017,0.00178481744756,0.00220792964261,0.00141813035117
+Prevalence,United States,Male,50 to 54,Hypertensive heart disease,Percent,2017,0.00312261908721,0.00393183380175,0.00237090729509
+Prevalence,United States,Female,50 to 54,Hypertensive heart disease,Percent,2017,0.00268683161794,0.00330682694638,0.00208904292742
+Prevalence,United States,Male,55 to 59,Hypertensive heart disease,Percent,2017,0.00419991666112,0.00534430904342,0.00319108022804
+Prevalence,United States,Female,55 to 59,Hypertensive heart disease,Percent,2017,0.00332849470661,0.00415734705915,0.00257162844426
+Prevalence,United States,Male,60 to 64,Hypertensive heart disease,Percent,2017,0.00562073008118,0.00755645597867,0.00392434764474
+Prevalence,United States,Female,60 to 64,Hypertensive heart disease,Percent,2017,0.00449058113565,0.00586767961719,0.00324944684761
+Prevalence,United States,Male,65 to 69,Hypertensive heart disease,Percent,2017,0.00707584957857,0.00916313011646,0.00525361226786
+Prevalence,United States,Female,65 to 69,Hypertensive heart disease,Percent,2017,0.00663495731171,0.00851670976322,0.00497836858715
+Prevalence,United States,Male,70 to 74,Hypertensive heart disease,Percent,2017,0.00814283686252,0.0110968069596,0.00557758158479
+Prevalence,United States,Female,70 to 74,Hypertensive heart disease,Percent,2017,0.00900300027721,0.0118950924057,0.00643358233847
+Prevalence,United States,Male,75 to 79,Hypertensive heart disease,Percent,2017,0.00958541003367,0.0127113795636,0.00692633771036
+Prevalence,United States,Female,75 to 79,Hypertensive heart disease,Percent,2017,0.0124329276258,0.0164088410317,0.00902352383537
+Prevalence,United States,Male,80 plus,Hypertensive heart disease,Percent,2017,0.015499972067,0.0202673431717,0.0114253985167
+Prevalence,United States,Female,80 plus,Hypertensive heart disease,Percent,2017,0.027896535394,0.0352748608654,0.0212338368798
+Prevalence,United States,Male,10 to 14,Chronic obstructive pulmonary disease,Percent,2017,0.0026334939012,0.00288744897672,0.00224162354917
+Prevalence,United States,Female,10 to 14,Chronic obstructive pulmonary disease,Percent,2017,0.00233726868726,0.00264387667668,0.00188914454448
+Prevalence,United States,Male,15 to 19,Chronic obstructive pulmonary disease,Percent,2017,0.00336266114699,0.00383367292608,0.00287727232272
+Prevalence,United States,Female,15 to 19,Chronic obstructive pulmonary disease,Percent,2017,0.00286879733375,0.00333537516675,0.0022978210497
+Prevalence,United States,Male,20 to 24,Chronic obstructive pulmonary disease,Percent,2017,0.00420349829657,0.00512001467785,0.00343978814049
+Prevalence,United States,Female,20 to 24,Chronic obstructive pulmonary disease,Percent,2017,0.00359301165233,0.0043781855919,0.00286074600045
+Prevalence,United States,Male,25 to 29,Chronic obstructive pulmonary disease,Percent,2017,0.00543682933132,0.00662227066506,0.00436955218893
+Prevalence,United States,Female,25 to 29,Chronic obstructive pulmonary disease,Percent,2017,0.00496335062379,0.00607973818231,0.00399792475572
+Prevalence,United States,Male,30 to 34,Chronic obstructive pulmonary disease,Percent,2017,0.0074850529593,0.00921676506554,0.0059978206108
+Prevalence,United States,Female,30 to 34,Chronic obstructive pulmonary disease,Percent,2017,0.00751986202662,0.00926355699235,0.00601246334747
+Prevalence,United States,Male,35 to 39,Chronic obstructive pulmonary disease,Percent,2017,0.0120563154067,0.0143678272495,0.00994397805678
+Prevalence,United States,Female,35 to 39,Chronic obstructive pulmonary disease,Percent,2017,0.0136187108668,0.0162937402446,0.0110593460427
+Prevalence,United States,Male,40 to 44,Chronic obstructive pulmonary disease,Percent,2017,0.0220072698807,0.0266720796122,0.0180720531796
+Prevalence,United States,Female,40 to 44,Chronic obstructive pulmonary disease,Percent,2017,0.0271316028082,0.0327094162683,0.0220594529355
+Prevalence,United States,Male,45 to 49,Chronic obstructive pulmonary disease,Percent,2017,0.0400169956785,0.0466820621516,0.0341970482419
+Prevalence,United States,Female,45 to 49,Chronic obstructive pulmonary disease,Percent,2017,0.0496114197122,0.057305277467,0.0425828405041
+Prevalence,United States,Male,50 to 54,Chronic obstructive pulmonary disease,Percent,2017,0.0663964953162,0.0761074273655,0.0580383270777
+Prevalence,United States,Female,50 to 54,Chronic obstructive pulmonary disease,Percent,2017,0.0741616380859,0.0843592189909,0.0656617171835
+Prevalence,United States,Male,55 to 59,Chronic obstructive pulmonary disease,Percent,2017,0.0980246613103,0.111178065169,0.0863630417018
+Prevalence,United States,Female,55 to 59,Chronic obstructive pulmonary disease,Percent,2017,0.0943258608562,0.106986818461,0.0834103581316
+Prevalence,United States,Male,60 to 64,Chronic obstructive pulmonary disease,Percent,2017,0.139649745821,0.158901663494,0.122868310567
+Prevalence,United States,Female,60 to 64,Chronic obstructive pulmonary disease,Percent,2017,0.120664439832,0.136080869803,0.106212065652
+Prevalence,United States,Male,65 to 69,Chronic obstructive pulmonary disease,Percent,2017,0.201507105894,0.227559048387,0.177783687436
+Prevalence,United States,Female,65 to 69,Chronic obstructive pulmonary disease,Percent,2017,0.171425184447,0.193679451732,0.151528514093
+Prevalence,United States,Male,70 to 74,Chronic obstructive pulmonary disease,Percent,2017,0.272325040945,0.303055371878,0.244165990309
+Prevalence,United States,Female,70 to 74,Chronic obstructive pulmonary disease,Percent,2017,0.232086250647,0.257972034713,0.208641006017
+Prevalence,United States,Male,75 to 79,Chronic obstructive pulmonary disease,Percent,2017,0.327401298293,0.359811040629,0.295427496766
+Prevalence,United States,Female,75 to 79,Chronic obstructive pulmonary disease,Percent,2017,0.27221540196,0.301308444076,0.244729484189
+Prevalence,United States,Male,80 plus,Chronic obstructive pulmonary disease,Percent,2017,0.348507892409,0.38602977105,0.314019987676
+Prevalence,United States,Female,80 plus,Chronic obstructive pulmonary disease,Percent,2017,0.278984285606,0.310569213107,0.249723798502
+Prevalence,United States,Male,10 to 14,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,10 to 14,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,15 to 19,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,15 to 19,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,20 to 24,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,20 to 24,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,25 to 29,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,25 to 29,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,30 to 34,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,30 to 34,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,35 to 39,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,35 to 39,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,40 to 44,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,40 to 44,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,45 to 49,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,45 to 49,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,50 to 54,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,50 to 54,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,55 to 59,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,55 to 59,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,60 to 64,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,60 to 64,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,65 to 69,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,65 to 69,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,70 to 74,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,70 to 74,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,75 to 79,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,75 to 79,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,80 plus,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,80 plus,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,10 to 14,Injuries,Percent,2017,0.08368495392,0.0961167709158,0.0735494091214
+Prevalence,United States,Female,10 to 14,Injuries,Percent,2017,0.0772363083162,0.0884452635988,0.0674987452478
+Prevalence,United States,Male,15 to 19,Injuries,Percent,2017,0.126975030042,0.143043698539,0.113408960451
+Prevalence,United States,Female,15 to 19,Injuries,Percent,2017,0.125816880212,0.152378645049,0.104143206982
+Prevalence,United States,Male,20 to 24,Injuries,Percent,2017,0.175710511907,0.195967617559,0.159163046252
+Prevalence,United States,Female,20 to 24,Injuries,Percent,2017,0.142183436029,0.167074558315,0.121041263096
+Prevalence,United States,Male,25 to 29,Injuries,Percent,2017,0.216361209223,0.239178570941,0.198896320444
+Prevalence,United States,Female,25 to 29,Injuries,Percent,2017,0.140659492884,0.156835211876,0.127527597112
+Prevalence,United States,Male,30 to 34,Injuries,Percent,2017,0.267649367674,0.291829277518,0.248548881294
+Prevalence,United States,Female,30 to 34,Injuries,Percent,2017,0.162795312061,0.178763841935,0.150387216547
+Prevalence,United States,Male,35 to 39,Injuries,Percent,2017,0.311409916196,0.338854211698,0.290196248269
+Prevalence,United States,Female,35 to 39,Injuries,Percent,2017,0.187466636779,0.202398682429,0.173731613875
+Prevalence,United States,Male,40 to 44,Injuries,Percent,2017,0.351424835209,0.38176295849,0.328268840377
+Prevalence,United States,Female,40 to 44,Injuries,Percent,2017,0.216002102108,0.235547801945,0.20076708532
+Prevalence,United States,Male,45 to 49,Injuries,Percent,2017,0.396308412937,0.430784589105,0.369228299955
+Prevalence,United States,Female,45 to 49,Injuries,Percent,2017,0.25383729703,0.28141427314,0.235232701703
+Prevalence,United States,Male,50 to 54,Injuries,Percent,2017,0.443485379348,0.480915068314,0.416376777026
+Prevalence,United States,Female,50 to 54,Injuries,Percent,2017,0.30077211923,0.331356069922,0.278834195542
+Prevalence,United States,Male,55 to 59,Injuries,Percent,2017,0.492767194954,0.533958824277,0.461570395392
+Prevalence,United States,Female,55 to 59,Injuries,Percent,2017,0.355629269218,0.39165598927,0.326336924743
+Prevalence,United States,Male,60 to 64,Injuries,Percent,2017,0.539528672362,0.582217967155,0.505214858659
+Prevalence,United States,Female,60 to 64,Injuries,Percent,2017,0.40980917825,0.450863722806,0.373711849948
+Prevalence,United States,Male,65 to 69,Injuries,Percent,2017,0.587295686307,0.635167744232,0.546696155653
+Prevalence,United States,Female,65 to 69,Injuries,Percent,2017,0.471627167205,0.522248468084,0.428509843587
+Prevalence,United States,Male,70 to 74,Injuries,Percent,2017,0.633620350049,0.687224851471,0.58915961547
+Prevalence,United States,Female,70 to 74,Injuries,Percent,2017,0.531215233723,0.596471814001,0.483343494027
+Prevalence,United States,Male,75 to 79,Injuries,Percent,2017,0.688993749795,0.742299128915,0.641902641531
+Prevalence,United States,Female,75 to 79,Injuries,Percent,2017,0.60617778352,0.675922544084,0.550850957255
+Prevalence,United States,Male,80 plus,Injuries,Percent,2017,0.811639967014,0.866365101635,0.768234362541
+Prevalence,United States,Female,80 plus,Injuries,Percent,2017,0.762876384546,0.839164606045,0.706433168634
+Prevalence,United States,Male,10 to 14,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,10 to 14,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,15 to 19,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,15 to 19,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,20 to 24,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,20 to 24,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,25 to 29,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,25 to 29,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,30 to 34,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,30 to 34,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,35 to 39,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,35 to 39,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,40 to 44,Alzheimer's disease and other dementias,Percent,2017,0.00010489246257,0.000138847886929,7.57404435494e-05
+Prevalence,United States,Female,40 to 44,Alzheimer's disease and other dementias,Percent,2017,0.00012592822432,0.00016260033659,9.34405892239e-05
+Prevalence,United States,Male,45 to 49,Alzheimer's disease and other dementias,Percent,2017,0.000554373587917,0.000705390932234,0.00042711995518
+Prevalence,United States,Female,45 to 49,Alzheimer's disease and other dementias,Percent,2017,0.000651227090881,0.000817116361521,0.000512061519736
+Prevalence,United States,Male,50 to 54,Alzheimer's disease and other dementias,Percent,2017,0.000967695447597,0.00117731246774,0.000786684923943
+Prevalence,United States,Female,50 to 54,Alzheimer's disease and other dementias,Percent,2017,0.0010126064277,0.00122296941655,0.000838682938234
+Prevalence,United States,Male,55 to 59,Alzheimer's disease and other dementias,Percent,2017,0.00172123621028,0.00200258919708,0.00144776925316
+Prevalence,United States,Female,55 to 59,Alzheimer's disease and other dementias,Percent,2017,0.00160114569137,0.00187780881705,0.00136340380767
+Prevalence,United States,Male,60 to 64,Alzheimer's disease and other dementias,Percent,2017,0.00373230857582,0.00443595091536,0.0031449664943
+Prevalence,United States,Female,60 to 64,Alzheimer's disease and other dementias,Percent,2017,0.00336050190938,0.00397712239373,0.00283708020715
+Prevalence,United States,Male,65 to 69,Alzheimer's disease and other dementias,Percent,2017,0.00841849186363,0.00980652833251,0.00713809448079
+Prevalence,United States,Female,65 to 69,Alzheimer's disease and other dementias,Percent,2017,0.00797781151274,0.00934345223896,0.00673545780786
+Prevalence,United States,Male,70 to 74,Alzheimer's disease and other dementias,Percent,2017,0.0209786501562,0.0244989673219,0.0179231091908
+Prevalence,United States,Female,70 to 74,Alzheimer's disease and other dementias,Percent,2017,0.021369876694,0.024918145641,0.0180233823889
+Prevalence,United States,Male,75 to 79,Alzheimer's disease and other dementias,Percent,2017,0.0481021679312,0.0568813371329,0.0405293088744
+Prevalence,United States,Female,75 to 79,Alzheimer's disease and other dementias,Percent,2017,0.0523784991134,0.0615685243286,0.0440469822799
+Prevalence,United States,Male,80 plus,Alzheimer's disease and other dementias,Percent,2017,0.133696352253,0.151083113359,0.118225931657
+Prevalence,United States,Female,80 plus,Alzheimer's disease and other dementias,Percent,2017,0.17433643245,0.195518379972,0.155736619942
+Prevalence,United States,Male,10 to 14,Other malignant neoplasms,Percent,2017,0.000806172882277,0.0012552216353,0.000516980426509
+Prevalence,United States,Female,10 to 14,Other malignant neoplasms,Percent,2017,0.000763457452325,0.00109827965446,0.000533108928431
+Prevalence,United States,Male,15 to 19,Other malignant neoplasms,Percent,2017,0.000785611175564,0.00123164307282,0.0005202449004
+Prevalence,United States,Female,15 to 19,Other malignant neoplasms,Percent,2017,0.000783289527413,0.00116635387132,0.000538183134862
+Prevalence,United States,Male,20 to 24,Other malignant neoplasms,Percent,2017,0.000927801832452,0.00140424003696,0.000627968900695
+Prevalence,United States,Female,20 to 24,Other malignant neoplasms,Percent,2017,0.000964805200513,0.00141596230616,0.000657599983999
+Prevalence,United States,Male,25 to 29,Other malignant neoplasms,Percent,2017,0.00182679279674,0.00294606618862,0.00110974837341
+Prevalence,United States,Female,25 to 29,Other malignant neoplasms,Percent,2017,0.00156897502298,0.0022833836187,0.00106362905476
+Prevalence,United States,Male,30 to 34,Other malignant neoplasms,Percent,2017,0.00219538473408,0.00354642462499,0.00135444466853
+Prevalence,United States,Female,30 to 34,Other malignant neoplasms,Percent,2017,0.00189543333436,0.0029187994685,0.00127929218782
+Prevalence,United States,Male,35 to 39,Other malignant neoplasms,Percent,2017,0.00139268314494,0.00218234229868,0.000927410687123
+Prevalence,United States,Female,35 to 39,Other malignant neoplasms,Percent,2017,0.0014178395364,0.0020907384259,0.000982286740187
+Prevalence,United States,Male,40 to 44,Other malignant neoplasms,Percent,2017,0.0010040147713,0.00147348741652,0.000708926884465
+Prevalence,United States,Female,40 to 44,Other malignant neoplasms,Percent,2017,0.00128232989159,0.00180952682019,0.000919625880054
+Prevalence,United States,Male,45 to 49,Other malignant neoplasms,Percent,2017,0.000488433194063,0.00067303072411,0.000366684332706
+Prevalence,United States,Female,45 to 49,Other malignant neoplasms,Percent,2017,0.00101375049907,0.00144672866211,0.000735151672966
+Prevalence,United States,Male,50 to 54,Other malignant neoplasms,Percent,2017,0.0004015836974,0.000524043310368,0.000322957811323
+Prevalence,United States,Female,50 to 54,Other malignant neoplasms,Percent,2017,0.000585176420826,0.000784253923437,0.000442673074023
+Prevalence,United States,Male,55 to 59,Other malignant neoplasms,Percent,2017,0.000538115902066,0.000706744431405,0.000426414149335
+Prevalence,United States,Female,55 to 59,Other malignant neoplasms,Percent,2017,0.000607157780783,0.000829443235805,0.000466765799439
+Prevalence,United States,Male,60 to 64,Other malignant neoplasms,Percent,2017,0.000588082058239,0.000795130167561,0.000480385363305
+Prevalence,United States,Female,60 to 64,Other malignant neoplasms,Percent,2017,0.000814233434188,0.0010274710843,0.000646857696013
+Prevalence,United States,Male,65 to 69,Other malignant neoplasms,Percent,2017,0.000807408420878,0.00112948259049,0.000648415685801
+Prevalence,United States,Female,65 to 69,Other malignant neoplasms,Percent,2017,0.0010315489312,0.00131753027336,0.000820860846109
+Prevalence,United States,Male,70 to 74,Other malignant neoplasms,Percent,2017,0.00122670091852,0.00172035529533,0.000955523084274
+Prevalence,United States,Female,70 to 74,Other malignant neoplasms,Percent,2017,0.000881681354127,0.0011002314892,0.000726872602728
+Prevalence,United States,Male,75 to 79,Other malignant neoplasms,Percent,2017,0.00145358388295,0.00202064298098,0.00115583681176
+Prevalence,United States,Female,75 to 79,Other malignant neoplasms,Percent,2017,0.000971588368508,0.0012080546858,0.000803352951218
+Prevalence,United States,Male,80 plus,Other malignant neoplasms,Percent,2017,0.00173669662032,0.00228492692125,0.00138440478464
+Prevalence,United States,Female,80 plus,Other malignant neoplasms,Percent,2017,0.00105833693388,0.00129185416289,0.000888677867762
+Prevalence,United States,Male,10 to 14,Rheumatic heart disease,Percent,2017,4.96457507573e-05,6.36669823446e-05,3.98240368558e-05
+Prevalence,United States,Female,10 to 14,Rheumatic heart disease,Percent,2017,4.89796118375e-05,6.17412647196e-05,3.94828908211e-05
+Prevalence,United States,Male,15 to 19,Rheumatic heart disease,Percent,2017,4.81661464924e-05,6.0744075724e-05,3.80950019253e-05
+Prevalence,United States,Female,15 to 19,Rheumatic heart disease,Percent,2017,4.79965517032e-05,5.99160588517e-05,3.85412722085e-05
+Prevalence,United States,Male,20 to 24,Rheumatic heart disease,Percent,2017,4.48537895376e-05,5.58204345446e-05,3.52558920097e-05
+Prevalence,United States,Female,20 to 24,Rheumatic heart disease,Percent,2017,4.52348248923e-05,5.63907583052e-05,3.60489453472e-05
+Prevalence,United States,Male,25 to 29,Rheumatic heart disease,Percent,2017,4.0615607727e-05,5.13576602132e-05,3.25142075211e-05
+Prevalence,United States,Female,25 to 29,Rheumatic heart disease,Percent,2017,4.03293526832e-05,5.01452452508e-05,3.27484856959e-05
+Prevalence,United States,Male,30 to 34,Rheumatic heart disease,Percent,2017,3.70275199654e-05,4.867355562e-05,2.84982587567e-05
+Prevalence,United States,Female,30 to 34,Rheumatic heart disease,Percent,2017,3.54004206229e-05,4.59618107072e-05,2.77288541866e-05
+Prevalence,United States,Male,35 to 39,Rheumatic heart disease,Percent,2017,3.47883240956e-05,4.47199993598e-05,2.73967475444e-05
+Prevalence,United States,Female,35 to 39,Rheumatic heart disease,Percent,2017,3.28558982877e-05,4.15880406364e-05,2.62641205347e-05
+Prevalence,United States,Male,40 to 44,Rheumatic heart disease,Percent,2017,3.51119254021e-05,4.62186604852e-05,2.55044411035e-05
+Prevalence,United States,Female,40 to 44,Rheumatic heart disease,Percent,2017,3.40731368876e-05,4.46536813638e-05,2.48743850018e-05
+Prevalence,United States,Male,45 to 49,Rheumatic heart disease,Percent,2017,4.05052345013e-05,5.028185384e-05,3.1594399675e-05
+Prevalence,United States,Female,45 to 49,Rheumatic heart disease,Percent,2017,4.20768940957e-05,5.16928795417e-05,3.29972770222e-05
+Prevalence,United States,Male,50 to 54,Rheumatic heart disease,Percent,2017,5.0990582738e-05,6.35850441008e-05,3.89177698912e-05
+Prevalence,United States,Female,50 to 54,Rheumatic heart disease,Percent,2017,5.46949071709e-05,6.87536468977e-05,4.13503720458e-05
+Prevalence,United States,Male,55 to 59,Rheumatic heart disease,Percent,2017,7.32666906222e-05,8.82894096521e-05,6.03733405377e-05
+Prevalence,United States,Female,55 to 59,Rheumatic heart disease,Percent,2017,7.38553174158e-05,8.83746332354e-05,6.1022830774e-05
+Prevalence,United States,Male,60 to 64,Rheumatic heart disease,Percent,2017,0.000114490909475,0.00013923425295,9.43451542141e-05
+Prevalence,United States,Female,60 to 64,Rheumatic heart disease,Percent,2017,0.00010816848064,0.000130996712945,8.82973716847e-05
+Prevalence,United States,Male,65 to 69,Rheumatic heart disease,Percent,2017,0.000210753282854,0.000250731286223,0.000173470597098
+Prevalence,United States,Female,65 to 69,Rheumatic heart disease,Percent,2017,0.000189589801996,0.000222607551277,0.000157274887327
+Prevalence,United States,Male,70 to 74,Rheumatic heart disease,Percent,2017,0.000351959721813,0.000424485663885,0.000290869825008
+Prevalence,United States,Female,70 to 74,Rheumatic heart disease,Percent,2017,0.00030305345528,0.000362393979796,0.00024934122889
+Prevalence,United States,Male,75 to 79,Rheumatic heart disease,Percent,2017,0.000510214138952,0.000610069603139,0.000420922445551
+Prevalence,United States,Female,75 to 79,Rheumatic heart disease,Percent,2017,0.000432305004085,0.000507430344076,0.000361295183547
+Prevalence,United States,Male,80 plus,Rheumatic heart disease,Percent,2017,0.00075533846641,0.000882762709634,0.000639882749942
+Prevalence,United States,Female,80 plus,Rheumatic heart disease,Percent,2017,0.000585326025211,0.000680804836426,0.00050119641537
+Prevalence,United States,Male,10 to 14,Ischemic heart disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Female,10 to 14,Ischemic heart disease,Percent,2017,0.0,0.0,0.0
+Prevalence,United States,Male,15 to 19,Ischemic heart disease,Percent,2017,0.000146754057364,0.000177529383297,0.000118985286676
+Prevalence,United States,Female,15 to 19,Ischemic heart disease,Percent,2017,0.000116808326872,0.000140880114803,9.50876189803e-05
+Prevalence,United States,Male,20 to 24,Ischemic heart disease,Percent,2017,0.00041222897283,0.000472383885991,0.000357863820078
+Prevalence,United States,Female,20 to 24,Ischemic heart disease,Percent,2017,0.000332299513565,0.000381898556494,0.000285960586556
+Prevalence,United States,Male,25 to 29,Ischemic heart disease,Percent,2017,0.000915125763883,0.00104917894941,0.000796238661232
+Prevalence,United States,Female,25 to 29,Ischemic heart disease,Percent,2017,0.000662431118041,0.000743947517928,0.000590144657289
+Prevalence,United States,Male,30 to 34,Ischemic heart disease,Percent,2017,0.0021588817507,0.00247034552987,0.00188324717236
+Prevalence,United States,Female,30 to 34,Ischemic heart disease,Percent,2017,0.00133551595333,0.00152081431015,0.00118762227655
+Prevalence,United States,Male,35 to 39,Ischemic heart disease,Percent,2017,0.00525523887197,0.00611394500739,0.00453861293215
+Prevalence,United States,Female,35 to 39,Ischemic heart disease,Percent,2017,0.00279646067737,0.00320467716289,0.00247516425428
+Prevalence,United States,Male,40 to 44,Ischemic heart disease,Percent,2017,0.0112452023601,0.0130232353473,0.00970496482773
+Prevalence,United States,Female,40 to 44,Ischemic heart disease,Percent,2017,0.00558028567677,0.00640822618777,0.0049203184582
+Prevalence,United States,Male,45 to 49,Ischemic heart disease,Percent,2017,0.0209595899851,0.0241405765796,0.0183943482746
+Prevalence,United States,Female,45 to 49,Ischemic heart disease,Percent,2017,0.0100364169621,0.0114270451873,0.00892370323247
+Prevalence,United States,Male,50 to 54,Ischemic heart disease,Percent,2017,0.0358134652325,0.0425710708815,0.0308410657216
+Prevalence,United States,Female,50 to 54,Ischemic heart disease,Percent,2017,0.0167371533888,0.0194447698732,0.014648205312
+Prevalence,United States,Male,55 to 59,Ischemic heart disease,Percent,2017,0.0561468287411,0.0648500867395,0.0485107183868
+Prevalence,United States,Female,55 to 59,Ischemic heart disease,Percent,2017,0.0256977345557,0.0294782766802,0.0223769835868
+Prevalence,United States,Male,60 to 64,Ischemic heart disease,Percent,2017,0.0823645251565,0.0947929723381,0.0706892639815
+Prevalence,United States,Female,60 to 64,Ischemic heart disease,Percent,2017,0.0376674542143,0.0433209220127,0.0327227160615
+Prevalence,United States,Male,65 to 69,Ischemic heart disease,Percent,2017,0.123077801431,0.140285238809,0.106863593562
+Prevalence,United States,Female,65 to 69,Ischemic heart disease,Percent,2017,0.0586492906214,0.0670956057851,0.0509370355154
+Prevalence,United States,Male,70 to 74,Ischemic heart disease,Percent,2017,0.1600721353,0.18365581256,0.138253674583
+Prevalence,United States,Female,70 to 74,Ischemic heart disease,Percent,2017,0.0812948246503,0.0941100584794,0.0694967677658
+Prevalence,United States,Male,75 to 79,Ischemic heart disease,Percent,2017,0.199290997802,0.226342349099,0.172134745876
+Prevalence,United States,Female,75 to 79,Ischemic heart disease,Percent,2017,0.107999772917,0.123867163227,0.0918069552677
+Prevalence,United States,Male,80 plus,Ischemic heart disease,Percent,2017,0.224396098042,0.259862319385,0.191844776222
+Prevalence,United States,Female,80 plus,Ischemic heart disease,Percent,2017,0.133116097369,0.155622911947,0.112848623579
+Prevalence,Global,Male,10 to 14,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Female,10 to 14,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Male,15 to 19,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Female,15 to 19,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Male,20 to 24,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Female,20 to 24,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Male,25 to 29,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Female,25 to 29,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Male,30 to 34,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Female,30 to 34,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Male,35 to 39,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Female,35 to 39,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Male,40 to 44,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Female,40 to 44,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Male,45 to 49,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Female,45 to 49,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Male,50 to 54,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Female,50 to 54,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Male,55 to 59,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Female,55 to 59,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Male,60 to 64,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Female,60 to 64,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Male,65 to 69,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Female,65 to 69,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Male,70 to 74,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Female,70 to 74,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Male,75 to 79,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Female,75 to 79,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Male,80 plus,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Female,80 plus,All causes,Percent,2017,1.0,1.0,1.0
+Prevalence,Global,Male,10 to 14,Lower respiratory infections,Percent,2017,0.00204619885845,0.00264545832227,0.00152052377666
+Prevalence,Global,Female,10 to 14,Lower respiratory infections,Percent,2017,0.00187346922439,0.0024024827705,0.00139410932963
+Prevalence,Global,Male,15 to 19,Lower respiratory infections,Percent,2017,0.00176815078516,0.00208111459043,0.00148748558904
+Prevalence,Global,Female,15 to 19,Lower respiratory infections,Percent,2017,0.00171248660048,0.00200496260396,0.00145092345727
+Prevalence,Global,Male,20 to 24,Lower respiratory infections,Percent,2017,0.00149052406467,0.00182971948734,0.00118295897041
+Prevalence,Global,Female,20 to 24,Lower respiratory infections,Percent,2017,0.00149060806989,0.00182090240613,0.00118724456574
+Prevalence,Global,Male,25 to 29,Lower respiratory infections,Percent,2017,0.00124168171339,0.00145235187078,0.00103659952485
+Prevalence,Global,Female,25 to 29,Lower respiratory infections,Percent,2017,0.00120356028196,0.00141397291328,0.00100595915085
+Prevalence,Global,Male,30 to 34,Lower respiratory infections,Percent,2017,0.00108464213987,0.00122831947677,0.000952061252194
+Prevalence,Global,Female,30 to 34,Lower respiratory infections,Percent,2017,0.00101489719892,0.00114574116239,0.000890761359404
+Prevalence,Global,Male,35 to 39,Lower respiratory infections,Percent,2017,0.000955697557724,0.00110520126464,0.000813630658855
+Prevalence,Global,Female,35 to 39,Lower respiratory infections,Percent,2017,0.000851669399994,0.0009835617523,0.000725973420059
+Prevalence,Global,Male,40 to 44,Lower respiratory infections,Percent,2017,0.00084463593618,0.000998371476819,0.000711213674667
+Prevalence,Global,Female,40 to 44,Lower respiratory infections,Percent,2017,0.0007184692189,0.000853252808893,0.000596620224762
+Prevalence,Global,Male,45 to 49,Lower respiratory infections,Percent,2017,0.00081613630732,0.000929096598522,0.000717642212684
+Prevalence,Global,Female,45 to 49,Lower respiratory infections,Percent,2017,0.000683329650141,0.000781046172103,0.000599278433155
+Prevalence,Global,Male,50 to 54,Lower respiratory infections,Percent,2017,0.000812117911429,0.00091751034835,0.000715288704148
+Prevalence,Global,Female,50 to 54,Lower respiratory infections,Percent,2017,0.000666571014924,0.000752158312427,0.000588063413832
+Prevalence,Global,Male,55 to 59,Lower respiratory infections,Percent,2017,0.000883660778445,0.00101987232134,0.000748936775344
+Prevalence,Global,Female,55 to 59,Lower respiratory infections,Percent,2017,0.000705766771276,0.000814863540191,0.0005964762192
+Prevalence,Global,Male,60 to 64,Lower respiratory infections,Percent,2017,0.000918087016313,0.00105058715722,0.000786558661769
+Prevalence,Global,Female,60 to 64,Lower respiratory infections,Percent,2017,0.000730724454271,0.000844085642483,0.000623393660477
+Prevalence,Global,Male,65 to 69,Lower respiratory infections,Percent,2017,0.00107151547549,0.00118956938338,0.000963744793337
+Prevalence,Global,Female,65 to 69,Lower respiratory infections,Percent,2017,0.00084225347658,0.000937065422671,0.000757307055275
+Prevalence,Global,Male,70 to 74,Lower respiratory infections,Percent,2017,0.00120572010823,0.00135844605036,0.00106555231684
+Prevalence,Global,Female,70 to 74,Lower respiratory infections,Percent,2017,0.000954855378707,0.00107696619065,0.000846796015145
+Prevalence,Global,Male,75 to 79,Lower respiratory infections,Percent,2017,0.00135524726333,0.00155115108248,0.0011669146086
+Prevalence,Global,Female,75 to 79,Lower respiratory infections,Percent,2017,0.00105478633095,0.00121100883726,0.000909292496838
+Prevalence,Global,Male,80 plus,Lower respiratory infections,Percent,2017,0.00260570194079,0.00287753423936,0.00237145038189
+Prevalence,Global,Female,80 plus,Lower respiratory infections,Percent,2017,0.00194794996155,0.002142219098,0.00177302891504
+Prevalence,Global,Male,10 to 14,Upper respiratory infections,Percent,2017,0.0349133459367,0.0470817519442,0.0232294789319
+Prevalence,Global,Female,10 to 14,Upper respiratory infections,Percent,2017,0.0344838909232,0.0463749147392,0.0229001100097
+Prevalence,Global,Male,15 to 19,Upper respiratory infections,Percent,2017,0.0323921171274,0.0446852433858,0.0224599643229
+Prevalence,Global,Female,15 to 19,Upper respiratory infections,Percent,2017,0.0324897974439,0.0446150257406,0.0224845715277
+Prevalence,Global,Male,20 to 24,Upper respiratory infections,Percent,2017,0.0319960596129,0.0434174120146,0.0222114804694
+Prevalence,Global,Female,20 to 24,Upper respiratory infections,Percent,2017,0.0323459773201,0.0439160048677,0.0224298421779
+Prevalence,Global,Male,25 to 29,Upper respiratory infections,Percent,2017,0.0319471018438,0.0437464314352,0.0223291114068
+Prevalence,Global,Female,25 to 29,Upper respiratory infections,Percent,2017,0.0324113289939,0.0443123072071,0.0226340953517
+Prevalence,Global,Male,30 to 34,Upper respiratory infections,Percent,2017,0.0310512035874,0.0418119356894,0.0218327405204
+Prevalence,Global,Female,30 to 34,Upper respiratory infections,Percent,2017,0.0317436840724,0.0426073864581,0.0223290066138
+Prevalence,Global,Male,35 to 39,Upper respiratory infections,Percent,2017,0.030927670584,0.0426804416323,0.0221476728912
+Prevalence,Global,Female,35 to 39,Upper respiratory infections,Percent,2017,0.0317367796236,0.0437142928638,0.0226615631386
+Prevalence,Global,Male,40 to 44,Upper respiratory infections,Percent,2017,0.029728542887,0.0412686192427,0.0203012569137
+Prevalence,Global,Female,40 to 44,Upper respiratory infections,Percent,2017,0.0302639289655,0.042180291282,0.0205937278355
+Prevalence,Global,Male,45 to 49,Upper respiratory infections,Percent,2017,0.0278000989609,0.0403487525833,0.019092474663
+Prevalence,Global,Female,45 to 49,Upper respiratory infections,Percent,2017,0.0282279759209,0.0408950916712,0.0193872990242
+Prevalence,Global,Male,50 to 54,Upper respiratory infections,Percent,2017,0.0265809425593,0.0364582685348,0.0185682214154
+Prevalence,Global,Female,50 to 54,Upper respiratory infections,Percent,2017,0.0269587297499,0.036851483339,0.0187885826519
+Prevalence,Global,Male,55 to 59,Upper respiratory infections,Percent,2017,0.0257944327579,0.0358669545682,0.0178781004533
+Prevalence,Global,Female,55 to 59,Upper respiratory infections,Percent,2017,0.0259995752191,0.0360733477173,0.017986210705
+Prevalence,Global,Male,60 to 64,Upper respiratory infections,Percent,2017,0.0239071365615,0.0324836088575,0.0160343487996
+Prevalence,Global,Female,60 to 64,Upper respiratory infections,Percent,2017,0.0238641260625,0.0324216951159,0.0159357580537
+Prevalence,Global,Male,65 to 69,Upper respiratory infections,Percent,2017,0.0231950562568,0.0325715432546,0.0161114856414
+Prevalence,Global,Female,65 to 69,Upper respiratory infections,Percent,2017,0.0229278528292,0.0322911121242,0.0158983565717
+Prevalence,Global,Male,70 to 74,Upper respiratory infections,Percent,2017,0.0220341328773,0.0310240819473,0.0153730673813
+Prevalence,Global,Female,70 to 74,Upper respiratory infections,Percent,2017,0.021777764644,0.0308244922063,0.0152409049116
+Prevalence,Global,Male,75 to 79,Upper respiratory infections,Percent,2017,0.020290745919,0.0290301536652,0.0136289727416
+Prevalence,Global,Female,75 to 79,Upper respiratory infections,Percent,2017,0.0201199365329,0.0288325763132,0.0136565881967
+Prevalence,Global,Male,80 plus,Upper respiratory infections,Percent,2017,0.0200736865973,0.026007716514,0.0155420124491
+Prevalence,Global,Female,80 plus,Upper respiratory infections,Percent,2017,0.0195871191975,0.0252123196809,0.0152713188378
+Prevalence,Global,Male,20 to 24,Hypertensive heart disease,Percent,2017,6.32327299308e-05,8.96132899545e-05,4.34036738388e-05
+Prevalence,Global,Female,20 to 24,Hypertensive heart disease,Percent,2017,9.45120309986e-05,0.000131549277192,6.68582957843e-05
+Prevalence,Global,Male,25 to 29,Hypertensive heart disease,Percent,2017,0.000197562153293,0.00028004947816,0.000133739405761
+Prevalence,Global,Female,25 to 29,Hypertensive heart disease,Percent,2017,0.000294701599051,0.00041285465433,0.000204669176961
+Prevalence,Global,Male,30 to 34,Hypertensive heart disease,Percent,2017,0.000351748684541,0.000470401924518,0.000250870026835
+Prevalence,Global,Female,30 to 34,Hypertensive heart disease,Percent,2017,0.000492954884163,0.000649520916274,0.000353682653166
+Prevalence,Global,Male,35 to 39,Hypertensive heart disease,Percent,2017,0.000429953876112,0.000591122386699,0.00029131252296
+Prevalence,Global,Female,35 to 39,Hypertensive heart disease,Percent,2017,0.000546040482755,0.000735517488237,0.000377908051984
+Prevalence,Global,Male,40 to 44,Hypertensive heart disease,Percent,2017,0.000631291693124,0.000841862251085,0.000452531314154
+Prevalence,Global,Female,40 to 44,Hypertensive heart disease,Percent,2017,0.000777861395267,0.00103123354556,0.000560984503805
+Prevalence,Global,Male,45 to 49,Hypertensive heart disease,Percent,2017,0.00134261052666,0.00173741657897,0.0010278637212
+Prevalence,Global,Female,45 to 49,Hypertensive heart disease,Percent,2017,0.00177347411381,0.00224586775348,0.00138660630423
+Prevalence,Global,Male,50 to 54,Hypertensive heart disease,Percent,2017,0.00216486449351,0.00279588354312,0.0016139772047
+Prevalence,Global,Female,50 to 54,Hypertensive heart disease,Percent,2017,0.00295814060642,0.00372365589228,0.00227401582942
+Prevalence,Global,Male,55 to 59,Hypertensive heart disease,Percent,2017,0.00288306696719,0.00380037910675,0.00209602870602
+Prevalence,Global,Female,55 to 59,Hypertensive heart disease,Percent,2017,0.00390407659363,0.00503754620664,0.00289952385062
+Prevalence,Global,Male,60 to 64,Hypertensive heart disease,Percent,2017,0.00457043034879,0.00601878402005,0.00333566048009
+Prevalence,Global,Female,60 to 64,Hypertensive heart disease,Percent,2017,0.00634102814006,0.00818265975613,0.0047635201611
+Prevalence,Global,Male,65 to 69,Hypertensive heart disease,Percent,2017,0.00761956062656,0.00988029299447,0.00568082703805
+Prevalence,Global,Female,65 to 69,Hypertensive heart disease,Percent,2017,0.0113654998595,0.0143936702477,0.00876515782372
+Prevalence,Global,Male,70 to 74,Hypertensive heart disease,Percent,2017,0.0108870821644,0.0146178264426,0.00780486640907
+Prevalence,Global,Female,70 to 74,Hypertensive heart disease,Percent,2017,0.0169422573781,0.0220755137322,0.012534874748
+Prevalence,Global,Male,75 to 79,Hypertensive heart disease,Percent,2017,0.0145557672454,0.0196402066971,0.0105543468721
+Prevalence,Global,Female,75 to 79,Hypertensive heart disease,Percent,2017,0.0226425542795,0.0298995501884,0.0166420610864
+Prevalence,Global,Male,80 plus,Hypertensive heart disease,Percent,2017,0.0227186987657,0.0290057993651,0.0175999206146
+Prevalence,Global,Female,80 plus,Hypertensive heart disease,Percent,2017,0.0360659966461,0.0453617478102,0.0288290758344
+Prevalence,Global,Male,10 to 14,Chronic obstructive pulmonary disease,Percent,2017,0.00197516102968,0.00240086720717,0.00145647615292
+Prevalence,Global,Female,10 to 14,Chronic obstructive pulmonary disease,Percent,2017,0.00249992772376,0.00280154562203,0.0020771970646
+Prevalence,Global,Male,15 to 19,Chronic obstructive pulmonary disease,Percent,2017,0.00356421547058,0.00440469814862,0.0027815181095
+Prevalence,Global,Female,15 to 19,Chronic obstructive pulmonary disease,Percent,2017,0.00511903943884,0.0061367664257,0.00417468020556
+Prevalence,Global,Male,20 to 24,Chronic obstructive pulmonary disease,Percent,2017,0.00604784675225,0.00757838359176,0.00456640051455
+Prevalence,Global,Female,20 to 24,Chronic obstructive pulmonary disease,Percent,2017,0.00934247109029,0.0116631956111,0.00718106138804
+Prevalence,Global,Male,25 to 29,Chronic obstructive pulmonary disease,Percent,2017,0.0090633610068,0.0111606556977,0.0071541266373
+Prevalence,Global,Female,25 to 29,Chronic obstructive pulmonary disease,Percent,2017,0.0141419252309,0.017475884391,0.0113132567396
+Prevalence,Global,Male,30 to 34,Chronic obstructive pulmonary disease,Percent,2017,0.0128639311607,0.0158601509526,0.0103104407473
+Prevalence,Global,Female,30 to 34,Chronic obstructive pulmonary disease,Percent,2017,0.0188580495975,0.0231132814334,0.0153218090642
+Prevalence,Global,Male,35 to 39,Chronic obstructive pulmonary disease,Percent,2017,0.0184859879833,0.022126837115,0.0153227039804
+Prevalence,Global,Female,35 to 39,Chronic obstructive pulmonary disease,Percent,2017,0.024911460753,0.0297995297565,0.0209989156606
+Prevalence,Global,Male,40 to 44,Chronic obstructive pulmonary disease,Percent,2017,0.0273167483497,0.0327963172808,0.0226222969078
+Prevalence,Global,Female,40 to 44,Chronic obstructive pulmonary disease,Percent,2017,0.0343954250981,0.0408874899258,0.0285893690332
+Prevalence,Global,Male,45 to 49,Chronic obstructive pulmonary disease,Percent,2017,0.0406963162249,0.0488442739744,0.0342416875795
+Prevalence,Global,Female,45 to 49,Chronic obstructive pulmonary disease,Percent,2017,0.046954717596,0.055281093951,0.0397006519484
+Prevalence,Global,Male,50 to 54,Chronic obstructive pulmonary disease,Percent,2017,0.0604198282884,0.071632141075,0.0509742725499
+Prevalence,Global,Female,50 to 54,Chronic obstructive pulmonary disease,Percent,2017,0.063216696807,0.0747079219126,0.053864861298
+Prevalence,Global,Male,55 to 59,Chronic obstructive pulmonary disease,Percent,2017,0.0881263931337,0.103027783178,0.0744235923965
+Prevalence,Global,Female,55 to 59,Chronic obstructive pulmonary disease,Percent,2017,0.0853065856465,0.0997764309083,0.0721583325156
+Prevalence,Global,Male,60 to 64,Chronic obstructive pulmonary disease,Percent,2017,0.120825563781,0.141599169303,0.102154566081
+Prevalence,Global,Female,60 to 64,Chronic obstructive pulmonary disease,Percent,2017,0.112627589621,0.132714527371,0.0946759744419
+Prevalence,Global,Male,65 to 69,Chronic obstructive pulmonary disease,Percent,2017,0.160272332616,0.186098502745,0.13426226002
+Prevalence,Global,Female,65 to 69,Chronic obstructive pulmonary disease,Percent,2017,0.147618979033,0.171672325287,0.123567583388
+Prevalence,Global,Male,70 to 74,Chronic obstructive pulmonary disease,Percent,2017,0.20316085004,0.235671486974,0.173583090549
+Prevalence,Global,Female,70 to 74,Chronic obstructive pulmonary disease,Percent,2017,0.18545914561,0.21540641923,0.15810527749
+Prevalence,Global,Male,75 to 79,Chronic obstructive pulmonary disease,Percent,2017,0.239063119578,0.279757894034,0.205640774001
+Prevalence,Global,Female,75 to 79,Chronic obstructive pulmonary disease,Percent,2017,0.21977570931,0.257526235404,0.188983949998
+Prevalence,Global,Male,80 plus,Chronic obstructive pulmonary disease,Percent,2017,0.280025054432,0.324403070462,0.245367670789
+Prevalence,Global,Female,80 plus,Chronic obstructive pulmonary disease,Percent,2017,0.258590777286,0.298790202395,0.225344248793
+Prevalence,Global,Male,10 to 14,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Female,10 to 14,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Male,15 to 19,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Female,15 to 19,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Male,20 to 24,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Female,20 to 24,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Male,25 to 29,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Female,25 to 29,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Male,30 to 34,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Female,30 to 34,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Male,35 to 39,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Female,35 to 39,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Male,40 to 44,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Female,40 to 44,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Male,45 to 49,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Female,45 to 49,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Male,50 to 54,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Female,50 to 54,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Male,55 to 59,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Female,55 to 59,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Male,60 to 64,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Female,60 to 64,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Male,65 to 69,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Female,65 to 69,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Male,70 to 74,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Female,70 to 74,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Male,75 to 79,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Female,75 to 79,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Male,80 plus,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Female,80 plus,Other chronic respiratory diseases,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Male,10 to 14,Injuries,Percent,2017,0.0621560239443,0.0695523079074,0.0564269201393
+Prevalence,Global,Female,10 to 14,Injuries,Percent,2017,0.0683745693394,0.0778790585649,0.0600760443184
+Prevalence,Global,Male,15 to 19,Injuries,Percent,2017,0.0958558441073,0.106848278694,0.0868523548669
+Prevalence,Global,Female,15 to 19,Injuries,Percent,2017,0.112381317378,0.133449990231,0.0941887884738
+Prevalence,Global,Male,20 to 24,Injuries,Percent,2017,0.135291654448,0.149544764495,0.123654935529
+Prevalence,Global,Female,20 to 24,Injuries,Percent,2017,0.151371255575,0.177811641983,0.128521988162
+Prevalence,Global,Male,25 to 29,Injuries,Percent,2017,0.172024687265,0.187031183854,0.158471825158
+Prevalence,Global,Female,25 to 29,Injuries,Percent,2017,0.178570076754,0.207130045856,0.155743514353
+Prevalence,Global,Male,30 to 34,Injuries,Percent,2017,0.217136241449,0.234855829072,0.202392558722
+Prevalence,Global,Female,30 to 34,Injuries,Percent,2017,0.202202411138,0.233116181177,0.179542734853
+Prevalence,Global,Male,35 to 39,Injuries,Percent,2017,0.255633326927,0.273834705204,0.240003962767
+Prevalence,Global,Female,35 to 39,Injuries,Percent,2017,0.214394195345,0.239049268195,0.190454669033
+Prevalence,Global,Male,40 to 44,Injuries,Percent,2017,0.287109392743,0.308743860391,0.269791022138
+Prevalence,Global,Female,40 to 44,Injuries,Percent,2017,0.232493500069,0.260488355502,0.209010740368
+Prevalence,Global,Male,45 to 49,Injuries,Percent,2017,0.320210562807,0.343597468629,0.301940768671
+Prevalence,Global,Female,45 to 49,Injuries,Percent,2017,0.249774331315,0.2815908789,0.226216460412
+Prevalence,Global,Male,50 to 54,Injuries,Percent,2017,0.354745765384,0.37838045748,0.336174067607
+Prevalence,Global,Female,50 to 54,Injuries,Percent,2017,0.264309162157,0.290417788775,0.242800551296
+Prevalence,Global,Male,55 to 59,Injuries,Percent,2017,0.400465713297,0.426392446634,0.3810045515
+Prevalence,Global,Female,55 to 59,Injuries,Percent,2017,0.287121165122,0.308880903499,0.267823036914
+Prevalence,Global,Male,60 to 64,Injuries,Percent,2017,0.428636721588,0.453564467367,0.408254343667
+Prevalence,Global,Female,60 to 64,Injuries,Percent,2017,0.319443714477,0.343141320794,0.301460085456
+Prevalence,Global,Male,65 to 69,Injuries,Percent,2017,0.461244057344,0.487514802473,0.440170073849
+Prevalence,Global,Female,65 to 69,Injuries,Percent,2017,0.361806895194,0.388124951166,0.34002057684
+Prevalence,Global,Male,70 to 74,Injuries,Percent,2017,0.486212072744,0.516578300313,0.463044443097
+Prevalence,Global,Female,70 to 74,Injuries,Percent,2017,0.397992528021,0.431771167709,0.372777538107
+Prevalence,Global,Male,75 to 79,Injuries,Percent,2017,0.533670698181,0.563917166241,0.507903149957
+Prevalence,Global,Female,75 to 79,Injuries,Percent,2017,0.466843888268,0.504053553751,0.436519144033
+Prevalence,Global,Male,80 plus,Injuries,Percent,2017,0.628773690207,0.66207168998,0.602820417993
+Prevalence,Global,Female,80 plus,Injuries,Percent,2017,0.602815401824,0.64140161207,0.573127988413
+Prevalence,Global,Male,10 to 14,Other malignant neoplasms,Percent,2017,0.000444110105991,0.000733954167126,0.00031055289393
+Prevalence,Global,Female,10 to 14,Other malignant neoplasms,Percent,2017,0.000631546403819,0.00109572910523,0.000405534655421
+Prevalence,Global,Male,15 to 19,Other malignant neoplasms,Percent,2017,0.000331627471467,0.000522088065228,0.00023890166477
+Prevalence,Global,Female,15 to 19,Other malignant neoplasms,Percent,2017,0.000320331046269,0.000489536511033,0.000225478597306
+Prevalence,Global,Male,20 to 24,Other malignant neoplasms,Percent,2017,0.000318890389974,0.000469712687804,0.000232779431817
+Prevalence,Global,Female,20 to 24,Other malignant neoplasms,Percent,2017,0.000353400448846,0.000577343863327,0.000237956400873
+Prevalence,Global,Male,25 to 29,Other malignant neoplasms,Percent,2017,0.000778482430965,0.00129403261944,0.000525098298934
+Prevalence,Global,Female,25 to 29,Other malignant neoplasms,Percent,2017,0.000885137382845,0.00138539415093,0.000571378679282
+Prevalence,Global,Male,30 to 34,Other malignant neoplasms,Percent,2017,0.00125912476817,0.00207000724123,0.000814905946271
+Prevalence,Global,Female,30 to 34,Other malignant neoplasms,Percent,2017,0.00121515698981,0.0019851914573,0.000791763886753
+Prevalence,Global,Male,35 to 39,Other malignant neoplasms,Percent,2017,0.000888828851846,0.00138451451847,0.000621073668634
+Prevalence,Global,Female,35 to 39,Other malignant neoplasms,Percent,2017,0.000663658501971,0.000987919475237,0.000470065641338
+Prevalence,Global,Male,40 to 44,Other malignant neoplasms,Percent,2017,0.00112212900217,0.00173275750656,0.000754298070227
+Prevalence,Global,Female,40 to 44,Other malignant neoplasms,Percent,2017,0.000647674125686,0.000894745636153,0.00048994751349
+Prevalence,Global,Male,45 to 49,Other malignant neoplasms,Percent,2017,0.00120428751613,0.00174902965472,0.00088357419152
+Prevalence,Global,Female,45 to 49,Other malignant neoplasms,Percent,2017,0.0010156177926,0.00154810614705,0.000736452095862
+Prevalence,Global,Male,50 to 54,Other malignant neoplasms,Percent,2017,0.00126090670663,0.00180220350774,0.00095343132824
+Prevalence,Global,Female,50 to 54,Other malignant neoplasms,Percent,2017,0.000940806213108,0.00135111358974,0.00070147663456
+Prevalence,Global,Male,55 to 59,Other malignant neoplasms,Percent,2017,0.00146499658162,0.00195687050441,0.00115358079895
+Prevalence,Global,Female,55 to 59,Other malignant neoplasms,Percent,2017,0.000830722472902,0.00103842560785,0.000672637549923
+Prevalence,Global,Male,60 to 64,Other malignant neoplasms,Percent,2017,0.00268729117666,0.00385327826619,0.00197506137039
+Prevalence,Global,Female,60 to 64,Other malignant neoplasms,Percent,2017,0.00136480532128,0.00175396245733,0.00108339620588
+Prevalence,Global,Male,65 to 69,Other malignant neoplasms,Percent,2017,0.0032976045577,0.00461440755853,0.00234092670791
+Prevalence,Global,Female,65 to 69,Other malignant neoplasms,Percent,2017,0.00157846388876,0.00207059694255,0.00124462476643
+Prevalence,Global,Male,70 to 74,Other malignant neoplasms,Percent,2017,0.00403894760541,0.00621997981492,0.00292494533671
+Prevalence,Global,Female,70 to 74,Other malignant neoplasms,Percent,2017,0.00179986076895,0.00238283860408,0.00142700450599
+Prevalence,Global,Male,75 to 79,Other malignant neoplasms,Percent,2017,0.00478828251831,0.00792592334873,0.00332790224339
+Prevalence,Global,Female,75 to 79,Other malignant neoplasms,Percent,2017,0.00200115054048,0.00262750159929,0.00154723724926
+Prevalence,Global,Male,80 plus,Other malignant neoplasms,Percent,2017,0.0057430304971,0.0105604841382,0.0038280401311
+Prevalence,Global,Female,80 plus,Other malignant neoplasms,Percent,2017,0.00220540524395,0.00305526491134,0.00166227486173
+Prevalence,Global,Male,10 to 14,Rheumatic heart disease,Percent,2017,0.00374413029733,0.00394808481734,0.00353391034858
+Prevalence,Global,Female,10 to 14,Rheumatic heart disease,Percent,2017,0.0047252202681,0.00495276238734,0.00447940109312
+Prevalence,Global,Male,15 to 19,Rheumatic heart disease,Percent,2017,0.00501490201959,0.00522478182415,0.00479317570468
+Prevalence,Global,Female,15 to 19,Rheumatic heart disease,Percent,2017,0.00629023847595,0.00656457410725,0.00602316059607
+Prevalence,Global,Male,20 to 24,Rheumatic heart disease,Percent,2017,0.00596280153164,0.00620987109944,0.00571885080687
+Prevalence,Global,Female,20 to 24,Rheumatic heart disease,Percent,2017,0.0074699454461,0.00777143403215,0.00718254452353
+Prevalence,Global,Male,25 to 29,Rheumatic heart disease,Percent,2017,0.00655991937778,0.00682963154836,0.00629242758943
+Prevalence,Global,Female,25 to 29,Rheumatic heart disease,Percent,2017,0.00823451253776,0.00856257433124,0.00792380212602
+Prevalence,Global,Male,30 to 34,Rheumatic heart disease,Percent,2017,0.00693950427257,0.00722294211954,0.0066649035897
+Prevalence,Global,Female,30 to 34,Rheumatic heart disease,Percent,2017,0.0086350494882,0.00896615099864,0.00831837641227
+Prevalence,Global,Male,35 to 39,Rheumatic heart disease,Percent,2017,0.00702348079946,0.00730240986292,0.00675311081326
+Prevalence,Global,Female,35 to 39,Rheumatic heart disease,Percent,2017,0.00866455847746,0.00899130411038,0.00834559580379
+Prevalence,Global,Male,40 to 44,Rheumatic heart disease,Percent,2017,0.00695512825559,0.00723721192188,0.00669791771531
+Prevalence,Global,Female,40 to 44,Rheumatic heart disease,Percent,2017,0.0085312564173,0.00885049919886,0.00822887562694
+Prevalence,Global,Male,45 to 49,Rheumatic heart disease,Percent,2017,0.00649257740002,0.00675258208355,0.00625244866249
+Prevalence,Global,Female,45 to 49,Rheumatic heart disease,Percent,2017,0.00799756203945,0.00829549550408,0.00770786352502
+Prevalence,Global,Male,50 to 54,Rheumatic heart disease,Percent,2017,0.00572776807241,0.00595876222722,0.00551370122819
+Prevalence,Global,Female,50 to 54,Rheumatic heart disease,Percent,2017,0.00722642451191,0.00750654632029,0.0069683099193
+Prevalence,Global,Male,55 to 59,Rheumatic heart disease,Percent,2017,0.00460215336699,0.00478548195189,0.00442252377285
+Prevalence,Global,Female,55 to 59,Rheumatic heart disease,Percent,2017,0.00596602453423,0.006191159098,0.00575203051893
+Prevalence,Global,Male,60 to 64,Rheumatic heart disease,Percent,2017,0.00382561965589,0.00399387111058,0.00365920210473
+Prevalence,Global,Female,60 to 64,Rheumatic heart disease,Percent,2017,0.0051224537163,0.00532204141832,0.00492005134498
+Prevalence,Global,Male,65 to 69,Rheumatic heart disease,Percent,2017,0.00295606533696,0.00309288612538,0.00282823177689
+Prevalence,Global,Female,65 to 69,Rheumatic heart disease,Percent,2017,0.00407418672565,0.00424088848281,0.00390953068553
+Prevalence,Global,Male,70 to 74,Rheumatic heart disease,Percent,2017,0.00232370076243,0.00243551192332,0.00220673994415
+Prevalence,Global,Female,70 to 74,Rheumatic heart disease,Percent,2017,0.00326640099545,0.00341354706648,0.00311198018678
+Prevalence,Global,Male,75 to 79,Rheumatic heart disease,Percent,2017,0.00179146417917,0.00188561787801,0.00169339993488
+Prevalence,Global,Female,75 to 79,Rheumatic heart disease,Percent,2017,0.00250927885031,0.00262911134699,0.00238741759402
+Prevalence,Global,Male,80 plus,Rheumatic heart disease,Percent,2017,0.00120151340387,0.00127148387218,0.00113456186539
+Prevalence,Global,Female,80 plus,Rheumatic heart disease,Percent,2017,0.00158888297789,0.00167585296738,0.00150804331478
+Prevalence,Global,Male,10 to 14,Ischemic heart disease,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Female,10 to 14,Ischemic heart disease,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Male,15 to 19,Ischemic heart disease,Percent,2017,0.000140107070444,0.000170304403009,0.000111737867352
+Prevalence,Global,Female,15 to 19,Ischemic heart disease,Percent,2017,0.000153318695093,0.000182549422546,0.000125724416148
+Prevalence,Global,Male,20 to 24,Ischemic heart disease,Percent,2017,0.0005201950607,0.000591889247128,0.000452896694693
+Prevalence,Global,Female,20 to 24,Ischemic heart disease,Percent,2017,0.000506636385503,0.00057528157997,0.000438848100311
+Prevalence,Global,Male,25 to 29,Ischemic heart disease,Percent,2017,0.00123528067748,0.00134852343749,0.00112966159387
+Prevalence,Global,Female,25 to 29,Ischemic heart disease,Percent,2017,0.00103383929495,0.00112891641735,0.000940202527129
+Prevalence,Global,Male,30 to 34,Ischemic heart disease,Percent,2017,0.00260783825167,0.00285527117265,0.00237103461928
+Prevalence,Global,Female,30 to 34,Ischemic heart disease,Percent,2017,0.00200677441718,0.00220123689857,0.00181346885213
+Prevalence,Global,Male,35 to 39,Ischemic heart disease,Percent,2017,0.00571837473721,0.00624444042412,0.00520217524922
+Prevalence,Global,Female,35 to 39,Ischemic heart disease,Percent,2017,0.00403161414718,0.00444030351327,0.00362986539718
+Prevalence,Global,Male,40 to 44,Ischemic heart disease,Percent,2017,0.0117059225768,0.0127788339466,0.0106488089325
+Prevalence,Global,Female,40 to 44,Ischemic heart disease,Percent,2017,0.00817665657072,0.00897698076833,0.00736432649716
+Prevalence,Global,Male,45 to 49,Ischemic heart disease,Percent,2017,0.0189059053454,0.0206213815007,0.0174115501065
+Prevalence,Global,Female,45 to 49,Ischemic heart disease,Percent,2017,0.0135282010332,0.0148127378054,0.0123474210346
+Prevalence,Global,Male,50 to 54,Ischemic heart disease,Percent,2017,0.0281928303274,0.0312097123259,0.0255901071546
+Prevalence,Global,Female,50 to 54,Ischemic heart disease,Percent,2017,0.0202369349143,0.0225088224218,0.0182602206824
+Prevalence,Global,Male,55 to 59,Ischemic heart disease,Percent,2017,0.0424827709358,0.0467240975578,0.0387990278032
+Prevalence,Global,Female,55 to 59,Ischemic heart disease,Percent,2017,0.0296936172883,0.0327565548502,0.0270531365555
+Prevalence,Global,Male,60 to 64,Ischemic heart disease,Percent,2017,0.0588576263841,0.0647363092183,0.0531004412706
+Prevalence,Global,Female,60 to 64,Ischemic heart disease,Percent,2017,0.042511831581,0.0470262661166,0.0385512024904
+Prevalence,Global,Male,65 to 69,Ischemic heart disease,Percent,2017,0.0868418236091,0.0955829731091,0.0790304561387
+Prevalence,Global,Female,65 to 69,Ischemic heart disease,Percent,2017,0.0629877489345,0.0695433908661,0.0571938170734
+Prevalence,Global,Male,70 to 74,Ischemic heart disease,Percent,2017,0.115542761868,0.12832416213,0.102627592305
+Prevalence,Global,Female,70 to 74,Ischemic heart disease,Percent,2017,0.0855236535083,0.0951258024339,0.0759409708607
+Prevalence,Global,Male,75 to 79,Ischemic heart disease,Percent,2017,0.147509891538,0.163088903874,0.131478855019
+Prevalence,Global,Female,75 to 79,Ischemic heart disease,Percent,2017,0.113511307173,0.125661965043,0.101376123407
+Prevalence,Global,Male,80 plus,Ischemic heart disease,Percent,2017,0.167751545441,0.189543487667,0.148779319428
+Prevalence,Global,Female,80 plus,Ischemic heart disease,Percent,2017,0.130742928217,0.147192299457,0.115812282714
+Prevalence,Global,Male,10 to 14,Hypertensive heart disease,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Female,10 to 14,Hypertensive heart disease,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Male,15 to 19,Hypertensive heart disease,Percent,2017,7.03058665615e-07,1.22603471629e-06,3.36363337324e-07
+Prevalence,Global,Female,15 to 19,Hypertensive heart disease,Percent,2017,6.31553587488e-07,1.10290393017e-06,3.00380346068e-07
+Prevalence,Global,Male,10 to 14,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Female,10 to 14,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Male,15 to 19,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Female,15 to 19,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Male,20 to 24,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Female,20 to 24,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Male,25 to 29,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Female,25 to 29,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Male,30 to 34,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Female,30 to 34,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Male,35 to 39,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Female,35 to 39,Alzheimer's disease and other dementias,Percent,2017,0.0,0.0,0.0
+Prevalence,Global,Male,40 to 44,Alzheimer's disease and other dementias,Percent,2017,5.73862451254e-05,9.56639600762e-05,3.00767170695e-05
+Prevalence,Global,Female,40 to 44,Alzheimer's disease and other dementias,Percent,2017,6.1469028573e-05,0.000100504801927,3.2941820136e-05
+Prevalence,Global,Male,45 to 49,Alzheimer's disease and other dementias,Percent,2017,0.00042174026372,0.000618363753289,0.000282867585705
+Prevalence,Global,Female,45 to 49,Alzheimer's disease and other dementias,Percent,2017,0.000450646507481,0.000656963527203,0.000304191862966
+Prevalence,Global,Male,50 to 54,Alzheimer's disease and other dementias,Percent,2017,0.00127159927302,0.00170545473664,0.00091678162127
+Prevalence,Global,Female,50 to 54,Alzheimer's disease and other dementias,Percent,2017,0.00135315838379,0.00179908417082,0.00098470383843
+Prevalence,Global,Male,55 to 59,Alzheimer's disease and other dementias,Percent,2017,0.00289470956766,0.00362044893099,0.00223738928178
+Prevalence,Global,Female,55 to 59,Alzheimer's disease and other dementias,Percent,2017,0.00309856610546,0.00388369574134,0.00241905040644
+Prevalence,Global,Male,60 to 64,Alzheimer's disease and other dementias,Percent,2017,0.00682478479708,0.00867792095892,0.00544756111992
+Prevalence,Global,Female,60 to 64,Alzheimer's disease and other dementias,Percent,2017,0.00747126528576,0.00950804884192,0.00596894090304
+Prevalence,Global,Male,65 to 69,Alzheimer's disease and other dementias,Percent,2017,0.014392724934,0.017701741222,0.0116142338971
+Prevalence,Global,Female,65 to 69,Alzheimer's disease and other dementias,Percent,2017,0.0159524549084,0.0195571314172,0.0128572771461
+Prevalence,Global,Male,70 to 74,Alzheimer's disease and other dementias,Percent,2017,0.0294866853404,0.0358041516862,0.0239804321427
+Prevalence,Global,Female,70 to 74,Alzheimer's disease and other dementias,Percent,2017,0.0332859734449,0.0404196142199,0.0270612617595
+Prevalence,Global,Male,75 to 79,Alzheimer's disease and other dementias,Percent,2017,0.0597812871003,0.0738276030835,0.0478276491938
+Prevalence,Global,Female,75 to 79,Alzheimer's disease and other dementias,Percent,2017,0.0688405585125,0.0848411683399,0.0551252066781
+Prevalence,Global,Male,80 plus,Alzheimer's disease and other dementias,Percent,2017,0.14687146508,0.1719469833,0.123908413528
+Prevalence,Global,Female,80 plus,Alzheimer's disease and other dementias,Percent,2017,0.185366011367,0.215830923757,0.15822392545
